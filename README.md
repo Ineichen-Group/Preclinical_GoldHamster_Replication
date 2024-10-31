@@ -7,6 +7,10 @@ We used the EDirect package, which includes several commands that use the E-util
 sh -c "$(curl -fsSL https://ftp.ncbi.nlm.nih.gov/entrez/entrezdirect/install-edirect.sh)"
 ```
 
+Note:  For best performance, obtain an API Key from NCBI, and place the following line in your .bash_profile and .zshrc configuration files (follow https://support.nlm.nih.gov/kbArticle/?pn=KA-05317):
+```
+  export NCBI_API_KEY=unique_api_key
+```
 1. To obtain the initial set of relevant PMIDs, the database was queried using a generic search string related to CNS and Psychiatric conditions, as follows:
 
 ```
