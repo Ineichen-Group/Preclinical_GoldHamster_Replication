@@ -30,7 +30,7 @@ OUTPUT_FILE="$OUTPUT_DIR/pmid_contents_chunk_${SLURM_ARRAY_TASK_ID}.txt"
 # Fetch data and save to OUTPUT_FILE
 echo "Processing $CHUNK_FILE..."
 efetch -db pubmed -id "$id_list" -format xml | \
-    xtract -pattern PubmedArticle -tab '^' -def "N/A" \
+    xtract -pattern PubmedArticle -tab '^!^' -def "N/A" \
     -element MedlineCitation/PMID PubDate/Year Journal/Title ArticleTitle AbstractText \
     -block ArticleId -if ArticleId@IdType -equals doi -element ArticleId \
     > "$OUTPUT_FILE"
