@@ -128,7 +128,7 @@ def predict_on_unlabeled_data(model_name, model_path, new_data_ids, new_data_tex
                 arr_pred = predictions[label][idx]
                 if arr_pred[1] > arr_pred[0]:  # Threshold can be adjusted
                     predicted_labels.append(label)
-            writer.write(f"Text {pmid}:\t" + ",".join(predicted_labels) + "\n")
+            writer.write(f"{pmid}\t" + ",".join(predicted_labels) + "\n")
     print(f"Predictions saved to {out_file}")
     
 def read_pubmed_chunk(file_path, headers):
