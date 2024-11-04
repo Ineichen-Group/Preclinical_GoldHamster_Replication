@@ -193,6 +193,22 @@ def prepare_dataset(data, tokenizer, max_length):
 
 
 #######################################
+### ------- For training on the full dataset ------- ###
+def combine_datasets(docs_dir, train_dev_test_dir, filenames):
+    combined_data = pd.DataFrame()
+    combined_skipped = []
+    for filename in filenames:
+        data, _, skipped = pre_process_data(
+            docs_dir, train_dev_test_dir, filename
+        )
+        combined_data = pd.concat([combined_data, data], ignore_index=True)
+        combined_skipped.extend(skipped)
+    # Drop duplicates from the combined data
+    combined_data = combined_data.drop_duplicates()
+    print(f"Combined dataset size: {combined_data.shape}")
+    return combined_data, combined_skipped
+
+
 ### ------- Train the model ------- ###
 def train_model(
     model_name,
@@ -205,90 +221,104 @@ def train_model(
     batch_size,
     epochs,
 ):
-
-    # Prepare datasets
+    # Prepare training dataset
     train_dataset = prepare_dataset(data_train, tokenizer, max_length)
-    dev_dataset = prepare_dataset(data_dev, tokenizer, max_length)
-    # Prepare DataLoaders
     train_loader = DataLoader(train_dataset, batch_size=batch_size, shuffle=True)
-    dev_loader = DataLoader(dev_dataset, batch_size=batch_size)
-    # Set up optimizer
+
+    # Prepare dev dataset if provided
+    if data_dev is not None:
+        dev_dataset = prepare_dataset(data_dev, tokenizer, max_length)
+        dev_loader = DataLoader(dev_dataset, batch_size=batch_size)
+
+    # Set up optimizer and loss functions
     optimizer = optim.Adam(model.parameters(), lr=learning_rate)
-    # Set up loss functions
-    loss_fns = {}
-    for label in all_labels:
-        loss_fns[label] = nn.CrossEntropyLoss()
+    loss_fns = {label: nn.CrossEntropyLoss() for label in all_labels}
+
     # Training loop
     model.train()
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     model.to(device)
+
     for epoch in range(epochs):
         print(f'Epoch {epoch+1}/{epochs}')
         total_loss = 0
         total_correct = {label: 0 for label in all_labels}
         total_examples = 0
+
         for batch in train_loader:
             optimizer.zero_grad()
             input_ids = batch['input_ids'].to(device)
             attention_mask = batch['attention_mask'].to(device)
             labels = {label: batch['labels'][label].to(device) for label in all_labels}
+
             outputs = model(input_ids=input_ids, attention_mask=attention_mask)
-            losses = []
-            for label in all_labels:
-                loss = loss_fns[label](outputs[label], labels[label])
-                losses.append(loss)
+            losses = [loss_fns[label](outputs[label], labels[label]) for label in all_labels]
             loss = sum(losses)
             loss.backward()
             optimizer.step()
+
             total_loss += loss.item() * input_ids.size(0)
             total_examples += input_ids.size(0)
+
             # Compute accuracy
             with torch.no_grad():
                 for label in all_labels:
                     preds = torch.argmax(outputs[label], dim=1)
                     correct = (preds == labels[label]).sum().item()
                     total_correct[label] += correct
+
         avg_loss = total_loss / total_examples
         print(f'Average training loss: {avg_loss}')
         for label in all_labels:
             acc = total_correct[label] / total_examples
             print(f'Training accuracy for {label}: {acc}')
-        # Optionally, evaluate on validation set
+
     # Save the model
-    model_name_clean = model_name.split("/")[1]
+    model_name_clean = model_name.split("/")[1] + f"_{len(data_train)}"
     print("Saving model to " + model_name_clean + "_model.pt")
     torch.save(model.state_dict(), model_name_clean + "_model.pt")
+
 
 
 ####################################
 ### ----- Train the model ------ ###
 def train_bert_goldhamster2(
-    model_name, docs_dir, train_dev_test_dir, train_file, dev_file, epochs, batch_size
+    model_name, docs_dir, train_dev_test_dir, train_file, train_on_full_ds=False, dev_file=None, epochs=5, batch_size=16
 ):
-    # import data
-    data_train, tsv_file_train, skipped_train = pre_process_data(
+    # Import data
+    if train_on_full_ds:
+        data_train, skipped_train = combine_datasets(
         docs_dir, train_dev_test_dir, train_file
     )
-    data_dev, tsv_file_dev, skipped_dev = pre_process_data(
-        docs_dir, train_dev_test_dir, dev_file
-    )
-    # set up model
+    else:
+        data_train, tsv_file_train, skipped_train = pre_process_data(
+            docs_dir, train_dev_test_dir, train_file
+        )
+    if dev_file:
+        data_dev, tsv_file_dev, skipped_dev = pre_process_data(
+            docs_dir, train_dev_test_dir, dev_file
+        )
+    else:
+        data_dev = None  # No dev data
+
+    # Set up model
     transformer_model, config, max_length, tokenizer = setup_bert(model_name)
-    # build model
+    # Build model
     model = build_model(transformer_model, config, data_train)
     print("Training model " + model_name)
-    # train model
+    # Train model
     train_model(
         model_name,
         model,
         data_train,
-        data_dev,
+        data_dev,  # This can be None
         max_length,
         tokenizer,
         learning_rate,
         batch_size,
         epochs,
     )
+
 
 
 ###########################################
@@ -403,74 +433,6 @@ def train_one_experiment(
         "test" + str(split) + ".txt",
         model_name_clean + "_preds_" + str(split) + "_" + name + ".txt",
     )
-    
-class UnlabeledDataset(torch.utils.data.Dataset):
-    def __init__(self, texts, tokenizer, max_length):
-        self.texts = texts
-        self.tokenizer = tokenizer
-        self.max_length = max_length
-
-    def __getitem__(self, idx):
-        text = self.texts[idx]
-        # Tokenize
-        encoding = self.tokenizer.encode_plus(
-            text,
-            add_special_tokens=True,
-            max_length=self.max_length,
-            truncation=True,
-            padding='max_length',
-            return_tensors='pt',
-            return_attention_mask=True,
-        )
-        item = {
-            'input_ids': encoding['input_ids'].squeeze(0),  # remove batch dimension
-            'attention_mask': encoding['attention_mask'].squeeze(0),
-        }
-        return item
-
-    def __len__(self):
-        return len(self.texts)
-
-# Adjusted build_model function for inference
-def build_model_for_inference(transformer_model, config):
-    num_labels_dict = {label: 2 for label in all_labels}  # Assuming binary classification
-    model = BERTMultiLabelMultiClass(transformer_model, config, num_labels_dict)
-    return model
-
-# New function to perform inference on unlabeled data
-def predict_on_unlabeled_data(model_name, model_path, new_data_texts, out_file):
-    # Load model components
-    transformer_model, config, max_length, tokenizer = setup_bert(model_name)
-    # Build the model for inference
-    model = build_model_for_inference(transformer_model, config)
-    # Load the trained model weights
-    model.load_state_dict(torch.load(model_path))
-    model.eval()
-    # Prepare dataset and dataloader
-    test_dataset = UnlabeledDataset(new_data_texts, tokenizer, max_length)
-    test_loader = DataLoader(test_dataset, batch_size=32)
-    # Run predictions
-    device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-    model.to(device)
-    predictions = {label: [] for label in all_labels}
-    with torch.no_grad():
-        for batch in test_loader:
-            input_ids = batch['input_ids'].to(device)
-            attention_mask = batch['attention_mask'].to(device)
-            outputs = model(input_ids=input_ids, attention_mask=attention_mask)
-            for label in all_labels:
-                preds = F.softmax(outputs[label], dim=1)  # get probabilities
-                predictions[label].extend(preds.cpu().numpy())
-    # Process and save predictions
-    with open(out_file, "w") as writer:
-        for idx, text in enumerate(new_data_texts):
-            predicted_labels = []
-            for label in all_labels:
-                arr_pred = predictions[label][idx]
-                if arr_pred[1] > arr_pred[0]:  # Threshold can be adjusted
-                    predicted_labels.append(label)
-            writer.write(f"Text {idx}:\t" + ",".join(predicted_labels) + "\n")
-    print(f"Predictions saved to {out_file}")
 
 def main():
     best_split = 1
@@ -539,6 +501,24 @@ def main():
             "test" + str(best_split) + ".txt",
             model_name_clean + "_preds_" + str(best_split) + ".txt",
         )
+    elif experiment_type == "full_dataset":
+        print("Training on the full dataset...")
+        all_files = [f'train{split}.txt' for split in range(10)] + \
+            [f'dev{split}.txt' for split in range(10)] + \
+            [f'test{split}.txt' for split in range(10)]
+
+        # Train the model on the full dataset
+        train_bert_goldhamster2(
+            model_name,
+            docs_dir,
+            train_dev_test_dir,
+            train_file=all_files,
+            train_on_full_ds=True,
+            dev_file=None,
+            epochs=epochs,
+            batch_size=batch_size
+        )
+
     else:
         print("Running all CV trainings...")
         train_cross_validation(
