@@ -91,7 +91,7 @@ class UnlabeledDataset(torch.utils.data.Dataset):
 
 # Adjusted build_model function for inference
 def build_model_for_inference(transformer_model, config):
-    num_labels_dict = {label: 2 for label in all_labels}  # Assuming binary classification
+    num_labels_dict = {label: 2 for label in all_labels}  # Assuming binary classification TODO: should be dataset dependent?
     model = BERTMultiLabelMultiClass(transformer_model, config, num_labels_dict)
     return model
 
@@ -177,6 +177,12 @@ def main():
         default="./model_predictions/neuro_pubmed",
         help="Directory path where prediction outputs will be saved."
     )
+    parser.add_argument(
+        "--output_file",
+        type=str,
+        default=None,
+        help="File name to save predictions, e.g. ./model_predictions/neuro_pubmed/predictions_chunk_0.txt."
+    )
 
     args = parser.parse_args()
    
@@ -189,8 +195,10 @@ def main():
     new_data_ids, new_data_texts = read_pubmed_chunk(input_file_path, headers)
     
     outputs_data_path = args.output_dir
-    file_ending = input_file_path.split("_")[-1]
-    out_file = f"{outputs_data_path}/{model_name_clean}_pred_pubmed_chunk_{file_ending}"
+    out_file = args.output_file
+    if not out_file:
+        file_ending = input_file_path.split("_")[-1]
+        out_file = f"{outputs_data_path}/{model_name_clean}_pred_pubmed_chunk_{file_ending}"
     predict_on_unlabeled_data(model_name, model_path, new_data_ids, new_data_texts, out_file)
 
 if __name__ == "__main__":

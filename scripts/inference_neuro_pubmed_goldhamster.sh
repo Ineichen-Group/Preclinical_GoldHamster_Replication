@@ -1,7 +1,7 @@
 #!/bin/bash
 #SBATCH --job-name=preclin_goldhamster
 #SBATCH --gpus=1
-#SBATCH --time=01:30:00
+#SBATCH --time=00:30:00
 #SBATCH --mem-per-gpu=32G   # Request 32 GB of memory per GPU
 #SBATCH --output=inference_output_%j.log  # Save stdout to file
 #SBATCH --error=inference_error_%j.log    # Save stderr to file
@@ -34,4 +34,4 @@ end_time=$(date +%s)
 duration=$(( (end_time - start_time) / 60 ))
 
 # Inform the user that the training process has finished and display the elapsed time
-echo "Training complete. Duration: $duration minutes."
+echo "Inference complete. Duration: $duration minutes."
