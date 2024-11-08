@@ -1,0 +1,4304 @@
+Text 20015965:	in_silico
+Text 20015984:	human
+Text 20016003:	other
+Text 20016033:	in_vivo
+Text 20016092:	human
+Text 20016097:	
+Text 20016100:	in_vivo
+Text 20016182:	other,human
+Text 20016183:	human
+Text 20016184:	
+Text 20016185:	human
+Text 20016186:	other
+Text 20016206:	organs
+Text 20016216:	other
+Text 20016217:	
+Text 20016218:	other
+Text 20016220:	other
+Text 20016223:	human
+Text 20016224:	other,human
+Text 20016225:	human
+Text 20016226:	human
+Text 20016238:	human
+Text 20016359:	human
+Text 20016360:	other
+Text 20016378:	other
+Text 20016383:	other
+Text 20016386:	other
+Text 20016390:	other
+Text 20016401:	other
+Text 20016433:	
+Text 20016437:	other
+Text 20016438:	human
+Text 20016453:	human
+Text 20016455:	human
+Text 20016496:	other
+Text 20016521:	human
+Text 20016525:	human
+Text 20016529:	other
+Text 20016651:	in_vivo
+Text 20016818:	other
+Text 20016833:	invertebrate
+Text 20016856:	
+Text 20016857:	
+Text 20016868:	other
+Text 20016894:	other
+Text 20016895:	human
+Text 20016908:	other
+Text 20016915:	other
+Text 20016918:	human
+Text 20016936:	other,human
+Text 20016963:	other
+Text 20016990:	
+Text 20017038:	other
+Text 20017039:	other
+Text 20017066:	
+Text 20017069:	other
+Text 20017101:	in_vivo
+Text 20017110:	
+Text 20017134:	human
+Text 20017226:	other
+Text 20017258:	other
+Text 20017411:	human
+Text 20017461:	
+Text 20017491:	in_silico,in_vivo,immortal_cell_line
+Text 20017612:	other
+Text 20017628:	human
+Text 20017681:	human
+Text 20017695:	in_vivo,primary_cells
+Text 20017719:	in_silico,in_vivo
+Text 20017726:	in_vivo
+Text 20017727:	
+Text 20017729:	in_vivo
+Text 20017730:	
+Text 20017748:	
+Text 20017749:	
+Text 20017750:	other
+Text 20017769:	in_vivo
+Text 20017770:	in_vivo
+Text 20017934:	organs
+Text 20017935:	human
+Text 20017937:	human
+Text 20017938:	
+Text 20017939:	human
+Text 20017960:	
+Text 20018097:	
+Text 20018121:	other
+Text 20018124:	human
+Text 20018125:	human
+Text 20018126:	other
+Text 20018139:	other,human
+Text 20018140:	human
+Text 20018141:	other
+Text 20018143:	human
+Text 20018160:	other
+Text 20018179:	in_vivo
+Text 20018197:	
+Text 20018198:	
+Text 20018199:	human
+Text 20018200:	human
+Text 20018220:	in_vivo
+Text 20018225:	human
+Text 20018229:	human
+Text 20018232:	in_vivo
+Text 20018236:	human
+Text 20018244:	in_vivo
+Text 20018271:	in_vivo
+Text 20018275:	
+Text 20018302:	in_vivo
+Text 20018319:	other
+Text 20018381:	human
+Text 20018407:	other,human
+Text 20018409:	human
+Text 20018430:	human
+Text 20018435:	in_vivo
+Text 20018455:	in_vivo
+Text 20018459:	in_silico
+Text 20018468:	human
+Text 20018469:	human
+Text 20018470:	other
+Text 20018476:	
+Text 20018481:	human
+Text 20018491:	organs,in_vivo
+Text 20018493:	human
+Text 20018500:	other
+Text 20018529:	human
+Text 20018533:	other
+Text 20018536:	human
+Text 20018546:	in_silico
+Text 20018549:	other
+Text 20018574:	other
+Text 20018583:	human
+Text 20018608:	other
+Text 20018636:	human
+Text 20018637:	other
+Text 20018639:	other
+Text 20018682:	other
+Text 20018729:	in_vivo
+Text 20018798:	other
+Text 20018827:	other
+Text 20018835:	in_vivo
+Text 20018839:	human
+Text 20018920:	human
+Text 20018932:	
+Text 20018935:	human
+Text 20018946:	
+Text 20018947:	other
+Text 20018994:	other
+Text 20018995:	other
+Text 20018997:	other
+Text 20018998:	other
+Text 20018999:	other
+Text 20019001:	other
+Text 20019003:	other
+Text 20019004:	other
+Text 20019026:	other
+Text 20019068:	human
+Text 20019070:	human
+Text 20019071:	other
+Text 20019097:	human
+Text 20019100:	human
+Text 20019101:	human
+Text 20019107:	other
+Text 20019108:	other
+Text 20019111:	in_vivo
+Text 20019112:	in_vivo
+Text 20019113:	other
+Text 20019118:	human
+Text 20019128:	other
+Text 20019145:	human
+Text 20019146:	human
+Text 20019176:	other
+Text 20019185:	human
+Text 20019187:	human,in_vivo
+Text 20019219:	other
+Text 20019222:	other
+Text 20019223:	other
+Text 20019227:	human
+Text 20019228:	other
+Text 20019229:	other
+Text 20019231:	other
+Text 20019232:	human
+Text 20019243:	
+Text 20019304:	other
+Text 20019320:	other
+Text 20019325:	other
+Text 20019326:	in_vivo
+Text 20019327:	in_vivo
+Text 20019333:	in_vivo,primary_cells
+Text 20019334:	in_vivo
+Text 20019351:	other
+Text 20019367:	in_silico
+Text 20019380:	
+Text 20019381:	other
+Text 20019383:	human
+Text 20019395:	other
+Text 20019405:	in_silico
+Text 20019513:	other
+Text 20019582:	human
+Text 20019587:	
+Text 20019606:	other
+Text 20019610:	human
+Text 20019621:	human
+Text 20019630:	other
+Text 20019655:	other
+Text 20019675:	other
+Text 20019694:	
+Text 20019751:	
+Text 20019761:	other
+Text 20019800:	in_silico,human
+Text 20019802:	in_vivo
+Text 20019837:	human,in_vivo
+Text 20019913:	
+Text 20020047:	
+Text 20020109:	in_vivo
+Text 20020114:	human
+Text 20020115:	other
+Text 20020117:	other
+Text 20020131:	human
+Text 20020164:	
+Text 20020170:	other
+Text 20020179:	human
+Text 20020188:	other
+Text 20020194:	other
+Text 20020242:	
+Text 20020306:	other,human
+Text 20020319:	human
+Text 20020329:	in_vivo
+Text 20020376:	other
+Text 20020394:	other
+Text 20020395:	other
+Text 20020396:	other
+Text 20020397:	
+Text 20020398:	other
+Text 20020400:	other
+Text 20020402:	human
+Text 20020403:	other
+Text 20020424:	other
+Text 20020443:	
+Text 20020518:	human
+Text 20020521:	other
+Text 20020537:	other
+Text 20020562:	other
+Text 20020580:	other
+Text 20020710:	in_vivo
+Text 20020787:	other
+Text 20020797:	
+Text 20020798:	
+Text 20020799:	other
+Text 20020800:	other
+Text 20020821:	human
+Text 20020841:	other
+Text 20020842:	other
+Text 20020844:	in_silico
+Text 20021213:	in_silico
+Text 20021241:	other
+Text 20021271:	human
+Text 20021274:	other
+Text 20021294:	other
+Text 20021295:	other
+Text 20021317:	other
+Text 20021318:	other
+Text 20021319:	human
+Text 20021320:	
+Text 20021321:	human
+Text 20021333:	
+Text 20021334:	
+Text 20021336:	
+Text 20021337:	in_vivo
+Text 20021338:	
+Text 20021339:	
+Text 20021341:	
+Text 20021342:	in_vivo
+Text 20021343:	
+Text 20021346:	
+Text 20021347:	
+Text 20021353:	human
+Text 20021359:	in_vivo
+Text 20021360:	in_vivo
+Text 20021361:	
+Text 20021364:	human
+Text 20021365:	
+Text 20021370:	human
+Text 20021371:	other
+Text 20021380:	in_vivo
+Text 20021381:	other
+Text 20021382:	other
+Text 20021383:	human
+Text 20021389:	in_vivo
+Text 20021390:	human
+Text 20021392:	in_vivo
+Text 20021398:	
+Text 20021414:	other
+Text 20021415:	in_vivo
+Text 20021439:	other
+Text 20021447:	in_vivo
+Text 20021448:	human
+Text 20021449:	
+Text 20021459:	in_vivo
+Text 20021460:	
+Text 20021464:	human
+Text 20021485:	other
+Text 20021521:	other
+Text 20021579:	human
+Text 20021601:	human
+Text 20021603:	other
+Text 20021621:	other
+Text 20021628:	other
+Text 20021629:	human
+Text 20021630:	human
+Text 20021631:	other
+Text 20021662:	in_vivo
+Text 20021664:	other
+Text 20021666:	human
+Text 20021679:	human
+Text 20021692:	
+Text 20021696:	human
+Text 20021730:	human
+Text 20021731:	
+Text 20021732:	other
+Text 20021740:	human
+Text 20021741:	human
+Text 20021774:	other
+Text 20021775:	
+Text 20021991:	human
+Text 20021992:	other
+Text 20021993:	other
+Text 20021994:	other
+Text 20021995:	human
+Text 20021996:	human
+Text 20021997:	human
+Text 20022023:	other
+Text 20022024:	human
+Text 20022025:	other
+Text 20022033:	in_vivo
+Text 20022103:	immortal_cell_line
+Text 20022119:	human
+Text 20022120:	other
+Text 20022121:	
+Text 20022139:	human
+Text 20022140:	other
+Text 20022183:	in_silico
+Text 20022184:	other
+Text 20022190:	
+Text 20022202:	other
+Text 20022218:	other,human
+Text 20022219:	human
+Text 20022223:	
+Text 20022234:	
+Text 20022263:	organs
+Text 20022299:	other
+Text 20022319:	in_silico,in_vivo
+Text 20022325:	human
+Text 20022339:	in_silico
+Text 20022340:	other
+Text 20022343:	other
+Text 20022382:	other
+Text 20022383:	human
+Text 20022384:	human
+Text 20022385:	human
+Text 20022388:	other
+Text 20022395:	other
+Text 20022411:	immortal_cell_line
+Text 20022423:	human
+Text 20022434:	
+Text 20022439:	human
+Text 20022446:	in_vivo
+Text 20022465:	in_vivo
+Text 20022471:	human
+Text 20022530:	other
+Text 20022531:	in_vivo
+Text 20022549:	other
+Text 20022578:	other
+Text 20022589:	human
+Text 20022591:	other
+Text 20022592:	human,in_vivo
+Text 20022607:	human
+Text 20022640:	human
+Text 20022654:	
+Text 20022672:	other
+Text 20022689:	human
+Text 20022699:	in_vivo
+Text 20022711:	other
+Text 20022731:	human
+Text 20022754:	human
+Text 20022771:	
+Text 20022777:	other
+Text 20022805:	human
+Text 20022813:	human
+Text 20022835:	
+Text 20022887:	in_vivo
+Text 20022896:	in_silico
+Text 20022935:	
+Text 20022970:	other
+Text 20022992:	other
+Text 20022995:	other
+Text 20022997:	other
+Text 20022998:	
+Text 20022999:	in_silico,other
+Text 20023003:	
+Text 20023004:	other
+Text 20023052:	other
+Text 20023065:	other
+Text 20023066:	other
+Text 20023178:	
+Text 20023200:	other
+Text 20023245:	human
+Text 20023251:	other
+Text 20023341:	human
+Text 20023352:	human
+Text 20023364:	human
+Text 20023409:	
+Text 20023436:	other
+Text 20023526:	human
+Text 20023528:	human
+Text 20023529:	other
+Text 20023535:	other
+Text 20023537:	human
+Text 20023539:	other
+Text 20023540:	other
+Text 20023543:	in_vivo
+Text 20023544:	in_vivo
+Text 20023546:	in_vivo
+Text 20023547:	in_vivo
+Text 20023548:	other
+Text 20023549:	human
+Text 20023550:	organs
+Text 20023552:	other
+Text 20023570:	other
+Text 20023573:	other
+Text 20023578:	human
+Text 20023595:	human
+Text 20023599:	in_vivo
+Text 20023608:	other
+Text 20023634:	in_vivo
+Text 20024092:	other
+Text 20024472:	other
+Text 20024480:	other
+Text 20024499:	other
+Text 20024519:	other
+Text 20024521:	other
+Text 20024529:	other
+Text 20024536:	other
+Text 20024553:	other
+Text 20024574:	other
+Text 20024596:	other
+Text 20024601:	human
+Text 20024604:	other
+Text 20024608:	other
+Text 20024657:	human
+Text 20024658:	other
+Text 20024666:	other
+Text 20024671:	other
+Text 20024672:	other
+Text 20024699:	other
+Text 20024700:	human
+Text 20024705:	other
+Text 20024706:	other,human
+Text 20024716:	other
+Text 20024719:	human
+Text 20024721:	other
+Text 20024723:	human
+Text 20024724:	in_silico
+Text 20024727:	other
+Text 20024730:	
+Text 20024731:	other
+Text 20024734:	other
+Text 20024739:	human
+Text 20024741:	other
+Text 20024743:	other
+Text 20024748:	other
+Text 20024750:	human
+Text 20024752:	other
+Text 20024753:	other
+Text 20024754:	other
+Text 20024755:	other
+Text 20024757:	other
+Text 20024764:	other
+Text 20024776:	other
+Text 20024778:	
+Text 20024782:	in_vivo
+Text 20024840:	other
+Text 20024887:	human
+Text 20024895:	other
+Text 20025014:	in_vivo
+Text 20025033:	other,in_vivo
+Text 20025057:	in_vivo,immortal_cell_line
+Text 20025058:	in_vivo
+Text 20025062:	in_vivo
+Text 20025075:	other,human
+Text 20025076:	human
+Text 20025088:	
+Text 20025089:	human
+Text 20025093:	other
+Text 20025105:	other
+Text 20025106:	other
+Text 20025108:	other,human
+Text 20025127:	other
+Text 20025132:	other
+Text 20025145:	human
+Text 20025147:	other
+Text 20025148:	other
+Text 20025150:	other
+Text 20025151:	in_silico
+Text 20025152:	other
+Text 20025153:	other
+Text 20025158:	other
+Text 20025159:	human
+Text 20025355:	other
+Text 20025356:	human
+Text 20025357:	other
+Text 20025359:	other
+Text 20025361:	other
+Text 20025363:	
+Text 20025364:	other
+Text 20025366:	
+Text 20025367:	human
+Text 20025370:	
+Text 20025371:	human
+Text 20025373:	other
+Text 20025374:	
+Text 20025375:	other
+Text 20025376:	
+Text 20025381:	
+Text 20025383:	human
+Text 20025396:	in_silico
+Text 20025397:	in_silico
+Text 20025405:	
+Text 20025425:	other
+Text 20025426:	
+Text 20025427:	
+Text 20025428:	other
+Text 20025435:	human
+Text 20025437:	other
+Text 20025438:	other
+Text 20025439:	other
+Text 20025441:	
+Text 20025442:	other
+Text 20025443:	other
+Text 20025445:	
+Text 20025446:	other
+Text 20025449:	
+Text 20025450:	other
+Text 20025451:	other
+Text 20025452:	
+Text 20025453:	
+Text 20025454:	other
+Text 20025468:	
+Text 20025514:	other
+Text 20025524:	human,in_vivo
+Text 20025530:	other
+Text 20025555:	other
+Text 20025594:	in_vivo
+Text 20025620:	
+Text 20025622:	other
+Text 20025637:	other,human
+Text 20025644:	other
+Text 20025750:	other
+Text 20025814:	human
+Text 20025836:	human
+Text 20025838:	other
+Text 20025839:	other
+Text 20025852:	in_vivo
+Text 20025855:	in_vivo
+Text 20025860:	other
+Text 20025875:	in_vivo
+Text 20025889:	in_vivo,primary_cells
+Text 20025912:	
+Text 20025913:	human
+Text 20025918:	organs
+Text 20025927:	
+Text 20025930:	in_vivo
+Text 20025954:	in_vivo
+Text 20025960:	other
+Text 20025962:	in_vivo
+Text 20025970:	human,in_vivo
+Text 20025971:	immortal_cell_line
+Text 20026014:	in_vivo
+Text 20026042:	in_vivo
+Text 20026043:	human
+Text 20026057:	other
+Text 20026084:	human
+Text 20026085:	other
+Text 20026086:	human
+Text 20026087:	other
+Text 20026088:	
+Text 20026090:	in_vivo
+Text 20026103:	other
+Text 20026111:	in_vivo
+Text 20026112:	in_vivo
+Text 20026137:	in_vivo
+Text 20026140:	other
+Text 20026149:	human
+Text 20026150:	human
+Text 20026151:	in_vivo
+Text 20026169:	immortal_cell_line
+Text 20026175:	
+Text 20026177:	human
+Text 20026185:	human
+Text 20026210:	in_vivo
+Text 20026214:	in_vivo
+Text 20026220:	other
+Text 20026221:	human
+Text 20026222:	other
+Text 20026227:	in_vivo
+Text 20026245:	human
+Text 20026248:	in_silico
+Text 20026252:	in_vivo
+Text 20026271:	in_vivo
+Text 20026272:	in_vivo
+Text 20026275:	in_vivo
+Text 20026314:	human
+Text 20026315:	in_vivo
+Text 20026316:	organs
+Text 20026354:	in_vivo
+Text 20026356:	
+Text 20026368:	in_vivo
+Text 20026374:	other
+Text 20026381:	in_vivo
+Text 20026384:	in_vivo
+Text 20026394:	other
+Text 20026458:	human
+Text 20026469:	
+Text 20026497:	other
+Text 20026498:	other
+Text 20026499:	other
+Text 20026519:	other
+Text 20026524:	human
+Text 20026530:	other
+Text 20026558:	
+Text 20026559:	human
+Text 20026571:	other
+Text 20026572:	human
+Text 20026573:	other
+Text 20026574:	other
+Text 20026575:	human
+Text 20026576:	
+Text 20026605:	human
+Text 20026663:	organs,in_vivo,primary_cells
+Text 20026673:	in_vivo
+Text 20026690:	other
+Text 20026698:	
+Text 20026712:	other
+Text 20026770:	other
+Text 20026779:	other
+Text 20026871:	human
+Text 20026872:	human
+Text 20026933:	human
+Text 20026943:	human
+Text 20026946:	other
+Text 20026955:	other
+Text 20026957:	other
+Text 20027011:	human
+Text 20027038:	other
+Text 20027112:	other
+Text 20027115:	other
+Text 20027126:	other
+Text 20027140:	other
+Text 20027219:	in_vivo,immortal_cell_line
+Text 20027285:	other
+Text 20027297:	other
+Text 20027323:	in_vivo
+Text 20027358:	
+Text 20027359:	
+Text 20027360:	human
+Text 20027361:	human
+Text 20027364:	human
+Text 20027368:	
+Text 20027370:	in_vivo
+Text 20027402:	human
+Text 20027412:	other
+Text 20027489:	other
+Text 20027545:	other
+Text 20027555:	human
+Text 20027571:	
+Text 20027573:	human
+Text 20027575:	human
+Text 20027576:	in_silico
+Text 20027582:	human
+Text 20027584:	other
+Text 20027591:	human
+Text 20027592:	human
+Text 20027602:	human
+Text 20027657:	other
+Text 20027718:	
+Text 20027720:	
+Text 20027748:	other
+Text 20027753:	other
+Text 20027761:	other
+Text 20027801:	other
+Text 20027807:	other
+Text 20027809:	human
+Text 20027810:	other
+Text 20027857:	in_vivo
+Text 20028004:	immortal_cell_line
+Text 20028189:	other
+Text 20028246:	other
+Text 20028313:	other
+Text 20028334:	
+Text 20028338:	other
+Text 20028339:	other
+Text 20028340:	human
+Text 20028341:	human
+Text 20028342:	human
+Text 20028343:	human
+Text 20028344:	other
+Text 20028350:	in_vivo
+Text 20028351:	other
+Text 20028354:	in_silico
+Text 20028355:	in_vivo
+Text 20028359:	other
+Text 20028360:	
+Text 20028363:	other
+Text 20028364:	
+Text 20028365:	in_vivo
+Text 20028425:	other
+Text 20028451:	other,in_vivo
+Text 20028456:	human,in_vivo,primary_cells
+Text 20028499:	other
+Text 20028506:	other
+Text 20028512:	human
+Text 20028534:	other
+Text 20028546:	
+Text 20028557:	human,in_vivo
+Text 20028599:	
+Text 20028608:	in_vivo
+Text 20028610:	human
+Text 20028642:	other
+Text 20028655:	in_vivo
+Text 20028667:	other
+Text 20028678:	other
+Text 20028679:	other
+Text 20028680:	other
+Text 20028681:	other
+Text 20028682:	other
+Text 20028705:	human
+Text 20028710:	human
+Text 20028727:	other
+Text 20028762:	other
+Text 20028779:	in_silico
+Text 20028802:	other
+Text 20028853:	human,in_vivo
+Text 20028867:	human,in_vivo
+Text 20028870:	human
+Text 20028884:	other
+Text 20028899:	other
+Text 20028901:	human
+Text 20028943:	in_vivo
+Text 20028954:	human
+Text 20028959:	other
+Text 20029050:	other
+Text 20029054:	other
+Text 20029055:	other,human
+Text 20029056:	human
+Text 20029067:	other
+Text 20029071:	other
+Text 20029079:	other
+Text 20029085:	other
+Text 20029086:	other
+Text 20029150:	other
+Text 20029187:	other
+Text 20029188:	other
+Text 20029189:	human
+Text 20029190:	
+Text 20029193:	other
+Text 20029194:	other
+Text 20029195:	human
+Text 20029196:	other
+Text 20029197:	immortal_cell_line
+Text 20029198:	other
+Text 20029199:	other
+Text 20029208:	human
+Text 20029211:	other
+Text 20029212:	in_silico
+Text 20029216:	other
+Text 20029217:	human
+Text 20029230:	
+Text 20029232:	other
+Text 20029253:	other
+Text 20029340:	in_vivo
+Text 20029345:	other
+Text 20029384:	other
+Text 20029386:	other
+Text 20029387:	
+Text 20029391:	
+Text 20029392:	other
+Text 20029393:	other
+Text 20029394:	
+Text 20029395:	in_silico
+Text 20029396:	other
+Text 20029410:	other
+Text 20029449:	other
+Text 20029450:	in_vivo
+Text 20029451:	human,in_vivo
+Text 20029474:	other
+Text 20029695:	other
+Text 20029697:	
+Text 20029704:	other
+Text 20029710:	human
+Text 20029715:	human
+Text 20029718:	other
+Text 20029794:	human
+Text 20029795:	human
+Text 20029799:	other
+Text 20029807:	in_vivo
+Text 20029809:	other
+Text 20029820:	other
+Text 20029824:	other
+Text 20029827:	other
+Text 20029829:	other
+Text 20029832:	in_vivo
+Text 20029834:	in_vivo
+Text 20029912:	other
+Text 20029936:	other
+Text 20029940:	other,human
+Text 20029941:	in_vivo,primary_cells
+Text 20029964:	human
+Text 20029975:	human
+Text 20029979:	in_vivo
+Text 20030160:	
+Text 20030161:	
+Text 20030162:	other
+Text 20030416:	
+Text 20030417:	other
+Text 20030418:	other
+Text 20030419:	other
+Text 20030420:	other
+Text 20030421:	
+Text 20030423:	other
+Text 20030428:	human
+Text 20030432:	other
+Text 20030449:	
+Text 20030461:	other
+Text 20030462:	other
+Text 20030463:	
+Text 20030481:	human
+Text 20030514:	immortal_cell_line
+Text 20030550:	other
+Text 20030553:	other
+Text 20030558:	other
+Text 20030559:	other
+Text 20030560:	in_vivo
+Text 20030561:	human
+Text 20030565:	organs,human
+Text 20030622:	
+Text 20030623:	other
+Text 20030624:	human
+Text 20030644:	human
+Text 20030657:	other
+Text 20030658:	in_silico
+Text 20030659:	other
+Text 20030660:	other
+Text 20030690:	other
+Text 20030695:	other
+Text 20030697:	human
+Text 20030755:	other
+Text 20030756:	
+Text 20030763:	other
+Text 20030795:	other
+Text 20030829:	in_vivo,primary_cells
+Text 20030966:	in_silico
+Text 20031002:	
+Text 20031044:	other
+Text 20031062:	other
+Text 20031086:	other
+Text 20031087:	other
+Text 20031088:	
+Text 20031089:	other
+Text 20031090:	
+Text 20031091:	other
+Text 20031092:	other
+Text 20031094:	other
+Text 20031097:	other
+Text 20031113:	other
+Text 20031179:	in_vivo
+Text 20031197:	human
+Text 20031199:	other
+Text 20031234:	other
+Text 20031235:	human
+Text 20031241:	other
+Text 20031247:	human
+Text 20031267:	other
+Text 20031273:	other
+Text 20031275:	human
+Text 20031276:	human
+Text 20031278:	in_vivo
+Text 20031301:	human
+Text 20031302:	human
+Text 20031303:	other
+Text 20031334:	in_silico
+Text 20031341:	other
+Text 20031357:	other,human
+Text 20031358:	other
+Text 20031364:	other
+Text 20031365:	other
+Text 20031369:	other
+Text 20031373:	other
+Text 20031374:	other
+Text 20031450:	human
+Text 20031451:	human
+Text 20031452:	other
+Text 20031502:	other
+Text 20031580:	other
+Text 20031605:	other,human
+Text 20031620:	other
+Text 20031623:	human
+Text 20031639:	in_vivo
+Text 20031666:	other
+Text 20031675:	other
+Text 20031712:	other
+Text 20031754:	human
+Text 20031767:	human
+Text 20031819:	human
+Text 20031832:	other
+Text 20031837:	other
+Text 20031840:	other
+Text 20031854:	other
+Text 20031873:	in_silico
+Text 20031880:	other
+Text 20031896:	other
+Text 20031900:	other
+Text 20031903:	other
+Text 20031906:	other
+Text 20031951:	other
+Text 20031980:	other
+Text 20032012:	human
+Text 20032030:	other
+Text 20032057:	human
+Text 20032062:	human
+Text 20032085:	other
+Text 20032086:	in_vivo,primary_cells
+Text 20032096:	other
+Text 20032153:	other
+Text 20032154:	human
+Text 20032176:	immortal_cell_line
+Text 20032192:	immortal_cell_line
+Text 20032258:	other,human
+Text 20032274:	other
+Text 20032276:	other
+Text 20032278:	human
+Text 20032286:	
+Text 20032288:	other
+Text 20032290:	other
+Text 20032300:	in_vivo
+Text 20032312:	other
+Text 20032406:	immortal_cell_line
+Text 20032445:	human
+Text 20032508:	primary_cells,immortal_cell_line
+Text 20032517:	other
+Text 20032518:	other
+Text 20032536:	other
+Text 20032575:	human
+Text 20032745:	other
+Text 20032746:	other
+Text 20032747:	other
+Text 20032758:	other
+Text 20032772:	in_vivo
+Text 20032774:	other
+Text 20032790:	other
+Text 20032798:	human
+Text 20032802:	other
+Text 20032819:	other
+Text 20032820:	human
+Text 20032904:	human
+Text 20032906:	other
+Text 20032907:	human
+Text 20032908:	human
+Text 20032909:	human
+Text 20032910:	human
+Text 20032914:	human
+Text 20032921:	other
+Text 20032966:	in_vivo
+Text 20032967:	in_vivo
+Text 20032969:	in_vivo
+Text 20032975:	human
+Text 20032988:	
+Text 20033064:	in_vivo
+Text 20033108:	human
+Text 20033109:	human
+Text 20033111:	other,human
+Text 20033112:	other
+Text 20033130:	other
+Text 20033133:	human
+Text 20033156:	other
+Text 20033177:	other
+Text 20033183:	in_vivo
+Text 20033184:	in_vivo
+Text 20033187:	other
+Text 20033190:	human
+Text 20033200:	other
+Text 20033202:	other
+Text 20033233:	other
+Text 20033235:	human
+Text 20033236:	human
+Text 20033240:	other
+Text 20033251:	other
+Text 20033264:	other
+Text 20033268:	other
+Text 20033274:	other
+Text 20033276:	
+Text 20033292:	other
+Text 20033293:	other
+Text 20033294:	
+Text 20033296:	other
+Text 20033304:	human
+Text 20033305:	human
+Text 20033312:	in_vivo
+Text 20033337:	other
+Text 20033353:	human
+Text 20033354:	other
+Text 20033461:	human
+Text 20033462:	
+Text 20033471:	other
+Text 20033479:	in_vivo
+Text 20033488:	
+Text 20033497:	other
+Text 20033514:	in_silico
+Text 20033533:	other
+Text 20033616:	other
+Text 20033627:	in_vivo
+Text 20033689:	human
+Text 20033690:	other
+Text 20033727:	other
+Text 20033741:	other,human
+Text 20033742:	human
+Text 20033760:	other
+Text 20033762:	other
+Text 20033773:	other
+Text 20033774:	human
+Text 20033781:	other
+Text 20033795:	human
+Text 20033797:	other
+Text 20033798:	human
+Text 20033818:	in_silico
+Text 20033826:	human
+Text 20033828:	human
+Text 20033829:	in_vivo
+Text 20033840:	in_vivo
+Text 20033845:	other
+Text 20033852:	human
+Text 20033863:	
+Text 20033884:	other
+Text 20033901:	human
+Text 20033903:	human
+Text 20033904:	human
+Text 20033905:	other
+Text 20033907:	human
+Text 20033908:	
+Text 20033983:	human
+Text 20033984:	human
+Text 20033986:	human
+Text 20034013:	human
+Text 20034014:	other
+Text 20034062:	
+Text 20034063:	in_vivo
+Text 20034071:	other
+Text 20034078:	other
+Text 20034085:	other
+Text 20034088:	other
+Text 20034096:	primary_cells
+Text 20034161:	in_vivo
+Text 20034162:	human
+Text 20034165:	human
+Text 20034166:	
+Text 20034167:	
+Text 20034168:	other
+Text 20034171:	human
+Text 20034174:	in_vivo
+Text 20034175:	other
+Text 20034176:	other
+Text 20034186:	other
+Text 20034193:	other
+Text 20034194:	other
+Text 20034197:	human
+Text 20034198:	
+Text 20034200:	human
+Text 20034231:	in_vivo
+Text 20034243:	other
+Text 20034245:	
+Text 20034254:	other
+Text 20034273:	other
+Text 20034275:	other
+Text 20034276:	other
+Text 20034277:	other
+Text 20034278:	other
+Text 20034437:	in_vivo
+Text 20034441:	human
+Text 20034444:	human
+Text 20034450:	in_vivo
+Text 20034451:	in_vivo
+Text 20034452:	in_vivo
+Text 20034453:	in_vivo
+Text 20034457:	in_vivo
+Text 20034465:	other
+Text 20034479:	in_vivo
+Text 20034483:	primary_cells
+Text 20034503:	human
+Text 20034516:	
+Text 20034530:	in_vivo
+Text 20034546:	
+Text 20034558:	in_vivo
+Text 20034560:	in_vivo
+Text 20034564:	human
+Text 20034565:	in_vivo
+Text 20034566:	
+Text 20034567:	organs
+Text 20034579:	other
+Text 20034581:	in_silico
+Text 20034592:	in_vivo
+Text 20034611:	human
+Text 20034612:	human
+Text 20034615:	human
+Text 20034616:	human
+Text 20034661:	other
+Text 20034671:	other
+Text 20034673:	other
+Text 20034674:	human
+Text 20034675:	other
+Text 20034676:	human
+Text 20034680:	in_vivo
+Text 20034704:	other
+Text 20034719:	other
+Text 20034731:	human
+Text 20034754:	in_vivo
+Text 20034763:	other
+Text 20034768:	human
+Text 20034772:	other
+Text 20034815:	other
+Text 20034825:	human
+Text 20034856:	
+Text 20034861:	other
+Text 20034922:	
+Text 20034928:	human
+Text 20034987:	other
+Text 20035028:	in_vivo
+Text 20035051:	human
+Text 20035054:	other
+Text 20035063:	organs,in_vivo
+Text 20035068:	human
+Text 20035069:	
+Text 20035070:	other
+Text 20035071:	other
+Text 20035072:	other
+Text 20035074:	human
+Text 20035076:	other
+Text 20035077:	human
+Text 20035078:	
+Text 20035125:	other
+Text 20035130:	human
+Text 20035131:	in_vivo
+Text 20035132:	human
+Text 20035133:	other
+Text 20035134:	other
+Text 20035135:	human
+Text 20035136:	human
+Text 20035137:	human
+Text 20035138:	human
+Text 20035139:	human
+Text 20035140:	human
+Text 20035141:	human
+Text 20035142:	other
+Text 20035143:	human
+Text 20035144:	human
+Text 20035187:	other
+Text 20035229:	other
+Text 20035251:	human
+Text 20035252:	human
+Text 20035254:	human
+Text 20035255:	human
+Text 20035260:	human
+Text 20035262:	organs,in_vivo
+Text 20035263:	human
+Text 20035264:	human
+Text 20035270:	human
+Text 20035283:	other
+Text 20035318:	human
+Text 20035366:	human
+Text 20035367:	human,in_vivo
+Text 20035368:	other,human
+Text 20035384:	human
+Text 20035405:	
+Text 20035431:	human
+Text 20035440:	other
+Text 20035502:	other
+Text 20035503:	human
+Text 20035506:	other
+Text 20035507:	
+Text 20035509:	
+Text 20035510:	other
+Text 20035513:	human
+Text 20035514:	other
+Text 20035526:	other
+Text 20035574:	other
+Text 20035575:	in_vivo
+Text 20035576:	other
+Text 20035579:	human
+Text 20035580:	other
+Text 20035581:	human
+Text 20035582:	other
+Text 20035583:	human
+Text 20035584:	human
+Text 20035585:	human
+Text 20035586:	
+Text 20035587:	other
+Text 20035588:	human
+Text 20035589:	other
+Text 20035590:	human
+Text 20035591:	other
+Text 20035592:	other
+Text 20035593:	human
+Text 20035594:	other
+Text 20035595:	other
+Text 20035596:	
+Text 20035619:	other
+Text 20035620:	human
+Text 20035627:	
+Text 20035629:	other
+Text 20035636:	
+Text 20035637:	
+Text 20035642:	other
+Text 20035646:	human
+Text 20035724:	in_vivo
+Text 20035733:	human
+Text 20035739:	in_vivo
+Text 20035749:	human
+Text 20035773:	in_vivo
+Text 20035789:	in_vivo
+Text 20035793:	in_vivo
+Text 20035795:	in_vivo
+Text 20035798:	in_vivo
+Text 20035817:	human
+Text 20035818:	human
+Text 20035822:	
+Text 20035840:	in_vivo
+Text 20035861:	in_vivo
+Text 20035881:	human
+Text 20035883:	in_vivo
+Text 20035900:	other
+Text 20035901:	in_vivo
+Text 20035902:	other
+Text 20035910:	human
+Text 20035927:	
+Text 20035952:	
+Text 20035953:	in_vivo
+Text 20035986:	human
+Text 20036007:	other
+Text 20036012:	other
+Text 20036015:	human
+Text 20036034:	other
+Text 20036049:	human
+Text 20036072:	human
+Text 20036095:	other
+Text 20036103:	other
+Text 20036104:	other
+Text 20036106:	in_vivo,primary_cells
+Text 20036127:	other,human
+Text 20036128:	in_vivo
+Text 20036140:	other
+Text 20036141:	human
+Text 20036151:	other
+Text 20036161:	in_vivo
+Text 20036166:	other
+Text 20036175:	human
+Text 20036196:	
+Text 20036216:	human
+Text 20036218:	in_vivo
+Text 20036220:	organs,in_vivo
+Text 20036262:	in_vivo
+Text 20036264:	in_vivo
+Text 20036266:	other
+Text 20036267:	human
+Text 20036279:	other
+Text 20036290:	in_vivo
+Text 20036291:	in_vivo
+Text 20036293:	in_vivo
+Text 20036308:	
+Text 20036309:	human
+Text 20036317:	in_vivo
+Text 20036321:	immortal_cell_line
+Text 20036322:	in_vivo
+Text 20036353:	human
+Text 20036380:	human
+Text 20036387:	human
+Text 20036427:	human
+Text 20036429:	in_vivo
+Text 20036444:	organs,in_vivo
+Text 20036457:	other
+Text 20036458:	human
+Text 20036466:	
+Text 20036483:	organs,in_vivo
+Text 20036487:	human
+Text 20036488:	other
+Text 20036493:	human
+Text 20036494:	other
+Text 20036497:	in_vivo
+Text 20036498:	other
+Text 20036513:	in_silico
+Text 20036526:	other
+Text 20036544:	human
+Text 20036546:	in_vivo
+Text 20036547:	human
+Text 20036548:	other
+Text 20036549:	human
+Text 20036550:	human
+Text 20036551:	human
+Text 20036552:	human
+Text 20036553:	human
+Text 20036554:	other,human
+Text 20036555:	
+Text 20036556:	invertebrate
+Text 20036557:	organs,in_vivo
+Text 20036633:	human,in_vivo
+Text 20036644:	other,human
+Text 20036678:	human
+Text 20036679:	
+Text 20036698:	primary_cells
+Text 20036703:	
+Text 20036713:	in_vivo
+Text 20036715:	
+Text 20036717:	human
+Text 20036723:	in_silico,in_vivo
+Text 20036740:	human
+Text 20036742:	in_vivo
+Text 20036755:	in_vivo
+Text 20036774:	in_vivo
+Text 20036790:	other
+Text 20036808:	
+Text 20036811:	
+Text 20036826:	
+Text 20036828:	other
+Text 20036831:	
+Text 20036836:	in_vivo
+Text 20036850:	in_vivo
+Text 20036851:	in_vivo
+Text 20036927:	
+Text 20036928:	other
+Text 20036964:	
+Text 20036972:	other
+Text 20036973:	other
+Text 20036984:	in_vivo
+Text 20037103:	other
+Text 20037131:	
+Text 20037134:	human
+Text 20037137:	other
+Text 20037181:	other
+Text 20037183:	human
+Text 20037189:	in_vivo
+Text 20037208:	human
+Text 20037210:	human
+Text 20037212:	in_silico
+Text 20037214:	human
+Text 20037216:	human
+Text 20037217:	human
+Text 20037218:	in_silico
+Text 20037219:	other
+Text 20037222:	other
+Text 20037223:	
+Text 20037224:	human
+Text 20037241:	in_silico
+Text 20037246:	other
+Text 20037252:	other
+Text 20037257:	other,human
+Text 20037258:	other
+Text 20037279:	
+Text 20037500:	human
+Text 20037576:	in_vivo
+Text 20037587:	other
+Text 20037588:	immortal_cell_line
+Text 20037593:	in_vivo
+Text 20037681:	human
+Text 20037701:	other
+Text 20037761:	human
+Text 20037762:	human
+Text 20037763:	other
+Text 20037764:	human
+Text 20037765:	other
+Text 20037793:	human
+Text 20037815:	human
+Text 20037882:	other
+Text 20037888:	
+Text 20037917:	other
+Text 20037918:	other
+Text 20037919:	other
+Text 20037920:	
+Text 20037921:	other
+Text 20037922:	other
+Text 20038002:	
+Text 20038106:	human,in_vivo,immortal_cell_line
+Text 20038195:	in_vivo
+Text 20038226:	human
+Text 20038240:	human
+Text 20038244:	human
+Text 20038257:	
+Text 20038298:	other
+Text 20038497:	other
+Text 20038510:	other
+Text 20038520:	other
+Text 20038527:	other
+Text 20038601:	in_vivo
+Text 20038626:	other
+Text 20038643:	in_vivo,primary_cells
+Text 20038714:	
+Text 20038716:	invertebrate
+Text 20038767:	
+Text 20038773:	other
+Text 20038774:	other
+Text 20038775:	other
+Text 20038776:	other
+Text 20038812:	in_silico,human,in_vivo,primary_cells
+Text 20038827:	other
+Text 20038834:	in_vivo
+Text 20038840:	
+Text 20038841:	other
+Text 20038842:	other
+Text 20038855:	other
+Text 20038925:	other
+Text 20038926:	human
+Text 20038927:	in_vivo
+Text 20038929:	human
+Text 20038931:	other
+Text 20038932:	human
+Text 20038933:	other
+Text 20038946:	human
+Text 20038947:	other
+Text 20038958:	in_vivo
+Text 20039023:	
+Text 20039062:	human
+Text 20039076:	other
+Text 20039106:	other
+Text 20039109:	in_vivo
+Text 20039110:	other
+Text 20039111:	human
+Text 20039113:	other
+Text 20039124:	human
+Text 20039125:	other
+Text 20039129:	other
+Text 20039130:	human
+Text 20039140:	other
+Text 20039142:	in_silico,in_vivo
+Text 20039155:	human
+Text 20039192:	other
+Text 20039194:	other
+Text 20039205:	invertebrate
+Text 20039208:	human
+Text 20039273:	human
+Text 20039428:	other
+Text 20039456:	human
+Text 20039463:	in_silico
+Text 20039502:	other
+Text 20039517:	other
+Text 20039519:	other
+Text 20039520:	human
+Text 20039521:	other
+Text 20039522:	other
+Text 20039523:	human
+Text 20039524:	other
+Text 20039526:	human
+Text 20039592:	
+Text 20039679:	in_vivo
+Text 20039761:	other
+Text 20039778:	in_vivo
+Text 20039791:	other
+Text 20039792:	other
+Text 20039840:	other
+Text 20039842:	other
+Text 20039858:	other
+Text 20039859:	
+Text 20039860:	
+Text 20039885:	human
+Text 20039886:	other
+Text 20039887:	other
+Text 20039888:	other
+Text 20039898:	other
+Text 20039901:	human
+Text 20039902:	other
+Text 20039934:	other
+Text 20039936:	human
+Text 20039938:	human
+Text 20039939:	other
+Text 20039940:	human
+Text 20039944:	other
+Text 20039945:	human
+Text 20039948:	in_vivo
+Text 20039953:	other
+Text 20039954:	
+Text 20039955:	human
+Text 20039957:	in_vivo
+Text 20039958:	human
+Text 20039960:	human
+Text 20039961:	other
+Text 20039962:	other
+Text 20039963:	human
+Text 20039972:	other
+Text 20039985:	other
+Text 20039994:	other
+Text 20039995:	other
+Text 20040009:	human
+Text 20040010:	
+Text 20040012:	human
+Text 20040013:	other
+Text 20040014:	human
+Text 20040036:	human
+Text 20040037:	in_vivo
+Text 20040069:	other
+Text 20040070:	human
+Text 20040077:	other
+Text 20040089:	in_vivo
+Text 20040103:	human
+Text 20040110:	in_silico
+Text 20040124:	other
+Text 20040132:	other
+Text 20040136:	other
+Text 20040137:	other
+Text 20040169:	other
+Text 20040222:	human
+Text 20040232:	other
+Text 20040234:	
+Text 20040235:	
+Text 20040236:	other
+Text 20040242:	other
+Text 20040243:	in_vivo
+Text 20040244:	human
+Text 20040245:	human
+Text 20040246:	in_silico
+Text 20040247:	human
+Text 20040248:	human
+Text 20040269:	other
+Text 20040276:	
+Text 20040309:	in_vivo
+Text 20040311:	in_vivo
+Text 20040312:	in_vivo
+Text 20040315:	
+Text 20040316:	
+Text 20040321:	in_vivo,primary_cells
+Text 20040324:	
+Text 20040326:	human
+Text 20040327:	human
+Text 20040328:	human
+Text 20040329:	human
+Text 20040330:	human
+Text 20040331:	human
+Text 20040332:	
+Text 20040333:	
+Text 20040342:	human
+Text 20040343:	human
+Text 20040353:	other
+Text 20040366:	in_vivo
+Text 20040390:	other
+Text 20040554:	
+Text 20040566:	
+Text 20040567:	
+Text 20040614:	
+Text 20040630:	in_vivo
+Text 20040686:	
+Text 20040696:	other
+Text 20040716:	other
+Text 20040721:	in_silico
+Text 20040725:	in_silico
+Text 20040726:	in_silico
+Text 20040727:	other
+Text 20040728:	other
+Text 20040730:	
+Text 20040773:	human
+Text 20040824:	other
+Text 20040826:	other
+Text 20040887:	in_vivo
+Text 20040888:	in_vivo
+Text 20040890:	other
+Text 20040926:	human
+Text 20040929:	in_vivo
+Text 20041042:	in_vivo
+Text 20041110:	human
+Text 20041261:	in_silico
+Text 20041284:	other
+Text 20041299:	other
+Text 20041309:	other
+Text 20041315:	human
+Text 20041330:	immortal_cell_line
+Text 20041331:	human
+Text 20041337:	other
+Text 20041342:	
+Text 20041353:	in_silico
+Text 20041418:	other
+Text 20041420:	human
+Text 20041421:	human
+Text 20041422:	human
+Text 20041427:	in_vivo
+Text 20041472:	
+Text 20041474:	human
+Text 20041476:	other
+Text 20041477:	other
+Text 20041478:	other
+Text 20041493:	other
+Text 20041567:	
+Text 20041590:	other
+Text 20041592:	human
+Text 20041598:	other
+Text 20041599:	other
+Text 20041600:	other
+Text 20041601:	other
+Text 20041693:	other
+Text 20041759:	in_vivo
+Text 20041771:	in_vivo
+Text 20041794:	in_vivo
+Text 20041818:	other
+Text 20041819:	other
+Text 20041837:	other
+Text 20041858:	in_vivo
+Text 20041882:	other
+Text 20041911:	human
+Text 20041932:	other
+Text 20041933:	other
+Text 20041934:	other
+Text 20041939:	other
+Text 20041940:	other
+Text 20041941:	other
+Text 20041942:	other
+Text 20041944:	human
+Text 20041945:	other,human
+Text 20041956:	other,human
+Text 20041969:	in_vivo
+Text 20041986:	primary_cells
+Text 20042013:	other
+Text 20042028:	human
+Text 20042066:	in_vivo
+Text 20042073:	human
+Text 20042099:	other
+Text 20042103:	in_vivo
+Text 20042105:	other
+Text 20042106:	other
+Text 20042152:	other
+Text 20042164:	other
+Text 20042183:	in_vivo
+Text 20042185:	other
+Text 20042197:	other,human
+Text 20042198:	other
+Text 20042209:	in_vivo
+Text 20042244:	human
+Text 20042269:	other
+Text 20042270:	other
+Text 20042297:	in_vivo
+Text 20042299:	other
+Text 20042312:	other
+Text 20042337:	in_vivo
+Text 20042338:	human
+Text 20042359:	in_silico
+Text 20042370:	other
+Text 20042372:	other
+Text 20042408:	in_vivo
+Text 20042411:	
+Text 20042422:	human
+Text 20042441:	in_vivo,primary_cells
+Text 20042462:	other,human
+Text 20042475:	human
+Text 20042477:	human
+Text 20042510:	in_vivo
+Text 20042533:	other
+Text 20042544:	human
+Text 20042545:	other
+Text 20042557:	human
+Text 20042680:	organs,in_vivo
+Text 20042681:	in_vivo
+Text 20042684:	primary_cells
+Text 20042693:	other
+Text 20042694:	other
+Text 20042700:	
+Text 20042701:	
+Text 20042704:	human
+Text 20042783:	other
+Text 20042786:	
+Text 20042788:	human
+Text 20042860:	
+Text 20042865:	other
+Text 20042880:	other
+Text 20042884:	other
+Text 20042889:	other
+Text 20042893:	other
+Text 20042896:	in_vivo
+Text 20042900:	human
+Text 20042913:	other
+Text 20042914:	other
+Text 20042917:	other
+Text 20042918:	in_vivo,immortal_cell_line
+Text 20042921:	other
+Text 20042933:	other
+Text 20042934:	human
+Text 20042944:	other
+Text 20042954:	human
+Text 20042960:	other
+Text 20042961:	other
+Text 20042969:	human
+Text 20042980:	
+Text 20042981:	other
+Text 20042982:	other
+Text 20042983:	other
+Text 20042984:	in_vivo
+Text 20042985:	other
+Text 20042987:	other
+Text 20042988:	other
+Text 20043000:	human
+Text 20043001:	
+Text 20043005:	human
+Text 20043006:	in_vivo
+Text 20043029:	
+Text 20043062:	other,human
+Text 20043099:	
+Text 20043139:	other
+Text 20043146:	other
+Text 20043186:	other
+Text 20043189:	human
+Text 20043190:	other
+Text 20043194:	other
+Text 20043200:	other
+Text 20043204:	human
+Text 20043208:	other
+Text 20043224:	human
+Text 20043227:	human
+Text 20043245:	human
+Text 20043247:	human
+Text 20043248:	human
+Text 20043249:	human
+Text 20043251:	other
+Text 20043252:	human
+Text 20043328:	other
+Text 20043338:	human
+Text 20043431:	other
+Text 20043535:	other
+Text 20043561:	human
+Text 20043571:	human
+Text 20043575:	human
+Text 20043599:	other
+Text 20043610:	
+Text 20043611:	
+Text 20043622:	other
+Text 20043678:	in_vivo
+Text 20043712:	other
+Text 20043714:	human
+Text 20043715:	other
+Text 20043718:	human
+Text 20043719:	human
+Text 20043721:	human
+Text 20043722:	other
+Text 20043724:	other
+Text 20043731:	other
+Text 20043733:	human
+Text 20043735:	other
+Text 20043736:	other
+Text 20043737:	other
+Text 20043738:	other
+Text 20043739:	human
+Text 20043741:	other
+Text 20043742:	other
+Text 20043744:	other
+Text 20043745:	human
+Text 20043746:	other
+Text 20043747:	other
+Text 20043748:	other
+Text 20043749:	other
+Text 20043761:	other
+Text 20043766:	human
+Text 20043767:	other
+Text 20043773:	in_vivo
+Text 20043808:	primary_cells,immortal_cell_line
+Text 20043809:	in_vivo
+Text 20043810:	organs,in_vivo
+Text 20043811:	human
+Text 20043812:	human
+Text 20043813:	
+Text 20043814:	primary_cells
+Text 20043815:	other
+Text 20043816:	human
+Text 20043817:	other
+Text 20043836:	human
+Text 20043859:	human
+Text 20043889:	in_vivo
+Text 20043890:	in_vivo
+Text 20043892:	in_vivo
+Text 20043897:	human
+Text 20043906:	human
+Text 20043908:	in_vivo
+Text 20043932:	human
+Text 20043954:	in_vivo
+Text 20043974:	in_vivo
+Text 20043977:	in_vivo
+Text 20043978:	in_vivo
+Text 20043985:	in_vivo,primary_cells
+Text 20044001:	in_vivo
+Text 20044002:	human
+Text 20044003:	human
+Text 20044009:	other
+Text 20044043:	
+Text 20044069:	other
+Text 20044070:	human
+Text 20044073:	in_silico
+Text 20044075:	human
+Text 20044076:	in_vivo
+Text 20044088:	human
+Text 20044098:	
+Text 20044131:	other,in_vivo
+Text 20044142:	other
+Text 20044143:	human
+Text 20044154:	human
+Text 20044210:	human
+Text 20044217:	human
+Text 20044221:	
+Text 20044236:	
+Text 20044239:	
+Text 20044296:	other,human
+Text 20044310:	human
+Text 20044320:	
+Text 20044328:	other
+Text 20044333:	human
+Text 20044334:	other
+Text 20044366:	other
+Text 20044415:	other
+Text 20044417:	other
+Text 20044419:	other
+Text 20044420:	other
+Text 20044424:	other
+Text 20044502:	other
+Text 20044506:	other
+Text 20044517:	
+Text 20044519:	in_vivo
+Text 20044520:	other
+Text 20044521:	in_vivo
+Text 20044522:	other
+Text 20044523:	other
+Text 20044525:	other
+Text 20044526:	other
+Text 20044527:	
+Text 20044528:	other
+Text 20044530:	
+Text 20044531:	other
+Text 20044532:	in_vivo
+Text 20044533:	human
+Text 20044534:	human
+Text 20044535:	other
+Text 20044536:	other
+Text 20044542:	other
+Text 20044595:	
+Text 20044596:	in_vivo
+Text 20044633:	other
+Text 20044635:	human
+Text 20044639:	other
+Text 20044642:	human
+Text 20044651:	other
+Text 20044653:	other
+Text 20044655:	other
+Text 20044657:	other
+Text 20044659:	other
+Text 20044660:	other
+Text 20044661:	human
+Text 20044662:	other
+Text 20044664:	other
+Text 20044665:	other
+Text 20044745:	
+Text 20044755:	other
+Text 20044856:	other
+Text 20044857:	other
+Text 20044866:	
+Text 20044893:	in_silico
+Text 20044896:	other
+Text 20044936:	in_vivo
+Text 20044983:	immortal_cell_line
+Text 20044984:	other,human
+Text 20044993:	in_vivo
+Text 20045010:	in_vivo
+Text 20045054:	in_vivo
+Text 20045072:	other
+Text 20045092:	other
+Text 20045118:	human
+Text 20045119:	other
+Text 20045120:	other
+Text 20045121:	human
+Text 20045160:	human
+Text 20045196:	human
+Text 20045197:	in_silico
+Text 20045198:	human
+Text 20045200:	
+Text 20045216:	human
+Text 20045217:	human
+Text 20045218:	in_vivo
+Text 20045241:	in_vivo
+Text 20045266:	other
+Text 20045289:	human
+Text 20045293:	other
+Text 20045334:	human
+Text 20045345:	other
+Text 20045354:	other
+Text 20045366:	human
+Text 20045375:	
+Text 20045376:	human
+Text 20045383:	other
+Text 20045398:	in_vivo
+Text 20045399:	other
+Text 20045410:	in_vivo
+Text 20045420:	human
+Text 20045434:	in_vivo
+Text 20045438:	human
+Text 20045449:	primary_cells,immortal_cell_line
+Text 20045470:	in_silico
+Text 20045473:	human
+Text 20045477:	human
+Text 20045508:	in_vivo
+Text 20045576:	human
+Text 20045597:	
+Text 20045609:	other
+Text 20045614:	human
+Text 20045615:	other
+Text 20045629:	human
+Text 20045630:	human
+Text 20045663:	other
+Text 20045667:	human
+Text 20045706:	
+Text 20045708:	in_vivo
+Text 20045717:	human
+Text 20045720:	human
+Text 20045747:	other
+Text 20045779:	human
+Text 20045780:	other
+Text 20045781:	other
+Text 20045804:	human
+Text 20045909:	human
+Text 20045928:	primary_cells
+Text 20045929:	in_vivo,primary_cells
+Text 20045996:	other
+Text 20046004:	human
+Text 20046005:	human
+Text 20046050:	in_vivo
+Text 20046105:	human
+Text 20046118:	
+Text 20046129:	other
+Text 20046134:	other
+Text 20046144:	other
+Text 20046171:	human
+Text 20046174:	human
+Text 20046184:	other
+Text 20046186:	other
+Text 20046230:	
+Text 20046417:	
+Text 20046430:	human
+Text 20046492:	human
+Text 20046510:	human
+Text 20046517:	other
+Text 20046527:	human
+Text 20046607:	other
+Text 20046642:	in_vivo
+Text 20046643:	in_vivo
+Text 20046699:	human
+Text 20047057:	other
+Text 20047058:	human
+Text 20047059:	other
+Text 20047063:	other
+Text 20047076:	
+Text 20047083:	other
+Text 20047087:	other
+Text 20047116:	human
+Text 20047157:	
+Text 20047158:	in_vivo
+Text 20047160:	in_vivo
+Text 20047162:	other,human
+Text 20047163:	in_vivo
+Text 20047164:	in_vivo
+Text 20047249:	other
+Text 20047347:	
+Text 20047348:	other
+Text 20047349:	
+Text 20047350:	other
+Text 20047351:	other
+Text 20047453:	other
+Text 20047454:	other
+Text 20047458:	other
+Text 20047459:	
+Text 20047460:	
+Text 20047480:	other
+Text 20047498:	other
+Text 20047510:	other
+Text 20047517:	other,human
+Text 20047531:	human
+Text 20047549:	other
+Text 20047563:	human
+Text 20047564:	
+Text 20047565:	human
+Text 20047566:	human
+Text 20047567:	
+Text 20047569:	other
+Text 20047570:	human
+Text 20047571:	other
+Text 20047572:	human
+Text 20047573:	other
+Text 20047589:	other
+Text 20047597:	
+Text 20047639:	in_vivo
+Text 20047675:	
+Text 20047681:	other
+Text 20047697:	
+Text 20047702:	other
+Text 20047703:	other
+Text 20047704:	human
+Text 20047706:	
+Text 20047708:	human
+Text 20047709:	human
+Text 20047710:	human
+Text 20047714:	in_vivo
+Text 20047715:	in_vivo
+Text 20047716:	human
+Text 20047718:	other
+Text 20047719:	
+Text 20047720:	other
+Text 20047722:	other
+Text 20047723:	other
+Text 20047724:	human
+Text 20047783:	other
+Text 20047790:	other
+Text 20047801:	in_silico
+Text 20047802:	other
+Text 20047803:	other
+Text 20047810:	human
+Text 20047817:	other
+Text 20047847:	human
+Text 20047898:	other
+Text 20047899:	other
+Text 20047904:	in_vivo
+Text 20047914:	in_vivo
+Text 20047940:	organs
+Text 20047948:	in_vivo
+Text 20047984:	
+Text 20047985:	
+Text 20048019:	human
+Text 20048020:	human
+Text 20048021:	other
+Text 20048022:	other
+Text 20048026:	other
+Text 20048083:	other
+Text 20048084:	
+Text 20048097:	other
+Text 20048100:	other
+Text 20048139:	human
+Text 20048154:	primary_cells
+Text 20048211:	human,in_vivo,primary_cells
+Text 20048218:	human
+Text 20048219:	other
+Text 20048220:	other
+Text 20048221:	other
+Text 20048222:	other
+Text 20048223:	other
+Text 20048224:	other
+Text 20048226:	
+Text 20048227:	human
+Text 20048236:	
+Text 20048243:	other
+Text 20048247:	other
+Text 20048334:	human,in_vivo
+Text 20048347:	other
+Text 20048348:	other
+Text 20048349:	other
+Text 20048350:	human
+Text 20048351:	other
+Text 20048367:	other
+Text 20048372:	other
+Text 20048405:	other
+Text 20048487:	
+Text 20048495:	human
+Text 20048499:	other
+Text 20048502:	other
+Text 20048521:	other
+Text 20048525:	human
+Text 20048526:	other
+Text 20048540:	other
+Text 20048547:	
+Text 20048550:	other
+Text 20048598:	other
+Text 20048618:	other
+Text 20048710:	
+Text 20048749:	other,human
+Text 20048750:	other
+Text 20048751:	in_vivo
+Text 20048752:	other
+Text 20048753:	other
+Text 20048754:	other
+Text 20048755:	other
+Text 20048756:	other
+Text 20048757:	other
+Text 20048758:	other
+Text 20048764:	human
+Text 20048765:	in_vivo
+Text 20049092:	other
+Text 20049211:	in_silico,human
+Text 20049218:	human
+Text 20049223:	
+Text 20049226:	other
+Text 20049227:	
+Text 20049234:	other
+Text 20049241:	human
+Text 20049245:	human
+Text 20049246:	other
+Text 20049248:	other
+Text 20049252:	other
+Text 20049253:	
+Text 20049257:	other
+Text 20049325:	other
+Text 20049331:	in_vivo,primary_cells,immortal_cell_line
+Text 20049334:	
+Text 20049371:	human
+Text 20049423:	other
+Text 20049460:	other
+Text 20049472:	other
+Text 20049486:	other
+Text 20049487:	other
+Text 20049490:	human
+Text 20049491:	human
+Text 20049492:	other
+Text 20049528:	other
+Text 20049530:	
+Text 20049531:	human
+Text 20049532:	other
+Text 20049533:	human
+Text 20049541:	other
+Text 20049547:	other
+Text 20049603:	other
+Text 20049622:	other
+Text 20049632:	
+Text 20049633:	
+Text 20049656:	primary_cells
+Text 20049657:	
+Text 20049659:	in_silico
+Text 20049673:	
+Text 20049706:	in_vivo
+Text 20049710:	invertebrate
+Text 20049715:	
+Text 20049720:	
+Text 20049724:	human
+Text 20049742:	human
+Text 20049770:	other
+Text 20049829:	human
+Text 20049849:	other
+Text 20049900:	primary_cells
+Text 20049906:	other
+Text 20049921:	other
+Text 20049922:	
+Text 20049923:	other
+Text 20049924:	other
+Text 20049933:	human
+Text 20049938:	
+Text 20049963:	other
+Text 20049980:	other
+Text 20050035:	human
+Text 20050189:	in_vivo
+Text 20050195:	in_vivo
+Text 20050267:	other
+Text 20050287:	
+Text 20050300:	other
+Text 20050353:	other
+Text 20050580:	
+Text 20050679:	other
+Text 20050683:	in_vivo,immortal_cell_line
+Text 20050717:	human
+Text 20050718:	
+Text 20050719:	other
+Text 20050720:	other
+Text 20050721:	human
+Text 20050722:	other
+Text 20050723:	other
+Text 20050814:	in_silico
+Text 20050830:	other
+Text 20050861:	other
+Text 20050883:	human
+Text 20050885:	
+Text 20050886:	other
+Text 20050887:	other
+Text 20050889:	other
+Text 20050890:	human
+Text 20050894:	other
+Text 20050896:	human
+Text 20050897:	human
+Text 20050898:	human
+Text 20050899:	human
+Text 20050900:	other
+Text 20050904:	other
+Text 20050924:	other
+Text 20050938:	other
+Text 20050940:	human
+Text 20050965:	
+Text 20050972:	
+Text 20050973:	in_vivo,primary_cells
+Text 20050976:	
+Text 20050978:	in_vivo
+Text 20050992:	in_silico
+Text 20050993:	
+Text 20050994:	in_vivo
+Text 20050995:	human
+Text 20050996:	human
+Text 20051014:	other
+Text 20051015:	human
+Text 20051017:	human
+Text 20051018:	human
+Text 20051019:	other
+Text 20051067:	other
+Text 20051070:	other
+Text 20051074:	
+Text 20051075:	human
+Text 20051076:	
+Text 20051077:	other
+Text 20051078:	
+Text 20051079:	other
+Text 20051080:	other
+Text 20051089:	
+Text 20051106:	in_vivo
+Text 20051114:	in_vivo
+Text 20051119:	other
+Text 20051123:	in_vivo
+Text 20051131:	human
+Text 20051133:	other
+Text 20051218:	
+Text 20051219:	human
+Text 20051220:	other
+Text 20051221:	human
+Text 20051243:	human
+Text 20051289:	other
+Text 20051291:	other
+Text 20051292:	human
+Text 20051310:	other
+Text 20051313:	human
+Text 20051314:	human
+Text 20051316:	human
+Text 20051317:	other
+Text 20051318:	human
+Text 20051332:	
+Text 20051355:	in_vivo
+Text 20051362:	human
+Text 20051384:	in_vivo,primary_cells
+Text 20051431:	other
+Text 20051434:	other
+Text 20051462:	
+Text 20051464:	
+Text 20051522:	
+Text 20051523:	other
+Text 20051524:	other
+Text 20051529:	in_vivo
+Text 20051548:	other
+Text 20051552:	other
+Text 20051569:	other
+Text 20051579:	other
+Text 20051581:	other
+Text 20051590:	
+Text 20051593:	in_vivo,primary_cells
+Text 20051606:	
+Text 20051609:	other
+Text 20051618:	human
+Text 20051634:	in_vivo
+Text 20051636:	human
+Text 20051663:	other
+Text 20051687:	other
+Text 20051688:	human
+Text 20051694:	other
+Text 20051695:	other
+Text 20051699:	human
+Text 20051700:	other
+Text 20051701:	human
+Text 20051703:	other
+Text 20051705:	other
+Text 20051706:	other
+Text 20051707:	other
+Text 20051708:	human
+Text 20051709:	human
+Text 20051750:	other
+Text 20051773:	human
+Text 20051774:	other
+Text 20051776:	
+Text 20051781:	other
+Text 20051785:	other
+Text 20051810:	other
+Text 20051818:	human
+Text 20051819:	other,human
+Text 20051838:	other
+Text 20051858:	other
+Text 20051859:	
+Text 20051860:	human
+Text 20051861:	other
+Text 20051870:	human
+Text 20051895:	other
+Text 20051896:	other
+Text 20051897:	
+Text 20051898:	other
+Text 20051899:	human
+Text 20051900:	other
+Text 20051901:	other
+Text 20051905:	other
+Text 20051916:	other
+Text 20051917:	other
+Text 20051935:	other
+Text 20051973:	in_vivo
+Text 20051974:	human
+Text 20051975:	human
+Text 20052357:	other
+Text 20052367:	human
+Text 20052368:	other
+Text 20052458:	other
+Text 20052481:	in_vivo
+Text 20052484:	human
+Text 20052498:	other
+Text 20052517:	in_silico
+Text 20052518:	human
+Text 20052523:	other
+Text 20052524:	in_silico
+Text 20052532:	other,human
+Text 20052546:	other,human
+Text 20052551:	other
+Text 20052565:	in_vivo
+Text 20052566:	
+Text 20052606:	in_silico
+Text 20052607:	
+Text 20052608:	human
+Text 20052617:	human
+Text 20052620:	other
+Text 20052623:	other
+Text 20052624:	other
+Text 20052631:	
+Text 20052685:	other,human
+Text 20052686:	in_silico
+Text 20052690:	other
+Text 20052692:	other
+Text 20052713:	other
+Text 20052717:	other
+Text 20052730:	other
+Text 20052767:	other
+Text 20052773:	human
+Text 20052775:	other
+Text 20052779:	other
+Text 20052853:	other
+Text 20052882:	other
+Text 20053002:	in_silico
+Text 20053005:	
+Text 20053017:	
+Text 20053021:	
+Text 20053087:	
+Text 20053128:	in_vivo
+Text 20053137:	other
+Text 20053142:	human
+Text 20053154:	human
+Text 20053155:	other
+Text 20053157:	other
+Text 20053170:	
+Text 20053222:	other
+Text 20053225:	other
+Text 20053226:	other
+Text 20053230:	other
+Text 20053242:	other
+Text 20053252:	other
+Text 20053261:	other
+Text 20053267:	human
+Text 20053273:	other
+Text 20053298:	
+Text 20053300:	other
+Text 20053301:	other
+Text 20053310:	human
+Text 20053345:	immortal_cell_line
+Text 20053346:	
+Text 20053349:	human
+Text 20053373:	organs,in_vivo
+Text 20053374:	in_vivo,immortal_cell_line
+Text 20053375:	
+Text 20053376:	in_vivo
+Text 20053377:	in_vivo
+Text 20053378:	in_silico
+Text 20053380:	human
+Text 20053402:	other
+Text 20053410:	other
+Text 20053445:	
+Text 20053457:	human
+Text 20053458:	human
+Text 20053478:	in_vivo,primary_cells
+Text 20053496:	human
+Text 20053503:	other
+Text 20053510:	
+Text 20053521:	
+Text 20053522:	human
+Text 20053536:	human
+Text 20053537:	other
+Text 20053538:	other
+Text 20053539:	other
+Text 20053540:	other
+Text 20053577:	human
+Text 20053587:	other
+Text 20053588:	human
+Text 20053631:	other,human
+Text 20053667:	human
+Text 20053723:	other
+Text 20053738:	immortal_cell_line
+Text 20053752:	
+Text 20053788:	human
+Text 20053803:	other
+Text 20053809:	in_vivo
+Text 20053810:	human
+Text 20053812:	other
+Text 20053864:	human
+Text 20053865:	human
+Text 20053866:	
+Text 20053890:	in_vivo
+Text 20053895:	in_vivo
+Text 20053903:	in_vivo
+Text 20053907:	in_vivo
+Text 20053911:	in_vivo
+Text 20053912:	organs,in_vivo,primary_cells
+Text 20053918:	in_vivo
+Text 20053921:	in_vivo
+Text 20053944:	other
+Text 20053950:	human
+Text 20053951:	human
+Text 20053952:	human
+Text 20053953:	human
+Text 20053981:	
+Text 20053999:	
+Text 20054007:	other
+Text 20054008:	other
+Text 20054013:	other
+Text 20054096:	other
+Text 20054168:	
+Text 20054169:	human
+Text 20054188:	human
+Text 20054205:	other
+Text 20054208:	other
+Text 20054214:	other
+Text 20054228:	other
+Text 20054291:	other
+Text 20054411:	other
+Text 20054453:	other
+Text 20054522:	other
+Text 20054587:	human
+Text 20054621:	other
+Text 20054622:	other
+Text 20054626:	
+Text 20054628:	other
+Text 20054629:	
+Text 20054630:	other
+Text 20054635:	immortal_cell_line
+Text 20054676:	other
+Text 20054691:	human
+Text 20054695:	human
+Text 20054699:	other
+Text 20054708:	other
+Text 20054714:	in_silico
+Text 20054716:	human
+Text 20054728:	in_vivo
+Text 20054730:	
+Text 20054735:	other
+Text 20054743:	other
+Text 20054749:	human
+Text 20054753:	human
+Text 20054755:	human
+Text 20054757:	other
+Text 20054760:	human
+Text 20054780:	
+Text 20054781:	human
+Text 20054783:	other
+Text 20054785:	in_vivo
+Text 20054788:	human
+Text 20054789:	other
+Text 20054813:	human
+Text 20054835:	other
+Text 20054836:	human
+Text 20054837:	other
+Text 20054838:	human
+Text 20054839:	other
+Text 20054840:	other
+Text 20054841:	other
+Text 20054875:	other
+Text 20054876:	
+Text 20054877:	other
+Text 20054938:	other
+Text 20054946:	other
+Text 20054947:	
+Text 20054949:	human
+Text 20054950:	other
+Text 20055062:	other
+Text 20055063:	other
+Text 20055067:	other
+Text 20055068:	human
+Text 20055210:	human
+Text 20055212:	other,human
+Text 20055215:	
+Text 20055242:	human
+Text 20055243:	other
+Text 20055244:	human
+Text 20055246:	human
+Text 20055248:	other
+Text 20055249:	other
+Text 20055250:	other
+Text 20055251:	human
+Text 20055254:	human
+Text 20055255:	other
+Text 20055256:	other
+Text 20055257:	human
+Text 20055258:	
+Text 20055259:	
+Text 20055260:	other
+Text 20055261:	
+Text 20055263:	human
+Text 20055266:	
+Text 20055267:	
+Text 20055271:	human
+Text 20055281:	other
+Text 20055378:	in_silico
+Text 20055380:	other
+Text 20055531:	other
+Text 20055558:	other
+Text 20055566:	other
+Text 20055573:	other
+Text 20055697:	
+Text 20055699:	
+Text 20055730:	other
+Text 20055767:	other
+Text 20055768:	other
+Text 20055769:	human
+Text 20055770:	human
+Text 20055772:	human
+Text 20055777:	other
+Text 20055812:	in_vivo
+Text 20055965:	other
+Text 20055988:	other,human
+Text 20056020:	human
+Text 20056021:	other
+Text 20056022:	other
+Text 20056023:	
+Text 20056024:	human
+Text 20056026:	other
+Text 20056037:	other
+Text 20056122:	immortal_cell_line
+Text 20056123:	human
+Text 20056128:	organs,human
+Text 20056132:	in_vivo
+Text 20056133:	in_vivo
+Text 20056138:	in_vivo
+Text 20056145:	in_vivo
+Text 20056151:	in_silico
+Text 20056154:	in_silico
+Text 20056155:	in_silico
+Text 20056156:	other
+Text 20056158:	in_silico
+Text 20056170:	
+Text 20056195:	other
+Text 20056221:	human
+Text 20056222:	human
+Text 20056232:	other
+Text 20056243:	other
+Text 20056249:	human
+Text 20056250:	human
+Text 20056252:	human
+Text 20056253:	human
+Text 20056263:	other
+Text 20056283:	other
+Text 20056303:	other
+Text 20056311:	human
+Text 20056313:	other
+Text 20056335:	other
+Text 20056337:	human
+Text 20056342:	other
+Text 20056376:	human
+Text 20056377:	human
+Text 20056378:	
+Text 20056380:	other
+Text 20056391:	in_silico
+Text 20056393:	other
+Text 20056394:	other
+Text 20056422:	other
+Text 20056423:	other
+Text 20056462:	in_vivo
+Text 20056463:	other
+Text 20056471:	human
+Text 20056489:	other
+Text 20056491:	human
+Text 20056492:	human
+Text 20056494:	other
+Text 20056495:	other
+Text 20056496:	human
+Text 20056521:	
+Text 20056559:	human
+Text 20056567:	other
+Text 20056569:	human
+Text 20056582:	other
+Text 20056621:	other
+Text 20056676:	in_vivo
+Text 20056677:	human
+Text 20056684:	other
+Text 20056685:	other
+Text 20056715:	in_vivo
+Text 20056720:	human
+Text 20056740:	
+Text 20056752:	other
+Text 20056758:	other
+Text 20056779:	in_vivo
+Text 20056787:	other
+Text 20056801:	other
+Text 20056804:	in_silico
+Text 20056819:	other
+Text 20056834:	primary_cells
+Text 20056851:	human
+Text 20056891:	in_vivo
+Text 20056900:	human
+Text 20056915:	human
+Text 20056923:	human
+Text 20056924:	other
+Text 20056925:	in_vivo
+Text 20056926:	other
+Text 20056927:	
+Text 20056928:	other
+Text 20056929:	other
+Text 20056930:	other
+Text 20056931:	other
+Text 20056932:	other
+Text 20056933:	other
+Text 20056999:	human
+Text 20057158:	other
+Text 20057161:	other
+Text 20057215:	
+Text 20057255:	other
+Text 20057314:	
+Text 20057317:	
+Text 20057333:	other
+Text 20057368:	other
+Text 20057494:	other
+Text 20057496:	
+Text 20057497:	other
+Text 20057498:	other
+Text 20057506:	in_silico,other
+Text 20057899:	human
+Text 20058010:	human
+Text 20058011:	human
+Text 20058018:	human
+Text 20058019:	other
+Text 20058029:	human
+Text 20058033:	other
+Text 20058037:	human
+Text 20058040:	human
+Text 20058047:	other
+Text 20058048:	other
+Text 20058049:	other
+Text 20058051:	human
+Text 20058058:	
+Text 20058059:	human
+Text 20058064:	
+Text 20058077:	other
+Text 20058083:	in_vivo
+Text 20058094:	other
+Text 20058099:	human
+Text 20058140:	human
+Text 20058162:	in_vivo
+Text 20058163:	
+Text 20058164:	in_vivo
+Text 20058165:	in_vivo
+Text 20058168:	other
+Text 20058169:	other
+Text 20058170:	
+Text 20058174:	in_vivo
+Text 20058175:	in_vivo
+Text 20058179:	
+Text 20058180:	
+Text 20058228:	human
+Text 20058241:	other
+Text 20058242:	human
+Text 20058304:	in_vivo
+Text 20058321:	human
+Text 20058324:	in_vivo
+Text 20058395:	other
+Text 20058396:	other
+Text 20058398:	
+Text 20058414:	other
+Text 20058421:	other
+Text 20058427:	other
+Text 20058430:	other
+Text 20058435:	other
+Text 20058436:	other
+Text 20058447:	other
+Text 20058448:	other
+Text 20058454:	human
+Text 20058471:	other
+Text 20058519:	human
+Text 20058544:	human
+Text 20058546:	human
+Text 20058555:	in_silico,in_vivo
+Text 20058556:	in_silico
+Text 20058567:	
+Text 20058574:	human
+Text 20058739:	other
+Text 20058780:	human
+Text 20058995:	
+Text 20059286:	other
+Text 20059292:	in_vivo
+Text 20059295:	other
+Text 20059298:	other
+Text 20059302:	in_vivo
+Text 20059303:	in_vivo
+Text 20059307:	other
+Text 20059308:	other
+Text 20059319:	human,in_vivo
+Text 20059323:	other
+Text 20059354:	other
+Text 20059367:	other
+Text 20059408:	human
+Text 20059452:	other
+Text 20059453:	
+Text 20059469:	
+Text 20059486:	other
+Text 20059508:	other
+Text 20059510:	other
+Text 20059511:	
+Text 20059514:	other
+Text 20059518:	other
+Text 20059526:	human
+Text 20059563:	other
+Text 20059573:	other
+Text 20059576:	in_vivo
+Text 20059584:	other
+Text 20059622:	other
+Text 20059651:	human
+Text 20059652:	other,human
+Text 20059657:	other
+Text 20059659:	human
+Text 20059662:	other
+Text 20059665:	
+Text 20059666:	human
+Text 20059667:	human,in_vivo
+Text 20059701:	
+Text 20059748:	
+Text 20059765:	other
+Text 20059775:	other
+Text 20059796:	other
+Text 20059797:	other
+Text 20059798:	human
+Text 20059799:	other
+Text 20059800:	other
+Text 20059801:	in_silico
+Text 20059803:	in_vivo
+Text 20059989:	in_vivo
+Text 20059990:	in_vivo
+Text 20059997:	human
+Text 20059998:	in_vivo
+Text 20060006:	in_silico,in_vivo
+Text 20060007:	
+Text 20060018:	
+Text 20060022:	
+Text 20060023:	human
+Text 20060039:	
+Text 20060087:	other
+Text 20060097:	human
+Text 20060098:	
+Text 20060100:	human
+Text 20060103:	other
+Text 20060104:	in_vivo
+Text 20060105:	human
+Text 20060127:	human
+Text 20060128:	human
+Text 20060129:	
+Text 20060132:	in_vivo
+Text 20060133:	human
+Text 20060171:	other
+Text 20060172:	other
+Text 20060173:	human
+Text 20060174:	human
+Text 20060207:	human
+Text 20060208:	human
+Text 20060228:	
+Text 20060229:	human
+Text 20060230:	other,in_vivo
+Text 20060237:	other
+Text 20060238:	other
+Text 20060239:	other
+Text 20060241:	
+Text 20060244:	other
+Text 20060251:	
+Text 20060252:	
+Text 20060254:	other
+Text 20060260:	other
+Text 20060277:	other
+Text 20060302:	other
+Text 20060329:	in_vivo,primary_cells
+Text 20060361:	in_vivo
+Text 20060401:	human
+Text 20060408:	other
+Text 20060416:	other
+Text 20060434:	
+Text 20060437:	human
+Text 20060439:	in_vivo
+Text 20060441:	in_silico,in_vivo
+Text 20060511:	in_vivo
+Text 20060515:	
+Text 20060516:	human
+Text 20060517:	human
+Text 20060519:	human
+Text 20060521:	other
+Text 20060545:	human
+Text 20060605:	in_vivo,primary_cells
+Text 20060614:	in_silico
+Text 20060621:	other,in_vivo
+Text 20060637:	
+Text 20060651:	other
+Text 20060655:	other
+Text 20060657:	other
+Text 20060666:	
+Text 20060672:	other
+Text 20060673:	other
+Text 20060680:	
+Text 20060684:	other
+Text 20060685:	other
+Text 20060686:	human
+Text 20060748:	other,human
+Text 20060750:	human
+Text 20060758:	
+Text 20060783:	other
+Text 20060785:	other
+Text 20060786:	human
+Text 20060796:	
+Text 20060824:	primary_cells
+Text 20060855:	other
+Text 20060871:	human
+Text 20060898:	in_vivo
+Text 20060900:	human
+Text 20060905:	in_vivo
+Text 20060906:	primary_cells
+Text 20060911:	human
+Text 20060915:	human
+Text 20060946:	human
+Text 20060961:	human
+Text 20060967:	human
+Text 20060971:	in_vivo
+Text 20060987:	other
+Text 20061018:	organs
+Text 20061028:	
+Text 20061032:	other
+Text 20061033:	in_vivo
+Text 20061035:	in_silico,other
+Text 20061077:	human
+Text 20061079:	human
+Text 20061080:	human
+Text 20061091:	
+Text 20061100:	other
+Text 20061101:	other
+Text 20061102:	organs
+Text 20061103:	other
+Text 20061104:	human
+Text 20061122:	other
+Text 20061123:	other
+Text 20061126:	
+Text 20061171:	other
+Text 20061175:	other
+Text 20061183:	human
+Text 20061185:	other
+Text 20061201:	other,human
+Text 20061208:	human
+Text 20061254:	other
+Text 20061255:	other
+Text 20061256:	other
+Text 20061257:	other
+Text 20061258:	
+Text 20061259:	other
+Text 20061260:	other
+Text 20061261:	
+Text 20061284:	human
+Text 20061324:	in_silico
+Text 20061325:	
+Text 20061327:	other
+Text 20061334:	other
+Text 20061343:	
+Text 20061365:	human
+Text 20061414:	other
+Text 20061419:	other
+Text 20061426:	human
+Text 20061509:	other
+Text 20061510:	other
+Text 20061516:	human
+Text 20061578:	other
+Text 20061602:	in_vivo
+Text 20061603:	primary_cells
+Text 20061605:	organs,in_vivo
+Text 20061606:	other
+Text 20061608:	human
+Text 20061609:	in_vivo
+Text 20061610:	organs
+Text 20061611:	human
+Text 20061612:	human
+Text 20061613:	human
+Text 20061618:	other
+Text 20061619:	other
+Text 20061621:	
+Text 20061622:	in_vivo
+Text 20061624:	human
+Text 20061625:	in_vivo
+Text 20061626:	human
+Text 20061627:	other
+Text 20061629:	human
+Text 20061630:	other
+Text 20061631:	in_vivo
+Text 20061632:	
+Text 20061633:	human
+Text 20061634:	in_silico
+Text 20061636:	other,human
+Text 20061638:	in_vivo
+Text 20061641:	other
+Text 20061642:	
+Text 20061643:	other
+Text 20061644:	
+Text 20061645:	human
+Text 20061646:	
+Text 20061647:	human
+Text 20061648:	other
+Text 20061649:	
+Text 20061650:	immortal_cell_line
+Text 20061651:	human
+Text 20061671:	other
+Text 20061672:	other
+Text 20061680:	other
+Text 20061685:	other
+Text 20061698:	other
+Text 20061720:	other
+Text 20061768:	human
+Text 20061820:	in_vivo
+Text 20061832:	other
+Text 20061862:	other
+Text 20061863:	other
+Text 20061864:	other
+Text 20061865:	other
+Text 20061866:	human
+Text 20061867:	other
+Text 20061868:	other
+Text 20061869:	other
+Text 20061870:	human
+Text 20061871:	other
+Text 20061872:	human
+Text 20061873:	human
+Text 20061874:	human
+Text 20061875:	human
+Text 20061918:	in_vivo
+Text 20061921:	other
+Text 20061938:	human
+Text 20061941:	
+Text 20061943:	other
+Text 20061953:	
+Text 20061961:	human
+Text 20061962:	
+Text 20061963:	other
+Text 20061988:	other
+Text 20062053:	in_vivo
+Text 20062056:	other
+Text 20062065:	human,in_vivo
+Text 20062078:	in_vivo
+Text 20062081:	human,in_vivo
+Text 20062542:	in_vivo,immortal_cell_line
+Text 20062809:	in_vivo
+Text 20062814:	other
+Text 20062894:	human
+Text 20062934:	other
+Text 20062939:	other
+Text 20063006:	other
+Text 20063008:	in_vivo
+Text 20063014:	other
+Text 20063023:	other
+Text 20063032:	human
+Text 20063038:	in_vivo
+Text 20063053:	other
+Text 20063061:	other
+Text 20063067:	human
+Text 20063113:	other
+Text 20063114:	human
+Text 20063115:	human
+Text 20063129:	other,human
+Text 20063172:	human
+Text 20063175:	human
+Text 20063176:	human
+Text 20063194:	human
+Text 20063200:	other
+Text 20063204:	other
+Text 20063231:	
+Text 20063232:	other
+Text 20063238:	human
+Text 20063239:	
+Text 20063243:	
+Text 20063246:	human
+Text 20063247:	
+Text 20063248:	other
+Text 20063249:	
+Text 20063250:	human
+Text 20063251:	human
+Text 20063252:	
+Text 20063255:	other
+Text 20063256:	human
+Text 20063259:	other
+Text 20063260:	human
+Text 20063304:	human
+Text 20063308:	
+Text 20063319:	human
+Text 20063350:	in_silico
+Text 20063352:	other
+Text 20063353:	
+Text 20063371:	
+Text 20063372:	in_silico
+Text 20063374:	other
+Text 20063375:	other
+Text 20063377:	human
+Text 20063386:	human
+Text 20063387:	human
+Text 20063388:	other
+Text 20063390:	other
+Text 20063394:	
+Text 20063397:	other
+Text 20063398:	human
+Text 20063399:	other
+Text 20063404:	
+Text 20063406:	human
+Text 20063410:	human
+Text 20063428:	other
+Text 20063429:	human
+Text 20063430:	other
+Text 20063431:	
+Text 20063432:	other
+Text 20063433:	human
+Text 20063434:	human
+Text 20063435:	human
+Text 20063489:	other
+Text 20063491:	other
+Text 20063498:	
+Text 20063513:	other
+Text 20063515:	other
+Text 20063522:	human
+Text 20063598:	
+Text 20063825:	in_vivo
+Text 20063906:	
+Text 20063907:	other
+Text 20063908:	other
+Text 20063920:	other
+Text 20063929:	other
+Text 20063930:	other
+Text 20063935:	other,human
+Text 20063937:	other
+Text 20063943:	human
+Text 20063944:	other
+Text 20063945:	human
+Text 20063946:	human
+Text 20063948:	human
+Text 20063950:	other
+Text 20063951:	human
+Text 20063952:	
+Text 20063953:	human
+Text 20063954:	
+Text 20063969:	
+Text 20063972:	in_silico
+Text 20063974:	in_silico
+Text 20063987:	in_vivo
+Text 20064046:	other
+Text 20064066:	other
+Text 20064125:	human
+Text 20064128:	other
+Text 20064129:	human
+Text 20064139:	other
+Text 20064188:	human
+Text 20064210:	human
+Text 20064226:	other
+Text 20064257:	other
+Text 20064263:	
+Text 20064269:	other
+Text 20064275:	
+Text 20064362:	
+Text 20064363:	other
+Text 20064381:	in_vivo
+Text 20064386:	
+Text 20064389:	in_vivo
+Text 20064390:	in_vivo
+Text 20064468:	
+Text 20064492:	human
+Text 20064496:	human
+Text 20064536:	human,in_vivo,primary_cells
+Text 20064547:	other,human
+Text 20064549:	in_vivo
+Text 20064557:	in_vivo
+Text 20064558:	in_vivo
+Text 20064564:	
+Text 20064577:	human
+Text 20064582:	human
+Text 20064587:	human
+Text 20064601:	
+Text 20064612:	
+Text 20064645:	other
+Text 20064650:	in_vivo,immortal_cell_line
+Text 20064663:	human
+Text 20064664:	in_silico
+Text 20064665:	human
+Text 20064666:	
+Text 20064667:	other
+Text 20064696:	other
+Text 20064697:	human
+Text 20064698:	human
+Text 20064699:	other
+Text 20064701:	other
+Text 20064703:	other
+Text 20064729:	other
+Text 20064737:	other
+Text 20064741:	other
+Text 20064745:	other
+Text 20064746:	human
+Text 20064748:	other
+Text 20064749:	other
+Text 20064765:	other
+Text 20064767:	in_silico,in_vivo
+Text 20064788:	in_vivo
+Text 20064792:	other
+Text 20064802:	other
+Text 20064815:	
+Text 20064817:	human
+Text 20064829:	human
+Text 20064861:	
+Text 20064864:	other
+Text 20064872:	other
+Text 20064882:	
+Text 20064887:	in_silico
+Text 20064890:	other
+Text 20064893:	human
+Text 20064894:	human
+Text 20064899:	human
+Text 20064900:	
+Text 20064915:	other
+Text 20064916:	other
+Text 20064917:	other
+Text 20064918:	other
+Text 20064922:	other
+Text 20064927:	human,in_vivo
+Text 20064935:	
+Text 20064953:	other
+Text 20065006:	other
+Text 20065062:	in_vivo
+Text 20065071:	human
+Text 20065072:	human
+Text 20065125:	
+Text 20065126:	human
+Text 20065127:	other
+Text 20065128:	human
+Text 20065130:	other
+Text 20065131:	other
+Text 20065132:	human
+Text 20065133:	human
+Text 20065134:	human
+Text 20065135:	
+Text 20065136:	human
+Text 20065137:	other
+Text 20065141:	human
+Text 20065143:	other,human
+Text 20065161:	
+Text 20065203:	other
+Text 20065204:	other
+Text 20065205:	other
+Text 20065246:	human
+Text 20065248:	other
+Text 20065252:	other
+Text 20065304:	
+Text 20065310:	other
+Text 20065314:	
+Text 20065339:	
+Text 20065359:	other
+Text 20065362:	other
+Text 20065380:	human
+Text 20065500:	in_vivo
+Text 20065541:	other
+Text 20065542:	other
+Text 20065543:	other
+Text 20065766:	other
+Text 20065773:	human
+Text 20065775:	other
+Text 20065791:	other
+Text 20065792:	
+Text 20065794:	human
+Text 20065795:	other,human
+Text 20065796:	other
+Text 20065799:	human
+Text 20065800:	human
+Text 20065830:	human
+Text 20065855:	in_silico
+Text 20065859:	other
+Text 20065865:	other
+Text 20065866:	other
+Text 20065871:	other
+Text 20065875:	other
+Text 20065879:	other
+Text 20065888:	other
+Text 20065891:	other
+Text 20065895:	other
+Text 20065898:	other
+Text 20065900:	other
+Text 20065920:	other
+Text 20065922:	other
+Text 20065955:	human
+Text 20065966:	other
+Text 20065980:	other
+Text 20065981:	human
+Text 20065982:	human
+Text 20065983:	other
+Text 20065984:	other
+Text 20065985:	other
+Text 20065986:	other
+Text 20065988:	other
+Text 20065989:	other
+Text 20065990:	in_vivo
+Text 20065991:	human
+Text 20066002:	in_vivo
+Text 20066005:	
+Text 20066010:	in_vivo
+Text 20066033:	
+Text 20066051:	human,in_vivo
+Text 20066100:	invertebrate
+Text 20066316:	in_vivo
+Text 20066399:	other
+Text 20066401:	in_vivo
+Text 20066405:	human
+Text 20066416:	human
+Text 20066429:	other
+Text 20066438:	other,human
+Text 20066439:	other
+Text 20066444:	other
+Text 20066469:	in_vivo
+Text 20066473:	in_vivo
+Text 20066474:	other,human
+Text 20066484:	other
+Text 20066485:	
+Text 20066489:	other
+Text 20066498:	in_vivo
+Text 20066514:	other
+Text 20066558:	other
+Text 20066581:	human
+Text 20066584:	
+Text 20066585:	
+Text 20066587:	other
+Text 20066614:	in_vivo
+Text 20066619:	other
+Text 20066626:	human
+Text 20066629:	other
+Text 20066631:	other
+Text 20066632:	other
+Text 20066633:	human
+Text 20066639:	other
+Text 20066645:	other
+Text 20066647:	other
+Text 20066649:	other
+Text 20066651:	other
+Text 20066671:	human
+Text 20066684:	other
+Text 20066694:	other
+Text 20066713:	other
+Text 20066728:	other
+Text 20066809:	in_vivo
+Text 20066829:	other
+Text 20066884:	in_silico
+Text 20066885:	human
+Text 20066886:	in_silico
+Text 20066887:	
+Text 20066888:	other
+Text 20067077:	other
+Text 20067099:	other
+Text 20067167:	human
+Text 20067205:	
+Text 20067207:	other
+Text 20067275:	other
+Text 20067323:	other
+Text 20067340:	
+Text 20067341:	other
+Text 20067344:	human
+Text 20067345:	other
+Text 20067346:	other
+Text 20067347:	other
+Text 20067351:	other
+Text 20067354:	other
+Text 20067363:	other
+Text 20067380:	human
+Text 20067394:	in_vivo
+Text 20067395:	human
+Text 20067427:	
+Text 20067433:	human
+Text 20067437:	organs
+Text 20067456:	human
+Text 20067499:	
+Text 20067500:	other
+Text 20067501:	other
+Text 20067502:	other
+Text 20067503:	in_vivo
+Text 20067505:	other
+Text 20067507:	other
+Text 20067509:	
+Text 20067511:	other
+Text 20067514:	
+Text 20067516:	other
+Text 20067570:	human
+Text 20067574:	in_vivo
+Text 20067575:	in_silico
+Text 20067580:	in_vivo
+Text 20067582:	in_vivo,primary_cells,immortal_cell_line
+Text 20067613:	other
+Text 20067632:	human
+Text 20067653:	other
+Text 20067661:	human
+Text 20067690:	other
+Text 20067853:	human
+Text 20067854:	
+Text 20067856:	human
+Text 20067857:	in_vivo
+Text 20067858:	other
+Text 20067949:	human
+Text 20067950:	
+Text 20067987:	human
+Text 20067988:	other
+Text 20068015:	other
+Text 20068019:	other
+Text 20068021:	other
+Text 20068022:	other
+Text 20068023:	other
+Text 20068024:	other
+Text 20068027:	
+Text 20068031:	other
+Text 20068073:	human,in_vivo
+Text 20068081:	in_vivo
+Text 20068105:	human
+Text 20068113:	other
+Text 20068115:	other
+Text 20068117:	other
+Text 20068123:	human
+Text 20068158:	in_vivo,immortal_cell_line
+Text 20068168:	human
+Text 20068170:	human
+Text 20068183:	human
+Text 20068209:	other
+Text 20068258:	other
+Text 20068284:	human
+Text 20068285:	human
+Text 20068300:	human
+Text 20068305:	
+Text 20068306:	human
+Text 20068307:	human
+Text 20068312:	other
+Text 20068339:	other
+Text 20068358:	other
+Text 20068360:	other
+Text 20068377:	other
+Text 20068378:	human
+Text 20068379:	
+Text 20068380:	other
+Text 20068382:	other
+Text 20068429:	other
+Text 20068430:	other
+Text 20068433:	other
+Text 20068435:	human
+Text 20068437:	other
+Text 20068440:	other
+Text 20068445:	human
+Text 20068459:	other
+Text 20068462:	in_silico
+Text 20068466:	in_vivo
+Text 20068473:	other
+Text 20068474:	other
+Text 20068481:	other
+Text 20068502:	other
+Text 20068509:	
+Text 20068552:	in_vivo
+Text 20068573:	in_vivo
+Text 20068574:	in_vivo
+Text 20068575:	in_vivo,immortal_cell_line
+Text 20068577:	in_vivo
+Text 20068578:	primary_cells
+Text 20068579:	in_vivo
+Text 20068580:	other
+Text 20068590:	other
+Text 20069202:	human
+Text 20069203:	human
+Text 20069205:	human
+Text 20069206:	human
+Text 20069207:	human
+Text 20069208:	other
+Text 20069209:	in_vivo
+Text 20069210:	human
+Text 20069211:	in_vivo
+Text 20069213:	human
+Text 20069214:	human
+Text 20069215:	human
+Text 20069216:	other
+Text 20069217:	human
+Text 20069218:	other
+Text 20069219:	other
+Text 20069220:	human
+Text 20069222:	other
+Text 20069223:	
+Text 20069224:	other
+Text 20069233:	in_vivo
+Text 20069234:	other
+Text 20069235:	other
+Text 20069236:	other
+Text 20069237:	
+Text 20069238:	other
+Text 20069292:	in_vivo
+Text 20069321:	other
+Text 20069332:	human
+Text 20069341:	human
+Text 20069342:	in_vivo
+Text 20069354:	human
+Text 20069374:	other
+Text 20069387:	
+Text 20069389:	human
+Text 20069390:	human
+Text 20069392:	other
+Text 20069432:	human
+Text 20069437:	human
+Text 20069438:	human
+Text 20069447:	other
+Text 20069471:	other
+Text 20069502:	other
+Text 20069507:	other
+Text 20069533:	other
+Text 20069560:	other
+Text 20069566:	other
+Text 20069567:	human
+Text 20069586:	human
+Text 20069587:	human
+Text 20069588:	human
+Text 20069607:	other
+Text 20069694:	other,human
+Text 20069747:	other
+Text 20069804:	other
+Text 20069822:	
+Text 20069823:	other
+Text 20069824:	other
+Text 20069936:	other
+Text 20070007:	
+Text 20070008:	other
+Text 20070017:	other
+Text 20070041:	human
+Text 20070131:	other
+Text 20070132:	other
+Text 20070133:	in_silico
+Text 20070134:	other
+Text 20070135:	human
+Text 20070136:	other
+Text 20070191:	other
+Text 20070195:	
+Text 20070220:	
+Text 20070224:	other
+Text 20070226:	
+Text 20070227:	other
+Text 20070228:	other
+Text 20070248:	human
+Text 20070252:	
+Text 20070267:	other
+Text 20070274:	other
+Text 20070275:	human
+Text 20070278:	human
+Text 20070298:	in_silico
+Text 20070301:	other
+Text 20070383:	other
+Text 20070414:	other
+Text 20070417:	other
+Text 20070450:	
+Text 20070463:	other
+Text 20070465:	human
+Text 20070474:	other
+Text 20070492:	in_vivo
+Text 20070504:	other
+Text 20070534:	other
+Text 20070537:	in_vivo
+Text 20070553:	human
+Text 20070571:	human
+Text 20070598:	other
+Text 20070719:	other
+Text 20070735:	other
+Text 20070784:	
+Text 20070785:	
+Text 20070786:	other
+Text 20070787:	
+Text 20070788:	other
+Text 20070789:	other
+Text 20070830:	other
+Text 20070849:	human
+Text 20070850:	other
+Text 20070863:	primary_cells
+Text 20070866:	in_vivo
+Text 20070876:	human
+Text 20070878:	human
+Text 20070932:	other
+Text 20070942:	in_vivo
+Text 20070949:	human
+Text 20070951:	other
+Text 20070952:	human
+Text 20070986:	other
+Text 20070987:	other
+Text 20071032:	other
+Text 20071033:	other
+Text 20071034:	human
+Text 20071035:	human
+Text 20071036:	other
+Text 20071037:	human
+Text 20071062:	other
+Text 20071063:	
+Text 20071075:	other
+Text 20071079:	other
+Text 20071097:	
+Text 20071098:	
+Text 20071099:	other
+Text 20071101:	other
+Text 20071102:	
+Text 20071104:	other
+Text 20071106:	human
+Text 20071117:	human
+Text 20071118:	human
+Text 20071123:	in_vivo
+Text 20071143:	
+Text 20071145:	human
+Text 20071146:	other,human
+Text 20071147:	human
+Text 20071148:	human
+Text 20071149:	other
+Text 20071176:	human
+Text 20071177:	human
+Text 20071178:	human
+Text 20071179:	other
+Text 20071180:	human
+Text 20071181:	other
+Text 20071183:	in_vivo
+Text 20071184:	human
+Text 20071221:	human
+Text 20071222:	other
+Text 20071232:	other,human
+Text 20071239:	human
+Text 20071244:	other
+Text 20071252:	other
+Text 20071262:	
+Text 20071265:	in_silico
+Text 20071275:	other
+Text 20071276:	
+Text 20071326:	other
+Text 20071346:	other
+Text 20071347:	in_vivo,immortal_cell_line
+Text 20071349:	human
+Text 20071442:	other
+Text 20071447:	other
+Text 20071459:	human
+Text 20071472:	other
+Text 20071478:	human
+Text 20071513:	in_vivo
+Text 20071518:	in_vivo
+Text 20071529:	
+Text 20071534:	in_vivo
+Text 20071543:	in_vivo,primary_cells
+Text 20071601:	
+Text 20071615:	in_vivo
+Text 20071637:	human
+Text 20071638:	human
+Text 20071639:	human
+Text 20071640:	other
+Text 20071648:	other
+Text 20071666:	other
+Text 20071672:	in_vivo
+Text 20071699:	other
+Text 20071700:	other
+Text 20071773:	in_vivo
+Text 20071849:	other
+Text 20071853:	other
+Text 20071876:	
+Text 20071915:	other
+Text 20071916:	other
+Text 20071917:	
+Text 20071919:	other
+Text 20071921:	other
+Text 20071997:	other
+Text 20072012:	human
+Text 20072013:	other
+Text 20072114:	in_vivo
+Text 20072116:	human
+Text 20072119:	human,in_vivo
+Text 20072131:	
+Text 20072140:	in_vivo
+Text 20072616:	human
+Text 20072650:	human
+Text 20072655:	in_vivo
+Text 20072763:	other
+Text 20072780:	in_silico
+Text 20072816:	human
+Text 20072923:	human
+Text 20072963:	other
+Text 20072978:	other
+Text 20073039:	other
+Text 20073084:	organs,in_vivo
+Text 20073098:	human
+Text 20073108:	
+Text 20073117:	other
+Text 20073129:	human
+Text 20073388:	
+Text 20073406:	human
+Text 20073409:	human
+Text 20073410:	other
+Text 20073413:	other
+Text 20073416:	other
+Text 20073417:	other
+Text 20073544:	human
+Text 20073548:	human
+Text 20073563:	other
+Text 20073564:	other
+Text 20073565:	other
+Text 20073566:	
+Text 20073567:	human
+Text 20073568:	other
+Text 20073569:	in_silico
+Text 20073570:	human
+Text 20073614:	other
+Text 20074049:	
+Text 20074050:	
+Text 20074056:	
+Text 20074095:	other
+Text 20074101:	human
+Text 20074102:	other
+Text 20074111:	other
+Text 20074121:	other
+Text 20074198:	other
+Text 20074200:	
+Text 20074201:	other
+Text 20074202:	other
+Text 20074203:	other
+Text 20074204:	other
+Text 20074205:	
+Text 20074216:	in_vivo
+Text 20074226:	in_vivo
+Text 20074228:	other
+Text 20074230:	human
+Text 20074231:	human
+Text 20074233:	other
+Text 20074234:	human
+Text 20074235:	other
+Text 20074249:	other
+Text 20074250:	other
+Text 20074251:	other
+Text 20074255:	human
+Text 20074263:	other
+Text 20074264:	other
+Text 20074265:	other
+Text 20074284:	human
+Text 20074285:	human
+Text 20074286:	other
+Text 20074291:	other
+Text 20074299:	
+Text 20074311:	human
+Text 20074312:	human
+Text 20074329:	immortal_cell_line
+Text 20074355:	
+Text 20074360:	other
+Text 20074361:	other
+Text 20074365:	primary_cells
+Text 20074378:	human
+Text 20074386:	human
+Text 20074392:	other
+Text 20074395:	other
+Text 20074410:	other
+Text 20074441:	other
+Text 20074445:	other
+Text 20074449:	human
+Text 20074462:	human
+Text 20074505:	human
+Text 20074506:	other
+Text 20074507:	human
+Text 20074508:	other
+Text 20074521:	in_vivo
+Text 20074541:	human
+Text 20074569:	other
+Text 20074579:	in_vivo
+Text 20074589:	in_vivo
+Text 20074609:	human
+Text 20074610:	human
+Text 20074612:	human
+Text 20074617:	
+Text 20074621:	in_vivo
+Text 20074637:	human
+Text 20074650:	human
+Text 20074662:	in_silico
+Text 20074673:	in_vivo
+Text 20074678:	other
+Text 20074701:	human
+Text 20074702:	
+Text 20074703:	human
+Text 20074704:	human
+Text 20074705:	in_vivo
+Text 20074721:	other
+Text 20074746:	other
+Text 20074753:	other
+Text 20074786:	other,human
+Text 20074810:	other
+Text 20074811:	
+Text 20074814:	other
+Text 20074840:	other
+Text 20074861:	human
+Text 20074863:	other
+Text 20074864:	
+Text 20074867:	other
+Text 20074868:	other
+Text 20074869:	human
+Text 20074870:	in_vivo
+Text 20074877:	other
+Text 20074885:	in_vivo
+Text 20074909:	
+Text 20074911:	human
+Text 20074912:	human
+Text 20074914:	other
+Text 20074950:	other
+Text 20074952:	other
+Text 20074955:	human
+Text 20074956:	human
+Text 20074957:	other
+Text 20074962:	other
+Text 20074964:	other
+Text 20074968:	in_vivo
+Text 20074969:	human
+Text 20074983:	other
+Text 20074988:	other
+Text 20074996:	in_vivo
+Text 20074999:	other
+Text 20075002:	other
+Text 20075004:	other
+Text 20075009:	other
+Text 20075010:	human
+Text 20075011:	other
+Text 20075013:	human
+Text 20075014:	human
+Text 20075026:	in_vivo
+Text 20075027:	other
+Text 20075084:	other
+Text 20075085:	other
+Text 20075087:	other
+Text 20075088:	human
+Text 20075090:	other
+Text 20075091:	other
+Text 20075092:	other
+Text 20075093:	human
+Text 20075095:	other
+Text 20075096:	human
+Text 20075099:	other
+Text 20075101:	human
+Text 20075103:	other
+Text 20075148:	
+Text 20075151:	other
+Text 20075179:	other
+Text 20075184:	human
+Text 20075201:	in_vivo,primary_cells
+Text 20075202:	in_vivo
+Text 20075314:	other
+Text 20075317:	human
+Text 20075324:	other
+Text 20075325:	other
+Text 20075337:	
+Text 20075340:	in_vivo
+Text 20075341:	other
+Text 20075343:	in_vivo
+Text 20075345:	
+Text 20075346:	in_vivo
+Text 20075347:	other
+Text 20075348:	in_silico
+Text 20075350:	human
+Text 20075355:	other
+Text 20075356:	other
+Text 20075357:	other
+Text 20075358:	other
+Text 20075359:	human
+Text 20075360:	other
+Text 20075361:	human
+Text 20075362:	other
+Text 20075378:	other
+Text 20075400:	other
+Text 20075429:	other
+Text 20075551:	other
+Text 20075552:	human
+Text 20075560:	other
+Text 20075561:	in_vivo
+Text 20075582:	human
+Text 20075583:	human
+Text 20075587:	human
+Text 20075589:	human
+Text 20075608:	
+Text 20075641:	other
+Text 20075642:	human
+Text 20075643:	human
+Text 20075644:	
+Text 20075645:	human
+Text 20075646:	human
+Text 20075647:	human
+Text 20075649:	other
+Text 20075650:	human
+Text 20075652:	other
+Text 20075677:	other
+Text 20075741:	human
+Text 20075749:	other,human
+Text 20075756:	other
+Text 20075771:	other
+Text 20075815:	other
+Text 20075816:	other
+Text 20075821:	other
+Text 20075822:	other
+Text 20075825:	human
+Text 20075826:	human
+Text 20075828:	human
+Text 20075834:	human
+Text 20075944:	other
+Text 20076843:	
+Text 20076847:	human
+Text 20076850:	human
+Text 20076852:	human
+Text 20076951:	
+Text 20076974:	other
+Text 20076979:	other
+Text 20076981:	other,human
+Text 20076987:	other
+Text 20076989:	other
+Text 20077006:	other
+Text 20077026:	in_silico,other
+Text 20077038:	human
+Text 20077053:	in_silico
+Text 20077064:	other
+Text 20077096:	other
+Text 20077119:	other
+Text 20077132:	
+Text 20077146:	other
+Text 20077148:	other
+Text 20077149:	other
+Text 20077192:	in_vivo
+Text 20077233:	other
+Text 20077234:	other
+Text 20077240:	in_silico
+Text 20077242:	other
+Text 20077268:	other
+Text 20077272:	human
+Text 20077313:	other
+Text 20077315:	other
+Text 20077319:	other
+Text 20077335:	other
+Text 20077355:	other
+Text 20077359:	other
+Text 20077363:	other
+Text 20077365:	human
+Text 20077366:	other
+Text 20077370:	human
+Text 20077371:	other
+Text 20077376:	other
+Text 20077427:	in_vivo
+Text 20077430:	human
+Text 20077431:	in_vivo
+Text 20077468:	
+Text 20077469:	human
+Text 20077470:	human
+Text 20077474:	in_vivo
+Text 20077476:	other
+Text 20077478:	human
+Text 20077482:	other
+Text 20077483:	other
+Text 20077484:	human
+Text 20077492:	human
+Text 20077498:	other
+Text 20077503:	human
+Text 20077522:	other
+Text 20077587:	other
+Text 20077594:	in_vivo
+Text 20077761:	human
+Text 20077763:	
+Text 20077943:	other
+Text 20077970:	other
+Text 20077971:	other
+Text 20077972:	other
+Text 20077975:	other
+Text 20077977:	other
+Text 20077978:	other
+Text 20077980:	other
+Text 20077983:	
+Text 20077988:	
+Text 20077992:	other
+Text 20077994:	other
+Text 20077997:	other
+Text 20078003:	other
+Text 20078008:	other
+Text 20078018:	
+Text 20078020:	other
+Text 20078022:	human
+Text 20078024:	human
+Text 20078025:	other
+Text 20078194:	human
+Text 20078206:	human
+Text 20078225:	human
+Text 20078268:	
+Text 20078316:	human
+Text 20078336:	other
+Text 20078412:	other
+Text 20078438:	other
+Text 20078439:	other
+Text 20078446:	other
+Text 20078447:	other,human
+Text 20078461:	other
+Text 20078462:	other
+Text 20078464:	
+Text 20078479:	other
+Text 20078480:	other
+Text 20078482:	other
+Text 20078484:	in_silico
+Text 20078486:	human
+Text 20078487:	human
+Text 20078489:	
+Text 20078490:	other
+Text 20078491:	
+Text 20078509:	other
+Text 20078514:	human
+Text 20078515:	human
+Text 20078534:	human
+Text 20078558:	in_vivo
+Text 20078574:	other
+Text 20078676:	other
+Text 20078677:	other
+Text 20078678:	other
+Text 20078681:	other
+Text 20078682:	other
+Text 20078683:	other
+Text 20078684:	other
+Text 20078685:	human
+Text 20078686:	other
+Text 20078690:	other
+Text 20078710:	other
+Text 20078741:	
+Text 20078852:	human
+Text 20078871:	other
+Text 20078888:	human
+Text 20078906:	other
+Text 20078907:	other
+Text 20078908:	
+Text 20079131:	human
+Text 20079141:	in_vivo
+Text 20079151:	
+Text 20079152:	other
+Text 20079154:	other
+Text 20079155:	other
+Text 20079158:	in_vivo
+Text 20079331:	human
+Text 20079332:	other
+Text 20079340:	organs
+Text 20079342:	in_vivo
+Text 20079345:	in_vivo
+Text 20079352:	in_vivo
+Text 20079354:	human
+Text 20079361:	in_vivo
+Text 20079362:	in_vivo
+Text 20079372:	in_vivo
+Text 20079375:	in_vivo
+Text 20079417:	in_vivo
+Text 20079421:	in_vivo
+Text 20079423:	immortal_cell_line
+Text 20079427:	in_vivo
+Text 20079441:	
+Text 20079463:	other
+Text 20079527:	human
+Text 20079534:	other
+Text 20079543:	in_silico
+Text 20079552:	other
+Text 20079576:	
+Text 20079577:	other
+Text 20079603:	other
+Text 20079604:	
+Text 20079611:	other
+Text 20079614:	human
+Text 20079617:	human
+Text 20079618:	other
+Text 20079620:	
+Text 20079650:	human
+Text 20079653:	human
+Text 20079675:	other
+Text 20079676:	other
+Text 20079694:	in_vivo
+Text 20079752:	other
+Text 20079755:	human
+Text 20079764:	in_vivo
+Text 20079770:	human
+Text 20079791:	other
+Text 20079792:	human
+Text 20079802:	in_vivo
+Text 20079803:	in_vivo
+Text 20079805:	organs,in_vivo
+Text 20079839:	in_vivo
+Text 20079840:	in_vivo
+Text 20079841:	in_vivo,primary_cells
+Text 20079872:	in_vivo
+Text 20079890:	human
+Text 20079891:	other
+Text 20079904:	other
+Text 20079920:	
+Text 20079932:	human
+Text 20079934:	human
+Text 20079935:	human
+Text 20079936:	human
+Text 20079937:	other
+Text 20079947:	other
+Text 20079962:	other
+Text 20079972:	other
+Text 20079976:	
+Text 20079977:	human
+Text 20079978:	human
+Text 20079979:	
+Text 20079980:	
+Text 20079984:	in_silico,other,in_vivo
+Text 20079996:	other
+Text 20080022:	other
+Text 20080027:	other
+Text 20080033:	human
+Text 20080036:	human
+Text 20080037:	human
+Text 20080044:	in_vivo
+Text 20080053:	
+Text 20080072:	other
+Text 20080076:	
+Text 20080115:	in_vivo
+Text 20080116:	human
+Text 20080141:	human
+Text 20080147:	in_vivo
+Text 20080148:	in_vivo
+Text 20080169:	other
+Text 20080176:	in_vivo
+Text 20080186:	human
+Text 20080189:	other
+Text 20080192:	
+Text 20080219:	other
+Text 20080269:	other
+Text 20080301:	in_vivo
+Text 20080302:	in_vivo
+Text 20080303:	
+Text 20080305:	other
+Text 20080308:	other
+Text 20080314:	
+Text 20080363:	other
+Text 20080383:	
+Text 20080392:	other
+Text 20080395:	
+Text 20080396:	other
+Text 20080404:	human
+Text 20080408:	
+Text 20080410:	other
+Text 20080426:	other
+Text 20080444:	human
+Text 20080448:	human
+Text 20080521:	other
+Text 20080541:	primary_cells
+Text 20080591:	other
+Text 20080638:	in_vivo
+Text 20080666:	human,in_vivo
+Text 20080717:	other
+Text 20080793:	
+Text 20080833:	in_silico
+Text 20080839:	other
+Text 20080848:	other
+Text 20080850:	other
+Text 20080878:	human
+Text 20080891:	human
+Text 20080893:	human
+Text 20080894:	other
+Text 20080901:	
+Text 20080915:	human
+Text 20080923:	other
+Text 20080926:	human
+Text 20080928:	human
+Text 20080969:	in_vivo,primary_cells
+Text 20080979:	human
+Text 20080980:	other
+Text 20080981:	other
+Text 20080982:	other
+Text 20080983:	human
+Text 20080984:	other
+Text 20081041:	other
+Text 20081088:	in_vivo
+Text 20081090:	other
+Text 20081136:	other
+Text 20081139:	other
+Text 20081222:	other
+Text 20081230:	in_vivo
+Text 20081231:	in_vivo
+Text 20081237:	human
+Text 20081240:	in_vivo
+Text 20081242:	in_vivo
+Text 20081253:	in_vivo
+Text 20081360:	in_vivo
+Text 20081430:	human
+Text 20081431:	other
+Text 20081433:	other
+Text 20081434:	human
+Text 20081436:	other
+Text 20081440:	other
+Text 20081502:	other
+Text 20081503:	other
+Text 20081504:	human
+Text 20081505:	human
+Text 20081506:	human
+Text 20081514:	other
+Text 20081524:	other
+Text 20081534:	in_vivo
+Text 20081553:	other
+Text 20081558:	other
+Text 20081638:	other
+Text 20081639:	
+Text 20081641:	
+Text 20081658:	
+Text 20081692:	other
+Text 20081700:	other
+Text 20081754:	other,human
+Text 20081763:	other
+Text 20081766:	other
+Text 20081770:	in_vivo
+Text 20081802:	human
+Text 20081856:	other
+Text 20082051:	other
+Text 20082052:	other
+Text 20082053:	human
+Text 20082055:	other
+Text 20082064:	other
+Text 20082118:	other
+Text 20082122:	human
+Text 20082128:	other
+Text 20082150:	other
+Text 20082166:	other
+Text 20082186:	human
+Text 20082196:	other
+Text 20082205:	other
+Text 20082230:	
+Text 20082240:	human
+Text 20082241:	other
+Text 20082242:	other
+Text 20082252:	human
+Text 20082265:	other
+Text 20082288:	organs,in_vivo
+Text 20082291:	human
+Text 20082294:	other
+Text 20082297:	in_vivo
+Text 20082332:	other
+Text 20082337:	other
+Text 20082340:	human
+Text 20082348:	human
+Text 20082364:	in_silico
+Text 20082418:	in_vivo
+Text 20082460:	other
+Text 20082461:	other
+Text 20082465:	other
+Text 20082467:	other,human
+Text 20082490:	other
+Text 20082534:	in_vivo
+Text 20082537:	other
+Text 20082541:	other
+Text 20082559:	other
+Text 20082560:	other
+Text 20082623:	in_vivo
+Text 20082658:	human,in_vivo
+Text 20082712:	other
+Text 20082714:	human
+Text 20082719:	other
+Text 20082724:	other
+Text 20082726:	other
+Text 20082727:	other
+Text 20082828:	human
+Text 20082830:	human
+Text 20082832:	in_vivo
+Text 20082855:	human
+Text 20082873:	
+Text 20082923:	other
+Text 20082929:	other
+Text 20082934:	other
+Text 20082946:	
+Text 20082965:	other
+Text 20082966:	human
+Text 20082967:	human
+Text 20082968:	other
+Text 20082969:	
+Text 20082970:	
+Text 20082971:	
+Text 20082973:	other
+Text 20082975:	
+Text 20082976:	
+Text 20082977:	
+Text 20082978:	
+Text 20082979:	
+Text 20082980:	in_vivo
+Text 20082981:	other
+Text 20082982:	in_vivo
+Text 20082983:	other
+Text 20082984:	in_vivo
+Text 20082985:	
+Text 20082986:	
+Text 20082987:	in_vivo
+Text 20082988:	in_vivo
+Text 20082989:	primary_cells
+Text 20082990:	human
+Text 20082991:	other
+Text 20082992:	in_vivo
+Text 20082993:	
+Text 20082994:	
+Text 20082995:	other
+Text 20082997:	
+Text 20082998:	other
+Text 20082999:	
+Text 20083000:	other
+Text 20083001:	other
+Text 20083004:	other
+Text 20083005:	in_vivo
+Text 20083007:	human
+Text 20083008:	other
+Text 20083009:	in_vivo
+Text 20083010:	
+Text 20083011:	in_vivo
+Text 20083012:	in_vivo
+Text 20083016:	
+Text 20083017:	
+Text 20083018:	
+Text 20083019:	
+Text 20083041:	other
+Text 20083042:	
+Text 20083043:	in_vivo
+Text 20083045:	other
+Text 20083047:	other
+Text 20083049:	other
+Text 20083072:	human
+Text 20083089:	in_vivo
+Text 20083091:	in_vivo
+Text 20083093:	human
+Text 20083105:	in_vivo,primary_cells
+Text 20083106:	
+Text 20083140:	
+Text 20083145:	other
+Text 20083149:	human
+Text 20083167:	in_vivo
+Text 20083168:	in_vivo
+Text 20083179:	in_vivo,immortal_cell_line
+Text 20083190:	in_vivo,primary_cells
+Text 20083199:	in_vivo
+Text 20083207:	in_silico
+Text 20083211:	human
+Text 20083309:	human
+Text 20083310:	human
+Text 20083311:	other
+Text 20083312:	other,human
+Text 20083340:	human
+Text 20083359:	
+Text 20083371:	other
+Text 20083372:	other
+Text 20083385:	other
+Text 20083391:	other,human
+Text 20083392:	human
+Text 20083395:	human
+Text 20083405:	other
+Text 20083407:	other
+Text 20083408:	human
+Text 20083416:	other
+Text 20083431:	human
+Text 20083478:	
+Text 20083479:	human
+Text 20083496:	other
+Text 20083516:	other
+Text 20083520:	other
+Text 20083521:	human
+Text 20083524:	other
+Text 20083526:	other
+Text 20083527:	
+Text 20083529:	other
+Text 20083556:	other,human
+Text 20083630:	in_vivo
+Text 20083646:	human
+Text 20083648:	
+Text 20083676:	human
+Text 20083679:	in_vivo
+Text 20083680:	other
+Text 20083683:	other
+Text 20083731:	human
+Text 20083796:	
+Text 20083797:	human
+Text 20083798:	human
+Text 20083799:	other
+Text 20083800:	other
+Text 20083801:	human
+Text 20083827:	other
+Text 20083857:	in_vivo
+Text 20083863:	in_silico
+Text 20083870:	other
+Text 20083887:	other
+Text 20083912:	other
+Text 20083914:	
+Text 20083999:	other
+Text 20084002:	other
+Text 20084014:	in_vivo
+Text 20084015:	in_vivo
+Text 20084016:	in_vivo
+Text 20084017:	in_vivo
+Text 20084018:	human
+Text 20084019:	in_vivo
+Text 20084020:	human
+Text 20084024:	other
+Text 20084060:	in_vivo
+Text 20084083:	in_vivo
+Text 20084298:	human
+Text 20084313:	other
+Text 20084351:	
+Text 20084368:	
+Text 20084426:	other
+Text 20084429:	other
+Text 20084433:	other
+Text 20084451:	other
+Text 20084452:	other
+Text 20084453:	in_silico
+Text 20084461:	other
+Text 20084466:	other,in_vivo
+Text 20084518:	other
+Text 20084519:	in_silico
+Text 20084535:	other

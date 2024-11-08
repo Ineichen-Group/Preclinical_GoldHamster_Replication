@@ -1,0 +1,4425 @@
+Text 32445227:	human
+Text 32445240:	other
+Text 32445272:	in_vivo
+Text 32445275:	human
+Text 32445289:	other
+Text 32445293:	other
+Text 32445327:	other
+Text 32445335:	human
+Text 32445344:	other
+Text 32445345:	other
+Text 32445359:	other
+Text 32445405:	other
+Text 32445410:	in_silico
+Text 32445412:	other
+Text 32445441:	other
+Text 32445453:	
+Text 32445491:	primary_cells
+Text 32445495:	human
+Text 32445498:	in_silico
+Text 32445500:	human
+Text 32445516:	in_vivo
+Text 32445532:	
+Text 32445553:	human
+Text 32445576:	other
+Text 32445577:	other
+Text 32445601:	other
+Text 32445611:	other
+Text 32445622:	
+Text 32445644:	other
+Text 32445645:	in_vivo
+Text 32445667:	other
+Text 32445688:	other
+Text 32445689:	other
+Text 32445690:	human
+Text 32445698:	human
+Text 32445714:	in_vivo
+Text 32445715:	in_vivo
+Text 32445716:	in_vivo
+Text 32445720:	other
+Text 32445740:	other
+Text 32445758:	in_vivo
+Text 32445778:	human,in_vivo
+Text 32445790:	human,in_vivo
+Text 32445792:	human
+Text 32445802:	other
+Text 32445834:	other
+Text 32445846:	
+Text 32445847:	other
+Text 32445849:	other
+Text 32445868:	in_vivo
+Text 32445870:	
+Text 32445876:	in_vivo
+Text 32445879:	human
+Text 32445898:	human
+Text 32445900:	human
+Text 32445916:	human
+Text 32445926:	other
+Text 32445927:	other
+Text 32445939:	in_vivo
+Text 32445958:	in_vivo
+Text 32445970:	other
+Text 32445975:	
+Text 32445987:	other
+Text 32446006:	human
+Text 32446007:	other
+Text 32446008:	human
+Text 32446009:	human
+Text 32446010:	other
+Text 32446011:	human
+Text 32446017:	other
+Text 32446023:	human
+Text 32446053:	other
+Text 32446108:	
+Text 32446118:	human
+Text 32446130:	other
+Text 32446153:	other
+Text 32446155:	other
+Text 32446158:	human
+Text 32446162:	other
+Text 32446163:	other,human
+Text 32446164:	human
+Text 32446171:	
+Text 32446176:	human
+Text 32446183:	other
+Text 32446188:	in_silico
+Text 32446196:	in_vivo
+Text 32446198:	in_vivo
+Text 32446208:	human
+Text 32446209:	other
+Text 32446215:	other
+Text 32446239:	human
+Text 32446241:	other
+Text 32446242:	other
+Text 32446264:	other
+Text 32446351:	immortal_cell_line
+Text 32446354:	
+Text 32446371:	in_vivo
+Text 32446416:	other
+Text 32446417:	other
+Text 32446418:	human
+Text 32446419:	
+Text 32446422:	human
+Text 32446425:	other
+Text 32446436:	other
+Text 32446437:	
+Text 32446438:	
+Text 32446439:	other
+Text 32446440:	
+Text 32446441:	
+Text 32446442:	in_silico,other
+Text 32446472:	other
+Text 32446486:	other
+Text 32446491:	other
+Text 32446493:	other
+Text 32446598:	other
+Text 32446608:	
+Text 32446613:	other
+Text 32446620:	other
+Text 32446635:	other
+Text 32446642:	other
+Text 32446643:	other
+Text 32446657:	other
+Text 32446663:	other
+Text 32446679:	other
+Text 32446680:	other
+Text 32446705:	
+Text 32446707:	human
+Text 32446712:	human
+Text 32446724:	other
+Text 32446740:	in_vivo
+Text 32446751:	in_silico
+Text 32446772:	human
+Text 32446775:	other,human
+Text 32446776:	in_vivo
+Text 32446799:	other
+Text 32446808:	human
+Text 32446809:	human
+Text 32446853:	in_vivo
+Text 32446860:	other
+Text 32446915:	human
+Text 32446918:	human
+Text 32446925:	human
+Text 32446943:	in_silico
+Text 32446949:	in_vivo
+Text 32446984:	
+Text 32447005:	in_silico,other,human
+Text 32447010:	human
+Text 32447011:	human
+Text 32447026:	in_vivo
+Text 32447041:	other
+Text 32447045:	human
+Text 32447055:	other
+Text 32447071:	human
+Text 32447079:	other
+Text 32447091:	human
+Text 32447092:	
+Text 32447126:	other
+Text 32447142:	other
+Text 32447150:	other
+Text 32447151:	other
+Text 32447172:	other
+Text 32447173:	other
+Text 32447177:	human
+Text 32447184:	human
+Text 32447185:	in_silico
+Text 32447193:	other
+Text 32447194:	other
+Text 32447220:	in_vivo,primary_cells
+Text 32447221:	in_vivo,immortal_cell_line
+Text 32447225:	human
+Text 32447226:	
+Text 32447234:	other,human
+Text 32447236:	
+Text 32447238:	other
+Text 32447239:	other
+Text 32447250:	in_vivo,primary_cells
+Text 32447258:	human
+Text 32447269:	other
+Text 32447281:	other
+Text 32447299:	other
+Text 32447300:	other
+Text 32447311:	other
+Text 32447331:	other
+Text 32447338:	in_vivo,primary_cells
+Text 32447341:	other
+Text 32447352:	invertebrate
+Text 32447353:	other
+Text 32447354:	human
+Text 32447355:	
+Text 32447356:	
+Text 32447357:	human
+Text 32447364:	other
+Text 32447369:	
+Text 32447375:	other
+Text 32447377:	
+Text 32447392:	in_vivo
+Text 32447413:	other,human
+Text 32447487:	other
+Text 32447508:	in_silico
+Text 32447509:	in_vivo
+Text 32447518:	other
+Text 32447519:	in_silico
+Text 32447550:	human
+Text 32447551:	other
+Text 32447552:	human
+Text 32447554:	other
+Text 32447559:	human
+Text 32447564:	other
+Text 32447570:	human
+Text 32447593:	other
+Text 32447600:	human
+Text 32447613:	in_vivo
+Text 32447614:	other
+Text 32447630:	
+Text 32447633:	other
+Text 32447646:	human
+Text 32447717:	other
+Text 32447744:	human
+Text 32447764:	in_vivo
+Text 32447793:	
+Text 32447809:	in_vivo
+Text 32447818:	other
+Text 32447823:	other,human
+Text 32447828:	in_vivo,primary_cells,immortal_cell_line
+Text 32447964:	other
+Text 32447967:	other
+Text 32447971:	other
+Text 32447974:	
+Text 32447975:	other
+Text 32447976:	other
+Text 32447978:	other
+Text 32447982:	other
+Text 32448005:	other
+Text 32448016:	in_silico
+Text 32448023:	other
+Text 32448024:	other
+Text 32448031:	in_vivo
+Text 32448035:	other
+Text 32448045:	other
+Text 32448076:	other
+Text 32448078:	human
+Text 32448089:	other
+Text 32448097:	in_vivo
+Text 32448103:	human
+Text 32448104:	in_vivo
+Text 32448109:	
+Text 32448117:	other
+Text 32448118:	human
+Text 32448119:	other
+Text 32448130:	human
+Text 32448133:	other
+Text 32448135:	human
+Text 32448142:	other
+Text 32448143:	other
+Text 32448149:	
+Text 32448151:	other
+Text 32448169:	human
+Text 32448170:	other
+Text 32448183:	other
+Text 32448187:	
+Text 32448188:	human
+Text 32448206:	other
+Text 32448254:	other
+Text 32448255:	other
+Text 32448290:	other
+Text 32448322:	
+Text 32448329:	in_vivo
+Text 32448338:	other
+Text 32448342:	other
+Text 32448347:	other
+Text 32448354:	other
+Text 32448454:	other
+Text 32448455:	other
+Text 32448457:	other
+Text 32448458:	other
+Text 32448460:	other
+Text 32448461:	
+Text 32448486:	other
+Text 32448507:	in_silico,primary_cells
+Text 32448538:	in_vivo
+Text 32448540:	other
+Text 32448551:	other
+Text 32448557:	
+Text 32448602:	other
+Text 32448603:	human
+Text 32448604:	human
+Text 32448605:	human
+Text 32448606:	other
+Text 32448607:	human
+Text 32448608:	human
+Text 32448609:	human
+Text 32448610:	in_vivo
+Text 32448611:	in_vivo
+Text 32448612:	
+Text 32448613:	human
+Text 32448614:	human,in_vivo
+Text 32448615:	human
+Text 32448616:	in_vivo
+Text 32448623:	in_vivo
+Text 32448657:	human
+Text 32448663:	other
+Text 32448674:	human
+Text 32448677:	human
+Text 32448678:	human
+Text 32448713:	human
+Text 32448728:	human
+Text 32448752:	human
+Text 32448781:	other
+Text 32448792:	other
+Text 32448828:	in_silico
+Text 32448834:	human
+Text 32448842:	human
+Text 32448866:	other
+Text 32448868:	in_silico
+Text 32448926:	other
+Text 32448927:	other
+Text 32448931:	
+Text 32448933:	other
+Text 32448934:	other
+Text 32448951:	human
+Text 32448977:	in_vivo
+Text 32448978:	immortal_cell_line
+Text 32448990:	other
+Text 32448996:	other
+Text 32449010:	human
+Text 32449023:	other
+Text 32449024:	human
+Text 32449041:	human
+Text 32449050:	in_vivo,primary_cells
+Text 32449059:	other
+Text 32449073:	in_silico
+Text 32449093:	other
+Text 32449103:	other
+Text 32449110:	human
+Text 32449122:	human,in_vivo
+Text 32449130:	human
+Text 32449134:	other
+Text 32449137:	other
+Text 32449152:	other
+Text 32449178:	other
+Text 32449228:	
+Text 32449258:	in_vivo
+Text 32449270:	
+Text 32449271:	in_silico,in_vivo
+Text 32449286:	
+Text 32449289:	other
+Text 32449290:	in_silico,other,in_vivo
+Text 32449296:	human
+Text 32449301:	other
+Text 32449311:	other
+Text 32449313:	in_vivo
+Text 32449325:	other
+Text 32449335:	other
+Text 32449338:	other
+Text 32449368:	other
+Text 32449375:	other
+Text 32449393:	
+Text 32449404:	
+Text 32449410:	other
+Text 32449423:	other
+Text 32449426:	other
+Text 32449446:	other
+Text 32449448:	human
+Text 32449460:	human
+Text 32449464:	other
+Text 32449470:	other
+Text 32449471:	other
+Text 32449485:	
+Text 32449486:	other
+Text 32449488:	other
+Text 32449493:	other
+Text 32449495:	other
+Text 32449496:	
+Text 32449523:	
+Text 32449527:	other
+Text 32449528:	human
+Text 32449533:	in_silico
+Text 32449534:	other
+Text 32449541:	other
+Text 32449542:	human
+Text 32449544:	other
+Text 32449555:	other
+Text 32449577:	other
+Text 32449585:	other
+Text 32449611:	other
+Text 32449647:	other
+Text 32449677:	human
+Text 32449680:	other
+Text 32449687:	
+Text 32449707:	in_vivo
+Text 32449735:	in_vivo
+Text 32449782:	other
+Text 32449791:	human
+Text 32449833:	human
+Text 32449839:	
+Text 32449845:	other
+Text 32449861:	other
+Text 32449865:	in_vivo
+Text 32449866:	human
+Text 32449869:	human
+Text 32449870:	other
+Text 32449872:	other
+Text 32449874:	other
+Text 32449875:	other
+Text 32449879:	other
+Text 32449895:	other
+Text 32449904:	other
+Text 32449919:	
+Text 32449935:	human
+Text 32449942:	human
+Text 32449944:	other
+Text 32449956:	other
+Text 32449959:	other
+Text 32449965:	other
+Text 32449975:	other
+Text 32450016:	in_vivo
+Text 32450023:	in_vivo
+Text 32450052:	in_vivo
+Text 32450057:	
+Text 32450061:	other
+Text 32450062:	
+Text 32450066:	immortal_cell_line
+Text 32450077:	other
+Text 32450086:	
+Text 32450113:	other,human
+Text 32450123:	other
+Text 32450129:	in_vivo
+Text 32450141:	
+Text 32450156:	other
+Text 32450185:	other
+Text 32450187:	primary_cells
+Text 32450195:	organs
+Text 32450217:	other
+Text 32450268:	in_vivo
+Text 32450273:	human
+Text 32450287:	in_vivo
+Text 32450293:	in_vivo
+Text 32450296:	organs
+Text 32450297:	organs,in_vivo,primary_cells
+Text 32450313:	other
+Text 32450347:	in_vivo
+Text 32450359:	other
+Text 32450360:	other
+Text 32450375:	other
+Text 32450384:	in_silico
+Text 32450409:	other
+Text 32450411:	other
+Text 32450414:	human
+Text 32450415:	other,human
+Text 32450443:	other
+Text 32450444:	human
+Text 32450445:	other,human
+Text 32450446:	other
+Text 32450451:	human
+Text 32450472:	other
+Text 32450479:	other
+Text 32450487:	other
+Text 32450489:	
+Text 32450491:	other
+Text 32450497:	human
+Text 32450499:	other
+Text 32450507:	human
+Text 32450533:	other
+Text 32450545:	other
+Text 32450546:	other
+Text 32450547:	other
+Text 32450555:	human
+Text 32450559:	
+Text 32450569:	human
+Text 32450608:	other
+Text 32450613:	human
+Text 32450711:	other
+Text 32450722:	other
+Text 32450739:	other
+Text 32450744:	
+Text 32450747:	other
+Text 32450751:	other
+Text 32450753:	other
+Text 32450768:	in_vivo
+Text 32450769:	
+Text 32450779:	human,in_vivo
+Text 32450800:	other
+Text 32450801:	
+Text 32450808:	other
+Text 32450810:	other
+Text 32450818:	human
+Text 32450822:	other
+Text 32450825:	other
+Text 32450837:	
+Text 32450842:	other
+Text 32450843:	human
+Text 32450849:	other
+Text 32450852:	human
+Text 32450856:	other
+Text 32450867:	in_vivo
+Text 32450871:	other
+Text 32450873:	in_silico
+Text 32450880:	human
+Text 32450881:	in_vivo
+Text 32450882:	other
+Text 32450897:	in_vivo
+Text 32450902:	other
+Text 32450922:	human
+Text 32450923:	other
+Text 32450924:	other
+Text 32450927:	other
+Text 32450928:	human
+Text 32450944:	human
+Text 32450945:	other
+Text 32450946:	in_silico
+Text 32450992:	human
+Text 32450994:	
+Text 32450995:	
+Text 32450996:	
+Text 32450998:	in_vivo
+Text 32451000:	
+Text 32451010:	human
+Text 32451021:	other
+Text 32451109:	other
+Text 32451121:	other
+Text 32451125:	human
+Text 32451127:	other
+Text 32451132:	human
+Text 32451146:	other
+Text 32451157:	other
+Text 32451160:	human
+Text 32451184:	other
+Text 32451196:	other
+Text 32451201:	human
+Text 32451215:	other
+Text 32451250:	other
+Text 32451266:	other
+Text 32451275:	human
+Text 32451278:	other
+Text 32451289:	other
+Text 32451296:	other
+Text 32451304:	other
+Text 32451320:	other
+Text 32451356:	other
+Text 32451357:	other
+Text 32451358:	other
+Text 32451359:	other
+Text 32451372:	other
+Text 32451415:	in_vivo
+Text 32451417:	human
+Text 32451437:	other
+Text 32451470:	in_silico
+Text 32451482:	
+Text 32451485:	in_vivo
+Text 32451486:	other
+Text 32451491:	other,human
+Text 32451492:	other
+Text 32451501:	human,in_vivo
+Text 32451528:	human
+Text 32451568:	other
+Text 32451632:	
+Text 32451649:	other
+Text 32451664:	other
+Text 32451703:	
+Text 32451717:	immortal_cell_line
+Text 32451719:	human
+Text 32451740:	other
+Text 32451751:	other
+Text 32451761:	in_vivo
+Text 32451770:	
+Text 32451771:	other
+Text 32451814:	in_silico
+Text 32451826:	other
+Text 32451827:	other
+Text 32451840:	in_silico
+Text 32451841:	human
+Text 32451872:	human,in_vivo
+Text 32451879:	other
+Text 32451886:	other
+Text 32451907:	other
+Text 32451910:	in_vivo
+Text 32451916:	in_vivo
+Text 32451918:	human
+Text 32451948:	other
+Text 32451951:	other
+Text 32451953:	
+Text 32451955:	
+Text 32451956:	
+Text 32451978:	other
+Text 32451984:	human
+Text 32451985:	other
+Text 32451986:	other
+Text 32451987:	human
+Text 32452051:	other
+Text 32452069:	other
+Text 32452161:	human
+Text 32452212:	other
+Text 32452227:	other
+Text 32452238:	other
+Text 32452242:	other
+Text 32452275:	human
+Text 32452326:	
+Text 32452328:	
+Text 32452335:	other
+Text 32452346:	other
+Text 32452356:	other
+Text 32452382:	in_vivo
+Text 32452412:	in_silico
+Text 32452414:	in_vivo
+Text 32452432:	
+Text 32452437:	
+Text 32452453:	other
+Text 32452456:	other
+Text 32452461:	other
+Text 32452464:	in_silico
+Text 32452466:	other
+Text 32452511:	human
+Text 32452531:	
+Text 32452532:	other
+Text 32452537:	other
+Text 32452561:	human
+Text 32452568:	other
+Text 32452574:	human
+Text 32452616:	human
+Text 32452629:	other
+Text 32452638:	human
+Text 32452640:	other
+Text 32452641:	human
+Text 32452649:	other
+Text 32452662:	other
+Text 32452680:	in_vivo
+Text 32452694:	in_silico
+Text 32452704:	other
+Text 32452713:	in_silico,other
+Text 32452719:	
+Text 32452729:	other
+Text 32452769:	in_silico,in_vivo
+Text 32452818:	
+Text 32452827:	
+Text 32452835:	in_vivo
+Text 32452861:	
+Text 32452880:	other
+Text 32452881:	
+Text 32452942:	
+Text 32452958:	other
+Text 32452959:	
+Text 32452970:	other
+Text 32452971:	other
+Text 32453016:	other
+Text 32453018:	in_vivo
+Text 32453021:	in_vivo
+Text 32453022:	
+Text 32453025:	in_vivo
+Text 32453034:	other
+Text 32453061:	
+Text 32453073:	in_vivo
+Text 32453084:	other
+Text 32453090:	other
+Text 32453096:	other
+Text 32453098:	other
+Text 32453130:	other
+Text 32453132:	other
+Text 32453150:	
+Text 32453169:	other
+Text 32453183:	other
+Text 32453186:	human
+Text 32453233:	other
+Text 32453238:	other
+Text 32453241:	other
+Text 32453270:	organs
+Text 32453281:	other
+Text 32453282:	human
+Text 32453305:	human
+Text 32453327:	invertebrate
+Text 32453373:	other
+Text 32453374:	other
+Text 32453384:	other
+Text 32453401:	other
+Text 32453406:	
+Text 32453422:	in_vivo,primary_cells
+Text 32453424:	other
+Text 32453439:	other
+Text 32453448:	other
+Text 32453452:	other
+Text 32453453:	human
+Text 32453454:	other
+Text 32453478:	other
+Text 32453481:	other
+Text 32453488:	human
+Text 32453490:	other
+Text 32453511:	human
+Text 32453619:	other
+Text 32453623:	in_vivo
+Text 32453627:	other
+Text 32453637:	
+Text 32453668:	other
+Text 32453685:	other
+Text 32453707:	other,human
+Text 32453741:	in_vivo
+Text 32453744:	human,in_vivo,primary_cells
+Text 32453745:	other
+Text 32453762:	other
+Text 32453771:	other
+Text 32453787:	other
+Text 32453793:	other
+Text 32453797:	other
+Text 32453806:	other
+Text 32453816:	other
+Text 32453819:	other
+Text 32453823:	other
+Text 32453835:	
+Text 32453847:	
+Text 32453851:	other
+Text 32453874:	other
+Text 32453878:	
+Text 32453892:	human
+Text 32453948:	other
+Text 32454013:	other
+Text 32454038:	in_vivo
+Text 32454044:	other
+Text 32454050:	
+Text 32454051:	other
+Text 32454064:	
+Text 32454077:	
+Text 32454113:	other
+Text 32454115:	other
+Text 32454126:	in_vivo
+Text 32454127:	in_vivo
+Text 32454139:	in_silico
+Text 32454160:	in_vivo
+Text 32454161:	
+Text 32454163:	other
+Text 32454164:	human
+Text 32454193:	other
+Text 32454194:	other
+Text 32454198:	organs
+Text 32454200:	other
+Text 32454203:	human
+Text 32454227:	in_vivo
+Text 32454295:	other
+Text 32454300:	in_silico
+Text 32454302:	other
+Text 32454314:	human
+Text 32454319:	
+Text 32454388:	in_silico,other
+Text 32454389:	other
+Text 32454411:	in_vivo
+Text 32454413:	human
+Text 32454424:	other
+Text 32454436:	
+Text 32454438:	human
+Text 32454458:	
+Text 32454481:	other
+Text 32454486:	human
+Text 32454490:	other
+Text 32454501:	human
+Text 32454516:	other
+Text 32454791:	
+Text 32454804:	human
+Text 32454881:	in_silico
+Text 32454884:	in_silico
+Text 32454923:	human
+Text 32454931:	in_vivo
+Text 32454936:	in_vivo
+Text 32454938:	in_vivo
+Text 32454943:	in_vivo
+Text 32455436:	other
+Text 32455457:	in_vivo
+Text 32455482:	human
+Text 32455528:	
+Text 32455532:	
+Text 32455692:	
+Text 32455709:	in_vivo,primary_cells,immortal_cell_line
+Text 32455737:	in_vivo
+Text 32455769:	other
+Text 32455781:	in_vivo
+Text 32455791:	in_vivo
+Text 32455842:	in_vivo
+Text 32455895:	human
+Text 32455907:	organs,in_vivo
+Text 32455909:	in_vivo
+Text 32455936:	other
+Text 32455997:	human
+Text 32456003:	other
+Text 32456019:	other
+Text 32456058:	
+Text 32456086:	human
+Text 32456113:	human
+Text 32456156:	
+Text 32456164:	other
+Text 32456185:	
+Text 32456193:	in_vivo
+Text 32456197:	in_vivo
+Text 32456233:	human
+Text 32456241:	other
+Text 32456274:	
+Text 32456279:	other
+Text 32456281:	other
+Text 32456304:	
+Text 32456344:	other
+Text 32456353:	in_vivo
+Text 32456356:	human
+Text 32456443:	human
+Text 32456458:	
+Text 32456469:	human
+Text 32456475:	human
+Text 32456491:	
+Text 32456496:	human
+Text 32456504:	
+Text 32456505:	in_silico,human
+Text 32456512:	other
+Text 32456561:	in_vivo
+Text 32456610:	other
+Text 32456616:	other
+Text 32456617:	human
+Text 32456656:	other
+Text 32456669:	other
+Text 32456670:	other
+Text 32456677:	human
+Text 32456684:	other
+Text 32456686:	other
+Text 32456694:	primary_cells
+Text 32456710:	other
+Text 32456714:	other
+Text 32456715:	other
+Text 32456722:	other
+Text 32456725:	
+Text 32456730:	human
+Text 32456733:	
+Text 32456747:	
+Text 32456748:	human
+Text 32456772:	other
+Text 32456773:	other
+Text 32456851:	in_silico,human
+Text 32456884:	other
+Text 32456910:	other
+Text 32456942:	
+Text 32456946:	human
+Text 32456992:	other
+Text 32457002:	other
+Text 32457022:	other
+Text 32457038:	other
+Text 32457070:	in_vivo
+Text 32457073:	other
+Text 32457076:	in_vivo
+Text 32457123:	other
+Text 32457124:	human
+Text 32457126:	in_vivo
+Text 32457142:	in_silico
+Text 32457187:	other
+Text 32457188:	
+Text 32457190:	other
+Text 32457210:	human
+Text 32457211:	other
+Text 32457220:	other
+Text 32457221:	other
+Text 32457222:	other
+Text 32457224:	human
+Text 32457225:	in_silico
+Text 32457227:	human
+Text 32457247:	in_vivo
+Text 32457286:	
+Text 32457298:	primary_cells
+Text 32457322:	
+Text 32457323:	in_vivo
+Text 32457349:	in_vivo
+Text 32457352:	human
+Text 32457354:	human
+Text 32457374:	human
+Text 32457378:	in_silico
+Text 32457389:	in_silico
+Text 32457390:	other
+Text 32457400:	other
+Text 32457424:	other
+Text 32457446:	human
+Text 32457492:	human
+Text 32457513:	human
+Text 32457514:	other
+Text 32457515:	other
+Text 32457755:	human
+Text 32458066:	
+Text 32458107:	human
+Text 32458108:	other
+Text 32458109:	
+Text 32458143:	other
+Text 32458152:	other
+Text 32458154:	in_vivo
+Text 32458163:	other
+Text 32458164:	other
+Text 32458179:	other
+Text 32458190:	other
+Text 32458193:	human
+Text 32458196:	human
+Text 32458197:	
+Text 32458199:	other
+Text 32458213:	human
+Text 32458220:	other
+Text 32458249:	human
+Text 32458251:	human
+Text 32458252:	
+Text 32458253:	other
+Text 32458274:	other
+Text 32458275:	other
+Text 32458276:	human
+Text 32458277:	other
+Text 32458280:	human
+Text 32458283:	human
+Text 32458292:	human
+Text 32458299:	organs
+Text 32458300:	other
+Text 32458317:	human
+Text 32458336:	in_vivo
+Text 32458337:	human
+Text 32458340:	other
+Text 32458341:	
+Text 32458342:	other
+Text 32458343:	other
+Text 32458360:	
+Text 32458377:	other
+Text 32458386:	in_vivo
+Text 32458388:	in_vivo
+Text 32458404:	human
+Text 32458405:	in_vivo
+Text 32458435:	other
+Text 32458455:	other
+Text 32458490:	
+Text 32458529:	other
+Text 32458549:	other
+Text 32458550:	other
+Text 32458554:	human
+Text 32458557:	in_vivo
+Text 32458565:	other
+Text 32458590:	other
+Text 32458595:	in_vivo
+Text 32458691:	other
+Text 32458697:	
+Text 32458698:	
+Text 32458715:	human
+Text 32458719:	in_vivo
+Text 32458722:	other
+Text 32458731:	other
+Text 32458732:	human
+Text 32458733:	other
+Text 32458735:	other
+Text 32458758:	other
+Text 32458763:	other
+Text 32458767:	organs
+Text 32458773:	other
+Text 32458777:	other
+Text 32458779:	other
+Text 32458814:	other
+Text 32458815:	in_silico
+Text 32458851:	in_vivo
+Text 32458857:	
+Text 32459001:	
+Text 32459011:	human
+Text 32459015:	human
+Text 32459017:	other
+Text 32459024:	other
+Text 32459037:	in_vivo
+Text 32459039:	in_vivo
+Text 32459054:	human
+Text 32459063:	in_vivo
+Text 32459067:	other
+Text 32459080:	in_vivo
+Text 32459107:	other
+Text 32459110:	human
+Text 32459125:	human
+Text 32459131:	in_silico
+Text 32459133:	
+Text 32459136:	other
+Text 32459140:	other
+Text 32459157:	other
+Text 32459158:	other
+Text 32459159:	human
+Text 32459163:	other
+Text 32459215:	other
+Text 32459295:	other
+Text 32459315:	human,in_vivo
+Text 32459316:	human
+Text 32459328:	other
+Text 32459344:	in_silico
+Text 32459348:	other
+Text 32459355:	other
+Text 32459356:	in_silico
+Text 32459380:	other
+Text 32459387:	other
+Text 32459403:	other
+Text 32459404:	other
+Text 32459406:	other
+Text 32459407:	other
+Text 32459419:	human
+Text 32459430:	other
+Text 32459431:	other
+Text 32459446:	other
+Text 32459561:	other
+Text 32459564:	human
+Text 32459579:	other
+Text 32459601:	human
+Text 32459608:	other,human
+Text 32459634:	other
+Text 32459669:	human
+Text 32459673:	other
+Text 32459682:	human
+Text 32459694:	
+Text 32459704:	other
+Text 32459708:	in_vivo
+Text 32459709:	other
+Text 32459710:	other
+Text 32459714:	other
+Text 32459723:	human
+Text 32459726:	other
+Text 32459745:	other
+Text 32459763:	other
+Text 32459779:	other
+Text 32459841:	other
+Text 32459849:	other
+Text 32459856:	in_silico,human
+Text 32459923:	other
+Text 32459964:	in_silico
+Text 32459966:	
+Text 32459991:	in_vivo
+Text 32460044:	other
+Text 32460093:	other,in_vivo
+Text 32460115:	other
+Text 32460120:	other
+Text 32460123:	other
+Text 32460124:	other
+Text 32460130:	human
+Text 32460132:	other
+Text 32460137:	other,human
+Text 32460138:	human
+Text 32460142:	other
+Text 32460146:	other
+Text 32460156:	human
+Text 32460174:	other
+Text 32460184:	in_silico
+Text 32460186:	human
+Text 32460187:	in_vivo
+Text 32460194:	other
+Text 32460195:	other
+Text 32460196:	human
+Text 32460205:	other
+Text 32460206:	in_silico
+Text 32460217:	other
+Text 32460225:	other
+Text 32460254:	in_silico
+Text 32460290:	other
+Text 32460291:	other
+Text 32460296:	other
+Text 32460320:	
+Text 32460356:	human,in_vivo
+Text 32460436:	other
+Text 32460442:	other
+Text 32460516:	in_silico
+Text 32460517:	in_silico,other
+Text 32460523:	
+Text 32460539:	other
+Text 32460547:	other
+Text 32460548:	other
+Text 32460556:	other
+Text 32460571:	other
+Text 32460576:	
+Text 32460577:	other
+Text 32460582:	other
+Text 32460583:	human
+Text 32460590:	other
+Text 32460599:	other
+Text 32460605:	
+Text 32460617:	in_silico
+Text 32460621:	other
+Text 32460623:	other
+Text 32460675:	other
+Text 32460682:	other
+Text 32460683:	other
+Text 32460685:	other
+Text 32460716:	human
+Text 32460722:	other
+Text 32460724:	human
+Text 32460725:	human
+Text 32460729:	human
+Text 32460731:	other
+Text 32460746:	human
+Text 32460751:	human
+Text 32460755:	other
+Text 32460773:	other
+Text 32460778:	other
+Text 32460792:	other
+Text 32460799:	
+Text 32460803:	in_vivo
+Text 32460809:	other,human
+Text 32460813:	human
+Text 32460837:	other,human,in_vivo
+Text 32460840:	other
+Text 32460843:	human
+Text 32460854:	human
+Text 32460855:	
+Text 32460867:	other
+Text 32460883:	other
+Text 32460885:	other,human
+Text 32460886:	in_vivo
+Text 32460888:	human
+Text 32460896:	other
+Text 32460903:	other
+Text 32460904:	
+Text 32460912:	
+Text 32460926:	
+Text 32460930:	other
+Text 32460950:	other
+Text 32460959:	in_vivo
+Text 32460966:	other
+Text 32460972:	other
+Text 32460988:	other
+Text 32461019:	other
+Text 32461027:	in_vivo
+Text 32461031:	other
+Text 32461038:	other
+Text 32461044:	other
+Text 32461045:	other
+Text 32461054:	other
+Text 32461080:	in_vivo
+Text 32461083:	human
+Text 32461087:	human
+Text 32461088:	human
+Text 32461089:	other
+Text 32461102:	other
+Text 32461105:	human
+Text 32461112:	
+Text 32461127:	in_vivo
+Text 32461128:	human
+Text 32461129:	in_vivo
+Text 32461139:	in_vivo
+Text 32461140:	in_vivo
+Text 32461156:	
+Text 32461157:	other
+Text 32461175:	other
+Text 32461178:	in_silico
+Text 32461180:	other
+Text 32461184:	other
+Text 32461186:	in_vivo
+Text 32461229:	other
+Text 32461265:	in_vivo
+Text 32461282:	human
+Text 32461286:	other
+Text 32461290:	other
+Text 32461292:	other
+Text 32461308:	in_vivo
+Text 32461334:	in_vivo
+Text 32461353:	human
+Text 32461378:	other
+Text 32461399:	other
+Text 32461412:	other
+Text 32461486:	other,human
+Text 32461505:	human
+Text 32461507:	other,human
+Text 32461527:	human
+Text 32461546:	in_silico
+Text 32461552:	
+Text 32461572:	other
+Text 32461588:	in_vivo
+Text 32461638:	human
+Text 32461641:	
+Text 32461655:	
+Text 32461689:	other
+Text 32461697:	other
+Text 32461966:	human
+Text 32461971:	in_vivo
+Text 32461980:	other
+Text 32462001:	human
+Text 32462002:	in_vivo
+Text 32462027:	in_silico,in_vivo
+Text 32462037:	in_vivo
+Text 32462174:	human
+Text 32462186:	other
+Text 32462218:	other
+Text 32462292:	other
+Text 32462307:	other
+Text 32462312:	other
+Text 32462331:	
+Text 32462335:	other
+Text 32462345:	other
+Text 32462350:	other
+Text 32462353:	human
+Text 32462383:	human,in_vivo
+Text 32462388:	human
+Text 32462389:	other
+Text 32462396:	other
+Text 32462397:	human
+Text 32462407:	human
+Text 32462410:	other
+Text 32462411:	other
+Text 32462412:	other
+Text 32462427:	human
+Text 32462456:	other
+Text 32462457:	
+Text 32462490:	
+Text 32462496:	human
+Text 32462508:	other
+Text 32462513:	other
+Text 32462543:	
+Text 32462551:	
+Text 32462552:	in_vivo,primary_cells
+Text 32462556:	in_silico
+Text 32462562:	human
+Text 32462569:	other
+Text 32462572:	other
+Text 32462615:	
+Text 32462635:	
+Text 32462636:	other
+Text 32462643:	other
+Text 32462645:	other
+Text 32462685:	other
+Text 32462690:	other
+Text 32462696:	in_vivo
+Text 32462699:	human
+Text 32462728:	in_vivo
+Text 32462757:	
+Text 32462773:	human
+Text 32462776:	human
+Text 32462798:	other,human
+Text 32462814:	other
+Text 32462853:	human
+Text 32462893:	other
+Text 32462918:	other
+Text 32462923:	other
+Text 32462934:	human
+Text 32462946:	other
+Text 32462949:	human
+Text 32462951:	in_vivo
+Text 32462954:	human
+Text 32462955:	other
+Text 32462960:	human
+Text 32462962:	other
+Text 32462975:	other
+Text 32462980:	in_vivo
+Text 32462992:	
+Text 32462998:	other
+Text 32463007:	other
+Text 32463066:	other
+Text 32463068:	other
+Text 32463069:	other
+Text 32463070:	other
+Text 32463071:	human
+Text 32463072:	other
+Text 32463082:	
+Text 32463119:	other,in_vivo
+Text 32463125:	other
+Text 32463126:	other
+Text 32463128:	human
+Text 32463135:	other
+Text 32463164:	other
+Text 32463181:	in_vivo
+Text 32463185:	human
+Text 32463252:	human
+Text 32463253:	other
+Text 32463255:	other
+Text 32463262:	
+Text 32463265:	other
+Text 32463266:	
+Text 32463273:	other
+Text 32463282:	
+Text 32463283:	other
+Text 32463284:	other
+Text 32463285:	other
+Text 32463286:	
+Text 32463287:	
+Text 32463289:	other
+Text 32463298:	in_silico,other
+Text 32463304:	other
+Text 32463310:	human
+Text 32463316:	other
+Text 32463317:	other
+Text 32463332:	human
+Text 32463346:	other
+Text 32463349:	other
+Text 32463361:	in_vivo
+Text 32463364:	invertebrate
+Text 32463367:	in_silico
+Text 32463389:	other
+Text 32463395:	
+Text 32463428:	in_vivo
+Text 32463470:	human
+Text 32463472:	human,in_vivo
+Text 32463516:	other
+Text 32463535:	
+Text 32463542:	other
+Text 32463549:	human
+Text 32463554:	in_vivo,primary_cells
+Text 32463560:	other
+Text 32463563:	other
+Text 32463584:	
+Text 32463593:	
+Text 32463606:	other
+Text 32463627:	other
+Text 32463674:	other
+Text 32463701:	human
+Text 32463702:	other
+Text 32463713:	other
+Text 32463730:	other
+Text 32463782:	in_silico
+Text 32463785:	other
+Text 32463791:	in_vivo
+Text 32463880:	human
+Text 32463890:	
+Text 32463907:	
+Text 32463911:	other
+Text 32463912:	human
+Text 32463913:	other
+Text 32463923:	human
+Text 32463940:	in_silico
+Text 32464001:	in_vivo
+Text 32464049:	
+Text 32464051:	in_vivo
+Text 32464055:	in_vivo
+Text 32464096:	human,in_vivo
+Text 32464101:	
+Text 32464119:	in_vivo
+Text 32464121:	in_vivo
+Text 32464122:	in_vivo
+Text 32464133:	in_vivo
+Text 32464158:	other
+Text 32464159:	in_vivo
+Text 32464160:	in_vivo
+Text 32464173:	human
+Text 32464195:	in_silico
+Text 32464239:	
+Text 32464268:	
+Text 32464279:	
+Text 32464317:	in_vivo
+Text 32464321:	
+Text 32464339:	
+Text 32464340:	human
+Text 32464349:	other
+Text 32464351:	human
+Text 32464367:	other
+Text 32464424:	human
+Text 32464432:	other
+Text 32464467:	other
+Text 32464472:	human,in_vivo
+Text 32464484:	
+Text 32464489:	human
+Text 32464497:	in_silico
+Text 32464501:	
+Text 32464518:	human
+Text 32464520:	other
+Text 32464521:	human
+Text 32464528:	other
+Text 32464532:	other
+Text 32464533:	other
+Text 32464534:	human
+Text 32464535:	other
+Text 32464537:	human
+Text 32464541:	human
+Text 32464542:	other
+Text 32464580:	other,human
+Text 32464585:	other,human
+Text 32464588:	other
+Text 32464626:	other
+Text 32464632:	other
+Text 32464635:	in_vivo
+Text 32464636:	in_vivo
+Text 32464655:	
+Text 32464659:	human
+Text 32464672:	other
+Text 32464705:	other
+Text 32464707:	other
+Text 32464731:	other
+Text 32466098:	in_vivo
+Text 32466104:	in_vivo
+Text 32466107:	other
+Text 32466121:	
+Text 32466167:	human
+Text 32466216:	
+Text 32466222:	
+Text 32466248:	other
+Text 32466385:	in_vivo
+Text 32466476:	in_vivo
+Text 32466479:	other
+Text 32466489:	in_vivo,primary_cells
+Text 32466533:	other
+Text 32466541:	in_vivo
+Text 32466579:	
+Text 32466599:	other
+Text 32466601:	in_silico,in_vivo
+Text 32466610:	in_vivo
+Text 32466618:	other
+Text 32466659:	in_vivo
+Text 32466665:	other
+Text 32466667:	other
+Text 32466674:	other
+Text 32466679:	other
+Text 32466692:	
+Text 32466700:	human
+Text 32466708:	other
+Text 32466710:	in_vivo
+Text 32466716:	human
+Text 32466735:	other
+Text 32466736:	other
+Text 32466738:	other
+Text 32466739:	human
+Text 32466754:	other
+Text 32466761:	other
+Text 32466763:	other
+Text 32466767:	in_vivo
+Text 32466775:	other
+Text 32466776:	human
+Text 32466783:	in_vivo
+Text 32466798:	in_vivo,primary_cells
+Text 32466806:	other
+Text 32466811:	human
+Text 32466812:	other
+Text 32466813:	other
+Text 32466815:	other
+Text 32466842:	invertebrate
+Text 32466853:	in_vivo,primary_cells
+Text 32466863:	other
+Text 32466865:	
+Text 32466973:	other,human
+Text 32466981:	other
+Text 32466997:	other
+Text 32467017:	other
+Text 32467033:	other
+Text 32467039:	other
+Text 32467067:	other
+Text 32467068:	human
+Text 32467074:	other
+Text 32467104:	other
+Text 32467119:	human
+Text 32467120:	human
+Text 32467121:	human
+Text 32467130:	other
+Text 32467180:	other
+Text 32467181:	other
+Text 32467183:	other
+Text 32467184:	other
+Text 32467186:	other
+Text 32467189:	other
+Text 32467190:	other
+Text 32467191:	other
+Text 32467226:	human
+Text 32467230:	in_vivo
+Text 32467234:	in_vivo
+Text 32467244:	other
+Text 32467313:	other
+Text 32467323:	other
+Text 32467394:	other
+Text 32467399:	other
+Text 32467403:	other
+Text 32467412:	other
+Text 32467413:	other
+Text 32467414:	
+Text 32467415:	other
+Text 32467416:	other
+Text 32467425:	other
+Text 32467426:	other
+Text 32467436:	other
+Text 32467458:	in_vivo
+Text 32467467:	other
+Text 32467474:	other
+Text 32467491:	other
+Text 32467524:	other
+Text 32467542:	other
+Text 32467554:	other
+Text 32467570:	
+Text 32467579:	other
+Text 32467591:	
+Text 32467598:	other
+Text 32467645:	human
+Text 32467647:	in_vivo
+Text 32467648:	
+Text 32467967:	in_silico,other
+Text 32467973:	other
+Text 32467990:	other
+Text 32468005:	in_vivo
+Text 32468009:	in_vivo
+Text 32468017:	in_vivo,primary_cells
+Text 32468026:	other
+Text 32468033:	
+Text 32468038:	
+Text 32468039:	human
+Text 32468051:	in_vivo
+Text 32468058:	primary_cells
+Text 32468063:	
+Text 32468100:	in_vivo
+Text 32468101:	other
+Text 32468116:	
+Text 32468118:	other
+Text 32468130:	human
+Text 32468169:	other
+Text 32468195:	
+Text 32468214:	invertebrate
+Text 32468216:	human
+Text 32468217:	in_vivo
+Text 32468218:	in_vivo
+Text 32468235:	other
+Text 32468241:	other
+Text 32468248:	in_vivo
+Text 32468273:	human
+Text 32468275:	
+Text 32468305:	
+Text 32468308:	human
+Text 32468310:	human
+Text 32468311:	
+Text 32468312:	other
+Text 32468316:	other
+Text 32468328:	other
+Text 32468331:	other
+Text 32468345:	other
+Text 32468357:	other
+Text 32468391:	other
+Text 32468394:	other
+Text 32468395:	
+Text 32468396:	
+Text 32468400:	other
+Text 32468408:	other
+Text 32468438:	other
+Text 32468440:	
+Text 32468441:	in_vivo
+Text 32468442:	in_vivo
+Text 32468451:	in_silico,in_vivo
+Text 32468453:	
+Text 32468456:	human
+Text 32468458:	human
+Text 32468459:	other
+Text 32468460:	in_silico
+Text 32468463:	human
+Text 32468464:	
+Text 32468465:	
+Text 32468467:	
+Text 32468469:	human
+Text 32468470:	human
+Text 32468471:	human
+Text 32468473:	in_vivo
+Text 32468476:	other
+Text 32468478:	other
+Text 32468479:	other
+Text 32468480:	in_vivo
+Text 32468481:	in_silico
+Text 32468482:	
+Text 32468493:	in_vivo
+Text 32468495:	in_vivo
+Text 32468514:	in_vivo
+Text 32468524:	
+Text 32468526:	human
+Text 32468532:	other
+Text 32468533:	in_silico
+Text 32468535:	in_silico
+Text 32468537:	
+Text 32468544:	other
+Text 32468546:	in_vivo
+Text 32468561:	other
+Text 32468572:	other
+Text 32468593:	other
+Text 32468600:	human
+Text 32468611:	other
+Text 32468619:	
+Text 32468634:	other
+Text 32468641:	other
+Text 32468646:	human
+Text 32468661:	other
+Text 32468677:	other
+Text 32468713:	other
+Text 32468721:	human
+Text 32468725:	other
+Text 32468730:	human
+Text 32468731:	human
+Text 32468749:	human
+Text 32468763:	
+Text 32468770:	human
+Text 32468826:	other
+Text 32468831:	
+Text 32468832:	other
+Text 32468859:	other
+Text 32468877:	human
+Text 32468879:	other
+Text 32468880:	other
+Text 32468886:	in_vivo
+Text 32468889:	human
+Text 32468897:	other
+Text 32468900:	other
+Text 32468904:	human
+Text 32468915:	human
+Text 32468926:	other
+Text 32468955:	other
+Text 32468983:	in_silico
+Text 32469016:	in_vivo
+Text 32469049:	in_vivo
+Text 32469076:	other
+Text 32469098:	other
+Text 32469113:	other
+Text 32469116:	other
+Text 32469140:	human
+Text 32469142:	other
+Text 32469173:	in_vivo
+Text 32469180:	other,human
+Text 32469226:	other
+Text 32469269:	other
+Text 32469278:	other
+Text 32469282:	other
+Text 32469286:	other
+Text 32469288:	other
+Text 32469291:	other
+Text 32469322:	other
+Text 32469334:	other
+Text 32469390:	human
+Text 32469420:	
+Text 32469433:	
+Text 32469448:	
+Text 32469456:	
+Text 32469469:	in_vivo
+Text 32469604:	other
+Text 32469609:	human
+Text 32469640:	other
+Text 32469641:	
+Text 32469642:	
+Text 32469643:	other
+Text 32469644:	other
+Text 32469645:	
+Text 32469646:	other
+Text 32469682:	other
+Text 32469693:	other
+Text 32469698:	
+Text 32469699:	
+Text 32469700:	other
+Text 32469792:	human
+Text 32469795:	other
+Text 32469796:	human
+Text 32469798:	other
+Text 32469803:	human
+Text 32469804:	other
+Text 32469806:	other
+Text 32469810:	human
+Text 32469812:	other
+Text 32469813:	other
+Text 32469814:	other,human
+Text 32469815:	other
+Text 32469818:	other
+Text 32469819:	
+Text 32469821:	other
+Text 32469822:	other
+Text 32469824:	other
+Text 32469825:	other
+Text 32469830:	human
+Text 32469831:	other
+Text 32469832:	other
+Text 32469834:	other
+Text 32469835:	human
+Text 32469836:	human
+Text 32469838:	human
+Text 32469871:	
+Text 32469882:	other
+Text 32469899:	human
+Text 32469935:	in_vivo
+Text 32469937:	other
+Text 32469944:	in_silico
+Text 32469951:	human
+Text 32469955:	other
+Text 32469959:	other
+Text 32469963:	in_vivo
+Text 32469969:	other
+Text 32469975:	in_vivo
+Text 32469979:	in_vivo,immortal_cell_line
+Text 32469986:	in_vivo
+Text 32469991:	human
+Text 32470000:	human
+Text 32470024:	in_silico,human
+Text 32470084:	in_vivo
+Text 32470088:	other
+Text 32470145:	other
+Text 32470147:	human
+Text 32470177:	other,in_vivo
+Text 32470184:	other
+Text 32470230:	
+Text 32470264:	
+Text 32470325:	in_vivo
+Text 32470327:	invertebrate
+Text 32470336:	human,in_vivo
+Text 32470337:	
+Text 32470339:	human
+Text 32470351:	in_vivo
+Text 32470367:	in_vivo
+Text 32470376:	
+Text 32470382:	
+Text 32470386:	
+Text 32470396:	human
+Text 32470397:	human
+Text 32470421:	human
+Text 32470422:	human
+Text 32470423:	other
+Text 32470425:	other
+Text 32470481:	human
+Text 32470495:	in_vivo,primary_cells
+Text 32470496:	in_vivo
+Text 32470502:	in_vivo
+Text 32470505:	human
+Text 32470530:	other
+Text 32470553:	other
+Text 32470555:	other,human
+Text 32470565:	
+Text 32470572:	other
+Text 32470641:	
+Text 32470649:	organs,human
+Text 32470650:	other
+Text 32470667:	other
+Text 32470684:	
+Text 32470719:	other
+Text 32470720:	other
+Text 32470721:	other
+Text 32470722:	human
+Text 32470749:	in_vivo
+Text 32470752:	other
+Text 32470753:	other
+Text 32470754:	other
+Text 32470764:	other
+Text 32470780:	other
+Text 32470790:	
+Text 32470794:	other
+Text 32470824:	other
+Text 32470877:	in_vivo
+Text 32470905:	human
+Text 32470928:	other
+Text 32470941:	other
+Text 32470943:	other
+Text 32470970:	in_vivo
+Text 32470976:	other
+Text 32470985:	human
+Text 32470986:	other
+Text 32471036:	human
+Text 32471077:	in_silico
+Text 32471089:	
+Text 32471093:	other
+Text 32471143:	other
+Text 32471155:	in_silico
+Text 32471175:	in_vivo
+Text 32471196:	other
+Text 32471208:	
+Text 32471232:	human
+Text 32471239:	in_vivo
+Text 32471263:	in_vivo
+Text 32471267:	in_vivo
+Text 32471306:	
+Text 32471325:	other
+Text 32471341:	in_vivo
+Text 32471350:	other
+Text 32471359:	other
+Text 32471362:	other
+Text 32471371:	
+Text 32471373:	other
+Text 32471374:	other
+Text 32471376:	other
+Text 32471387:	other
+Text 32471396:	other
+Text 32471406:	other
+Text 32471407:	other
+Text 32471415:	other
+Text 32471438:	other
+Text 32471439:	other
+Text 32471464:	
+Text 32471468:	human
+Text 32471477:	human
+Text 32471478:	other
+Text 32471486:	human,in_vivo,primary_cells
+Text 32471492:	
+Text 32471497:	other
+Text 32471498:	other
+Text 32471513:	other
+Text 32471517:	in_vivo
+Text 32471543:	other
+Text 32471590:	other
+Text 32471591:	other
+Text 32471593:	
+Text 32471594:	
+Text 32471595:	
+Text 32471596:	
+Text 32471597:	
+Text 32471598:	
+Text 32471599:	
+Text 32471600:	other
+Text 32471601:	other
+Text 32471602:	other
+Text 32471666:	human
+Text 32471722:	other
+Text 32471737:	other
+Text 32471773:	human,in_vivo
+Text 32471775:	other
+Text 32471785:	other
+Text 32471799:	other
+Text 32471826:	other
+Text 32471827:	other
+Text 32471828:	other
+Text 32471843:	
+Text 32471895:	other
+Text 32471927:	other
+Text 32471970:	
+Text 32472017:	in_vivo
+Text 32472029:	
+Text 32472038:	other
+Text 32472044:	other
+Text 32472058:	other
+Text 32472075:	
+Text 32472088:	in_silico
+Text 32472116:	in_vivo
+Text 32472123:	other
+Text 32472148:	human
+Text 32472171:	
+Text 32472180:	other
+Text 32472183:	other
+Text 32472196:	
+Text 32472201:	other
+Text 32472205:	other
+Text 32472229:	other
+Text 32472234:	other
+Text 32472248:	
+Text 32472251:	other
+Text 32472286:	other
+Text 32472296:	human
+Text 32472308:	
+Text 32472314:	human
+Text 32472356:	other
+Text 32472378:	
+Text 32472387:	
+Text 32472393:	human
+Text 32472394:	human
+Text 32472396:	in_silico,human
+Text 32472419:	other
+Text 32472450:	human
+Text 32472460:	other
+Text 32472475:	other
+Text 32472476:	other
+Text 32472495:	other
+Text 32472557:	human
+Text 32472577:	other
+Text 32472594:	
+Text 32472598:	in_vivo
+Text 32472600:	other
+Text 32472628:	human
+Text 32472633:	
+Text 32472645:	other
+Text 32472649:	in_silico
+Text 32472658:	other
+Text 32472668:	other
+Text 32472677:	other
+Text 32472726:	other,in_vivo
+Text 32472727:	other
+Text 32472738:	
+Text 32472747:	other
+Text 32472753:	
+Text 32472754:	in_vivo
+Text 32472760:	human
+Text 32472762:	
+Text 32472775:	other
+Text 32472782:	human
+Text 32472784:	human
+Text 32472813:	human
+Text 32472829:	other
+Text 32472830:	other
+Text 32472832:	
+Text 32472833:	other
+Text 32472834:	other
+Text 32472835:	other
+Text 32472836:	
+Text 32472837:	other
+Text 32472838:	in_silico
+Text 32472839:	other
+Text 32472840:	human
+Text 32472841:	other
+Text 32472844:	other
+Text 32472878:	human
+Text 32472900:	in_vivo
+Text 32472922:	other
+Text 32472941:	other
+Text 32472944:	other
+Text 32472952:	
+Text 32472953:	human
+Text 32472959:	in_vivo
+Text 32472965:	human
+Text 32473002:	human
+Text 32473029:	
+Text 32473054:	in_silico
+Text 32473060:	other
+Text 32473062:	other
+Text 32473086:	human
+Text 32473110:	other
+Text 32473129:	other
+Text 32473148:	other
+Text 32473154:	in_vivo
+Text 32473160:	in_vivo
+Text 32473171:	in_vivo
+Text 32473177:	
+Text 32473190:	other
+Text 32473191:	in_vivo
+Text 32473192:	in_vivo
+Text 32473196:	in_vivo
+Text 32473227:	other
+Text 32473228:	human
+Text 32473247:	in_vivo
+Text 32473250:	other
+Text 32473256:	in_vivo
+Text 32473267:	other
+Text 32473276:	
+Text 32473307:	other
+Text 32473308:	other
+Text 32473332:	human
+Text 32473371:	in_vivo
+Text 32473382:	human
+Text 32473383:	human
+Text 32473401:	human
+Text 32473460:	in_vivo,primary_cells
+Text 32473464:	other
+Text 32473487:	
+Text 32473508:	in_silico
+Text 32473520:	other
+Text 32473521:	other
+Text 32473537:	other
+Text 32473541:	other
+Text 32473544:	
+Text 32473558:	in_vivo
+Text 32473575:	other
+Text 32473595:	other
+Text 32473609:	
+Text 32473620:	
+Text 32473621:	
+Text 32473622:	in_vivo
+Text 32473626:	human
+Text 32473633:	in_vivo
+Text 32473653:	other
+Text 32473724:	other
+Text 32473729:	other
+Text 32473756:	human
+Text 32473764:	other
+Text 32473787:	other
+Text 32473843:	
+Text 32473869:	in_vivo
+Text 32473875:	other
+Text 32473911:	human
+Text 32473930:	human
+Text 32473932:	human
+Text 32473933:	
+Text 32473965:	in_vivo
+Text 32474008:	other
+Text 32474013:	human
+Text 32474017:	in_vivo
+Text 32474027:	in_vivo
+Text 32474054:	in_vivo
+Text 32474063:	in_vivo
+Text 32474065:	human
+Text 32474066:	other
+Text 32474067:	human
+Text 32474069:	other
+Text 32474070:	human
+Text 32474088:	other
+Text 32474089:	other
+Text 32474091:	other
+Text 32474092:	other
+Text 32474095:	other
+Text 32474096:	other
+Text 32474098:	other
+Text 32474102:	other
+Text 32474112:	in_vivo
+Text 32474116:	other
+Text 32474117:	other
+Text 32474136:	
+Text 32474155:	
+Text 32474162:	in_vivo
+Text 32474163:	in_vivo
+Text 32474166:	other
+Text 32474173:	other
+Text 32474206:	other
+Text 32474220:	other
+Text 32474221:	human
+Text 32474226:	other
+Text 32474230:	other
+Text 32474231:	other
+Text 32474232:	other
+Text 32474252:	in_silico
+Text 32474255:	other
+Text 32474256:	other
+Text 32474282:	in_vivo
+Text 32474291:	other
+Text 32474306:	other
+Text 32474345:	other
+Text 32474346:	human
+Text 32474359:	
+Text 32474360:	other
+Text 32474361:	other
+Text 32474362:	
+Text 32474372:	other
+Text 32474373:	human
+Text 32474380:	other
+Text 32474382:	
+Text 32474392:	other
+Text 32474403:	human
+Text 32474411:	
+Text 32474432:	other
+Text 32474439:	other
+Text 32474445:	in_vivo
+Text 32474457:	human,in_vivo
+Text 32474459:	in_silico
+Text 32474465:	in_vivo
+Text 32474466:	other
+Text 32474467:	human
+Text 32474468:	other
+Text 32474469:	human
+Text 32474471:	other
+Text 32474472:	human
+Text 32474473:	human
+Text 32474563:	in_vivo
+Text 32474584:	human
+Text 32474588:	other
+Text 32474610:	in_vivo
+Text 32474633:	other
+Text 32474636:	other
+Text 32474639:	human
+Text 32474657:	human
+Text 32474665:	other,human
+Text 32474671:	in_silico
+Text 32474679:	human
+Text 32474742:	immortal_cell_line
+Text 32474744:	other
+Text 32474748:	other
+Text 32474754:	in_silico
+Text 32474805:	other
+Text 32474811:	human
+Text 32474813:	other
+Text 32474814:	other
+Text 32474831:	other
+Text 32474832:	in_vivo
+Text 32474833:	other
+Text 32474837:	other
+Text 32474858:	human
+Text 32474865:	human
+Text 32474867:	human
+Text 32474880:	other
+Text 32474887:	in_silico
+Text 32474898:	
+Text 32474899:	human
+Text 32474900:	in_vivo
+Text 32474901:	other
+Text 32474903:	human
+Text 32474904:	other
+Text 32474909:	other
+Text 32474921:	other
+Text 32474926:	other
+Text 32474941:	
+Text 32474945:	other
+Text 32474958:	
+Text 32474978:	other
+Text 32474986:	
+Text 32474993:	human
+Text 32474998:	in_vivo
+Text 32475008:	in_vivo
+Text 32475016:	other
+Text 32475029:	other
+Text 32475051:	in_vivo,primary_cells
+Text 32475059:	in_vivo
+Text 32475061:	in_vivo,primary_cells
+Text 32475084:	in_vivo,primary_cells
+Text 32475092:	other
+Text 32475102:	
+Text 32475123:	in_silico
+Text 32475125:	other
+Text 32475142:	other
+Text 32475149:	
+Text 32475153:	in_vivo
+Text 32475159:	other
+Text 32475166:	other
+Text 32475177:	human
+Text 32475182:	human
+Text 32475193:	other
+Text 32475194:	other
+Text 32475198:	in_silico
+Text 32475219:	other
+Text 32475222:	other
+Text 32475294:	human
+Text 32475320:	human
+Text 32475349:	human
+Text 32475359:	other
+Text 32475365:	
+Text 32475368:	other
+Text 32475479:	
+Text 32475480:	in_silico
+Text 32475481:	other
+Text 32475482:	
+Text 32475483:	other
+Text 32475484:	
+Text 32475485:	other
+Text 32475486:	in_silico
+Text 32475487:	other
+Text 32475488:	other
+Text 32475489:	other
+Text 32475490:	other
+Text 32475491:	other
+Text 32475492:	other
+Text 32475493:	
+Text 32475494:	other
+Text 32475519:	in_vivo
+Text 32475552:	in_vivo
+Text 32475622:	in_silico
+Text 32475696:	human
+Text 32475703:	human
+Text 32475705:	other
+Text 32475751:	human
+Text 32475814:	human
+Text 32475818:	other
+Text 32475825:	other
+Text 32475901:	other
+Text 32475934:	in_vivo
+Text 32475979:	in_silico,human
+Text 32475982:	other
+Text 32475989:	human,in_vivo
+Text 32475993:	other
+Text 32476005:	
+Text 32476013:	other
+Text 32476028:	other
+Text 32476057:	
+Text 32476073:	
+Text 32476095:	human
+Text 32476097:	in_silico
+Text 32476098:	
+Text 32476100:	other
+Text 32476125:	other
+Text 32476129:	
+Text 32476139:	human
+Text 32476163:	other
+Text 32476164:	human
+Text 32476165:	in_vivo
+Text 32476173:	human
+Text 32476174:	in_silico
+Text 32476175:	
+Text 32476201:	other
+Text 32476205:	other
+Text 32476210:	in_vivo,primary_cells,immortal_cell_line
+Text 32476212:	other
+Text 32476223:	human
+Text 32476225:	other
+Text 32476230:	in_silico
+Text 32476240:	other
+Text 32476269:	other
+Text 32476299:	other
+Text 32476312:	other
+Text 32476318:	in_vivo
+Text 32476418:	in_vivo
+Text 32476432:	
+Text 32476434:	other
+Text 32476438:	
+Text 32476441:	other
+Text 32476442:	other
+Text 32476444:	human
+Text 32476451:	other
+Text 32476454:	other
+Text 32476458:	human
+Text 32476466:	human
+Text 32476468:	other
+Text 32476476:	other
+Text 32476485:	other
+Text 32476500:	other
+Text 32476503:	other
+Text 32476523:	
+Text 32476553:	other
+Text 32476561:	other
+Text 32476565:	other
+Text 32476566:	other
+Text 32476572:	other
+Text 32476573:	other
+Text 32476584:	human
+Text 32476599:	other
+Text 32476601:	human
+Text 32476608:	in_vivo
+Text 32476609:	in_vivo
+Text 32476616:	human
+Text 32476617:	human
+Text 32476619:	
+Text 32476629:	other
+Text 32476630:	other
+Text 32476631:	other
+Text 32476632:	other
+Text 32476636:	human
+Text 32476637:	other
+Text 32476656:	human
+Text 32476788:	other
+Text 32476930:	other,human
+Text 32476933:	other
+Text 32476939:	human
+Text 32476961:	human
+Text 32477327:	
+Text 32477329:	human
+Text 32477494:	other
+Text 32477496:	in_vivo
+Text 32478401:	other
+Text 32478416:	other
+Text 32478424:	
+Text 32478444:	
+Text 32478452:	
+Text 32478479:	other
+Text 32478488:	human
+Text 32478528:	in_silico,other
+Text 32478530:	other
+Text 32478531:	other
+Text 32478533:	other
+Text 32478539:	
+Text 32478540:	
+Text 32478542:	
+Text 32478544:	
+Text 32478545:	other
+Text 32478547:	other
+Text 32478548:	other
+Text 32478549:	
+Text 32478550:	other
+Text 32478551:	
+Text 32478552:	other
+Text 32478556:	other
+Text 32478557:	other
+Text 32478558:	other
+Text 32478559:	other
+Text 32478561:	other
+Text 32478573:	other
+Text 32478574:	other
+Text 32478577:	
+Text 32478581:	other
+Text 32478586:	other
+Text 32478603:	other
+Text 32478604:	other
+Text 32478617:	human
+Text 32478631:	other
+Text 32478650:	
+Text 32478664:	
+Text 32478731:	in_vivo
+Text 32478732:	invertebrate
+Text 32478735:	other
+Text 32478737:	other
+Text 32478750:	invertebrate
+Text 32478802:	other
+Text 32478809:	other
+Text 32478816:	other
+Text 32478828:	other
+Text 32478836:	other
+Text 32478848:	other
+Text 32478863:	human
+Text 32478903:	in_vivo
+Text 32478914:	other
+Text 32478919:	other
+Text 32478924:	human
+Text 32478952:	human
+Text 32478956:	other
+Text 32478964:	
+Text 32478967:	other
+Text 32478972:	other
+Text 32478974:	human
+Text 32478983:	other
+Text 32479003:	in_vivo
+Text 32479008:	in_vivo
+Text 32479057:	other
+Text 32479125:	other
+Text 32479138:	
+Text 32479161:	other
+Text 32479169:	other
+Text 32479205:	other
+Text 32479209:	
+Text 32479210:	other
+Text 32479213:	other
+Text 32479224:	other
+Text 32479238:	other
+Text 32479244:	
+Text 32479249:	other
+Text 32479250:	in_vivo,primary_cells
+Text 32479306:	human
+Text 32479309:	other
+Text 32479311:	human
+Text 32479314:	other
+Text 32479315:	other
+Text 32479317:	human
+Text 32479318:	human
+Text 32479319:	human
+Text 32479320:	human
+Text 32479323:	
+Text 32479324:	human
+Text 32479325:	human,in_vivo
+Text 32479326:	other
+Text 32479327:	
+Text 32479328:	human
+Text 32479331:	other
+Text 32479333:	human
+Text 32479334:	human
+Text 32479335:	human
+Text 32479336:	other
+Text 32479351:	other
+Text 32479354:	other
+Text 32479358:	human
+Text 32479359:	
+Text 32479362:	other
+Text 32479504:	in_silico
+Text 32479533:	other
+Text 32479539:	other
+Text 32479548:	human
+Text 32479555:	human
+Text 32479557:	other
+Text 32479559:	human
+Text 32479584:	
+Text 32479602:	
+Text 32479623:	other
+Text 32479672:	
+Text 32479692:	other
+Text 32479696:	other
+Text 32479704:	other
+Text 32479708:	other
+Text 32479738:	other
+Text 32479743:	other
+Text 32479765:	other,human
+Text 32479773:	other
+Text 32479774:	other
+Text 32479779:	other
+Text 32479786:	human
+Text 32479798:	other
+Text 32479813:	in_vivo
+Text 32479832:	other
+Text 32479847:	in_vivo
+Text 32479848:	in_vivo
+Text 32479849:	in_vivo
+Text 32479850:	human
+Text 32479852:	in_vivo
+Text 32479854:	in_vivo
+Text 32479873:	other
+Text 32479882:	other
+Text 32479886:	in_vivo
+Text 32479907:	other
+Text 32479911:	human
+Text 32479927:	other
+Text 32479966:	other
+Text 32479968:	other
+Text 32479974:	in_vivo
+Text 32479982:	other
+Text 32479984:	in_vivo
+Text 32479993:	human,in_vivo
+Text 32479994:	human
+Text 32479996:	in_vivo
+Text 32480041:	in_vivo,primary_cells
+Text 32480043:	
+Text 32480044:	human
+Text 32480045:	human
+Text 32480046:	human
+Text 32480059:	other
+Text 32480060:	other
+Text 32480074:	other
+Text 32480076:	human
+Text 32480114:	other
+Text 32480115:	
+Text 32480116:	human
+Text 32480117:	human
+Text 32480118:	human
+Text 32480120:	other
+Text 32480139:	other
+Text 32480164:	in_vivo
+Text 32480194:	
+Text 32480195:	other
+Text 32480197:	human
+Text 32480198:	other
+Text 32480228:	in_vivo
+Text 32480232:	other
+Text 32480239:	other
+Text 32480242:	other
+Text 32480245:	
+Text 32480252:	human
+Text 32480282:	human
+Text 32480294:	other
+Text 32480295:	other
+Text 32480297:	other
+Text 32480305:	other
+Text 32480307:	human
+Text 32480308:	other
+Text 32480309:	human
+Text 32480310:	human
+Text 32480319:	human
+Text 32480359:	other
+Text 32480361:	other
+Text 32480363:	other
+Text 32480364:	other
+Text 32480366:	
+Text 32480367:	other
+Text 32480368:	other
+Text 32480369:	other
+Text 32480370:	other
+Text 32480371:	human
+Text 32480373:	other
+Text 32480374:	other
+Text 32480375:	other
+Text 32480376:	other
+Text 32480377:	other
+Text 32480378:	other
+Text 32480379:	other,human
+Text 32481268:	human
+Text 32481282:	human
+Text 32481286:	other
+Text 32481289:	other
+Text 32481290:	other
+Text 32481291:	human
+Text 32481294:	other
+Text 32481296:	other
+Text 32481300:	other
+Text 32481301:	other
+Text 32481310:	other
+Text 32481330:	other
+Text 32481331:	other
+Text 32481332:	human
+Text 32481348:	other
+Text 32481358:	other
+Text 32481359:	other
+Text 32481362:	human
+Text 32481370:	other
+Text 32481373:	other
+Text 32481377:	human
+Text 32481383:	other
+Text 32481389:	other
+Text 32481392:	human
+Text 32481397:	human
+Text 32481408:	other
+Text 32481440:	human
+Text 32481442:	other
+Text 32481444:	
+Text 32481451:	other
+Text 32481462:	human
+Text 32481472:	human
+Text 32481494:	in_vivo
+Text 32481502:	other
+Text 32481507:	primary_cells
+Text 32481555:	human
+Text 32481611:	in_vivo
+Text 32481615:	other
+Text 32481676:	human
+Text 32481723:	other
+Text 32481733:	human
+Text 32481740:	other
+Text 32482042:	other
+Text 32482072:	other
+Text 32482081:	human
+Text 32482118:	other
+Text 32482133:	human
+Text 32482159:	other
+Text 32482171:	other
+Text 32482176:	other
+Text 32482177:	other
+Text 32482180:	other
+Text 32482182:	human
+Text 32482189:	human
+Text 32482195:	in_silico
+Text 32482201:	other
+Text 32482284:	in_vivo
+Text 32482300:	other
+Text 32482301:	other
+Text 32482304:	other
+Text 32482305:	other
+Text 32482306:	other
+Text 32482326:	other
+Text 32482345:	other
+Text 32482388:	in_vivo
+Text 32482392:	
+Text 32482409:	in_vivo
+Text 32482485:	other
+Text 32482488:	other
+Text 32482490:	human
+Text 32482533:	in_vivo
+Text 32482535:	human
+Text 32482567:	other
+Text 32482573:	other
+Text 32482586:	other
+Text 32482619:	in_vivo
+Text 32482626:	human
+Text 32482627:	other
+Text 32482639:	in_vivo
+Text 32482834:	other
+Text 32482835:	other
+Text 32482841:	other
+Text 32482842:	other
+Text 32482912:	other
+Text 32482918:	other
+Text 32482919:	human
+Text 32482921:	other
+Text 32482968:	
+Text 32482969:	other
+Text 32482970:	
+Text 32482989:	other
+Text 32482992:	human
+Text 32482998:	in_vivo
+Text 32482999:	human
+Text 32483016:	other
+Text 32483017:	other
+Text 32483018:	human
+Text 32483019:	other
+Text 32483020:	other
+Text 32483066:	other
+Text 32483116:	in_vivo
+Text 32483122:	human
+Text 32483128:	other,in_vivo
+Text 32483145:	human
+Text 32483154:	in_vivo
+Text 32483200:	human
+Text 32483235:	other
+Text 32483249:	in_silico,in_vivo
+Text 32483253:	
+Text 32483257:	human
+Text 32483272:	in_silico
+Text 32483275:	other
+Text 32483278:	in_vivo
+Text 32483284:	human
+Text 32483304:	
+Text 32483336:	
+Text 32483341:	other
+Text 32483373:	in_vivo
+Text 32483429:	human,in_vivo
+Text 32483443:	human
+Text 32483456:	human,in_vivo
+Text 32483457:	in_vivo
+Text 32483519:	in_vivo
+Text 32483589:	other
+Text 32483593:	in_vivo
+Text 32483596:	other
+Text 32483606:	other
+Text 32483634:	human
+Text 32483639:	other
+Text 32483640:	other
+Text 32483642:	other
+Text 32483654:	in_vivo
+Text 32483676:	in_vivo
+Text 32483687:	other
+Text 32483689:	human
+Text 32483702:	in_silico,human
+Text 32483719:	human
+Text 32483766:	other
+Text 32483828:	
+Text 32483857:	other
+Text 32483860:	in_vivo
+Text 32483870:	other
+Text 32483931:	
+Text 32483932:	other
+Text 32483971:	human
+Text 32483974:	human
+Text 32483980:	other
+Text 32484000:	other
+Text 32484017:	human
+Text 32484019:	in_silico
+Text 32484024:	in_vivo
+Text 32484029:	other
+Text 32484040:	in_vivo
+Text 32484059:	other
+Text 32484060:	other
+Text 32484063:	in_vivo
+Text 32484070:	other
+Text 32484071:	other
+Text 32484084:	in_silico
+Text 32484106:	
+Text 32484110:	
+Text 32484111:	in_vivo
+Text 32484120:	other
+Text 32484125:	other
+Text 32484135:	other
+Text 32484136:	other
+Text 32484145:	other
+Text 32484148:	other
+Text 32484207:	other
+Text 32484210:	human,in_vivo
+Text 32484212:	other
+Text 32484252:	other
+Text 32484287:	human
+Text 32484293:	human
+Text 32484308:	in_vivo
+Text 32484321:	other
+Text 32484361:	other
+Text 32484365:	in_silico
+Text 32484385:	
+Text 32484387:	other
+Text 32484407:	human
+Text 32484415:	other
+Text 32484418:	other,human
+Text 32484441:	
+Text 32484501:	in_vivo
+Text 32484507:	in_vivo
+Text 32484532:	other
+Text 32484552:	
+Text 32484553:	other
+Text 32484555:	other
+Text 32484574:	in_vivo
+Text 32484578:	other
+Text 32484584:	other,human
+Text 32484608:	human
+Text 32484646:	
+Text 32484708:	other
+Text 32484719:	human
+Text 32484726:	human
+Text 32484732:	other
+Text 32484736:	other
+Text 32484738:	other
+Text 32484740:	human
+Text 32484742:	human
+Text 32484744:	other
+Text 32484756:	other
+Text 32484800:	in_vivo
+Text 32484805:	other
+Text 32484833:	in_silico
+Text 32484854:	other,human
+Text 32484880:	in_vivo
+Text 32484882:	other
+Text 32484883:	other
+Text 32484884:	other
+Text 32484886:	other
+Text 32484888:	other
+Text 32484891:	
+Text 32484895:	other
+Text 32484900:	other
+Text 32484913:	other,human
+Text 32484924:	in_vivo
+Text 32484984:	other
+Text 32484990:	other
+Text 32484999:	in_vivo
+Text 32485018:	other,human
+Text 32485033:	other
+Text 32485067:	human
+Text 32485075:	other
+Text 32485087:	human
+Text 32485089:	in_vivo
+Text 32485097:	other
+Text 32485115:	human
+Text 32485120:	other
+Text 32485122:	other
+Text 32485132:	human
+Text 32485136:	human
+Text 32485156:	other
+Text 32485172:	in_vivo
+Text 32485190:	other
+Text 32485199:	human
+Text 32485203:	other
+Text 32485213:	in_silico
+Text 32485218:	in_vivo
+Text 32485229:	human,in_vivo
+Text 32485235:	human
+Text 32485265:	other
+Text 32485266:	other
+Text 32485268:	in_vivo
+Text 32485287:	other,human
+Text 32485289:	other
+Text 32485290:	in_vivo
+Text 32485291:	in_vivo
+Text 32485301:	other
+Text 32485328:	other
+Text 32485342:	
+Text 32485345:	in_vivo
+Text 32485400:	human
+Text 32485420:	in_silico,other
+Text 32485421:	other
+Text 32485433:	human
+Text 32485434:	other
+Text 32485440:	other
+Text 32485470:	other
+Text 32485483:	human
+Text 32485484:	human
+Text 32485485:	human
+Text 32485486:	other
+Text 32485487:	other
+Text 32485517:	other
+Text 32485522:	other
+Text 32485544:	
+Text 32485546:	
+Text 32485547:	other
+Text 32485549:	
+Text 32485552:	other
+Text 32485575:	other
+Text 32485589:	
+Text 32485614:	other
+Text 32485621:	other
+Text 32485623:	human
+Text 32485644:	human
+Text 32485710:	human
+Text 32485711:	other
+Text 32485717:	other
+Text 32485726:	other
+Text 32485728:	other
+Text 32485775:	
+Text 32485780:	human
+Text 32485831:	in_vivo
+Text 32485857:	in_vivo,primary_cells
+Text 32485859:	other
+Text 32485956:	in_silico
+Text 32485966:	in_vivo
+Text 32486013:	in_vivo,immortal_cell_line
+Text 32486023:	invertebrate
+Text 32486031:	primary_cells
+Text 32486060:	immortal_cell_line
+Text 32486182:	other
+Text 32486191:	human
+Text 32486196:	human
+Text 32486205:	human
+Text 32486207:	in_vivo
+Text 32486218:	other
+Text 32486221:	
+Text 32486256:	human
+Text 32486276:	
+Text 32486285:	
+Text 32486294:	other
+Text 32486303:	human
+Text 32486316:	other
+Text 32486326:	in_vivo
+Text 32486358:	other
+Text 32486414:	
+Text 32486438:	immortal_cell_line
+Text 32486463:	human
+Text 32486466:	human,in_vivo
+Text 32486485:	
+Text 32486510:	human
+Text 32486606:	
+Text 32486607:	other
+Text 32486829:	other
+Text 32486845:	other
+Text 32486868:	other
+Text 32486877:	
+Text 32486881:	other
+Text 32486893:	in_vivo
+Text 32486896:	other
+Text 32486897:	
+Text 32486907:	other
+Text 32486909:	in_vivo
+Text 32486920:	other
+Text 32486924:	human
+Text 32486935:	human
+Text 32486961:	in_silico
+Text 32486965:	human
+Text 32486966:	other
+Text 32486967:	other
+Text 32486970:	in_vivo
+Text 32486998:	other
+Text 32487003:	human
+Text 32487007:	other
+Text 32487009:	other
+Text 32487024:	
+Text 32487026:	human
+Text 32487027:	other
+Text 32487032:	human
+Text 32487039:	human
+Text 32487050:	other
+Text 32487072:	other
+Text 32487084:	human
+Text 32487085:	other
+Text 32487100:	other
+Text 32487102:	other
+Text 32487114:	other
+Text 32487116:	human
+Text 32487119:	other
+Text 32487123:	
+Text 32487126:	human
+Text 32487127:	other
+Text 32487132:	other
+Text 32487145:	other
+Text 32487150:	other
+Text 32487179:	
+Text 32487194:	in_vivo
+Text 32487215:	human
+Text 32487219:	other
+Text 32487222:	other
+Text 32487236:	other
+Text 32487241:	human
+Text 32487250:	other
+Text 32487262:	in_silico
+Text 32487265:	in_vivo,primary_cells
+Text 32487276:	human
+Text 32487282:	human
+Text 32487285:	other
+Text 32487288:	other
+Text 32487318:	in_vivo,immortal_cell_line
+Text 32487365:	other
+Text 32487370:	other
+Text 32487421:	
+Text 32487449:	human
+Text 32487455:	other
+Text 32487465:	human
+Text 32487466:	other
+Text 32487476:	human
+Text 32487491:	
+Text 32487507:	human
+Text 32487528:	human
+Text 32487533:	human
+Text 32487556:	
+Text 32487590:	other
+Text 32487612:	immortal_cell_line
+Text 32487617:	human,in_vivo
+Text 32487621:	human
+Text 32487635:	other
+Text 32487641:	other
+Text 32487644:	other
+Text 32487650:	other
+Text 32487688:	
+Text 32487722:	other
+Text 32487764:	other
+Text 32487765:	in_vivo
+Text 32487766:	other
+Text 32487767:	human,in_vivo
+Text 32487768:	other
+Text 32487769:	other
+Text 32487770:	other
+Text 32487776:	other
+Text 32487794:	other,human
+Text 32487814:	other
+Text 32487817:	human
+Text 32487818:	other
+Text 32487898:	
+Text 32487900:	
+Text 32487901:	other
+Text 32487903:	
+Text 32487905:	
+Text 32487906:	
+Text 32487935:	other
+Text 32487945:	other
+Text 32487971:	human
+Text 32487972:	other
+Text 32487976:	other
+Text 32488011:	in_vivo
+Text 32488024:	
+Text 32488025:	
+Text 32488031:	in_vivo
+Text 32488064:	other
+Text 32488083:	
+Text 32488097:	human,in_vivo
+Text 32488109:	other
+Text 32488112:	in_vivo
+Text 32488114:	human
+Text 32488119:	
+Text 32488126:	other
+Text 32488128:	human
+Text 32488129:	organs
+Text 32488153:	
+Text 32488168:	in_vivo
+Text 32488170:	in_vivo
+Text 32488195:	other
+Text 32488209:	human
+Text 32488210:	other
+Text 32488238:	human
+Text 32488246:	in_vivo
+Text 32488259:	other
+Text 32488277:	human
+Text 32488283:	other
+Text 32488286:	
+Text 32488294:	other,human
+Text 32488295:	other
+Text 32488296:	other
+Text 32488297:	human
+Text 32488298:	other
+Text 32488304:	other
+Text 32488307:	human
+Text 32488353:	in_silico
+Text 32488355:	in_silico,human
+Text 32488372:	in_silico,human
+Text 32488404:	human
+Text 32488411:	other
+Text 32488423:	human
+Text 32488456:	
+Text 32488469:	in_vivo
+Text 32488472:	human
+Text 32488473:	human
+Text 32488474:	other
+Text 32488482:	in_vivo
+Text 32488523:	other
+Text 32488539:	in_vivo
+Text 32488543:	in_vivo
+Text 32488568:	in_silico,other
+Text 32488571:	other
+Text 32488582:	other
+Text 32488583:	other
+Text 32488636:	
+Text 32488697:	in_vivo,immortal_cell_line
+Text 32488741:	other
+Text 32488759:	other
+Text 32488760:	other
+Text 32488778:	in_vivo
+Text 32488806:	other
+Text 32488810:	other
+Text 32488820:	other
+Text 32488826:	other
+Text 32488831:	human
+Text 32488843:	in_vivo
+Text 32488844:	in_vivo
+Text 32488845:	in_silico,other
+Text 32488846:	in_vivo
+Text 32488847:	in_vivo
+Text 32488869:	other
+Text 32488870:	in_vivo
+Text 32488884:	in_silico
+Text 32488889:	human
+Text 32488890:	human
+Text 32488891:	other
+Text 32488924:	other
+Text 32488931:	other
+Text 32488935:	other
+Text 32488936:	other
+Text 32488942:	other
+Text 32488963:	in_vivo
+Text 32488964:	other
+Text 32488976:	in_vivo
+Text 32488980:	human
+Text 32488994:	other,human
+Text 32489004:	human
+Text 32489010:	other
+Text 32489019:	in_silico
+Text 32489021:	other
+Text 32489085:	human
+Text 32489109:	other
+Text 32489136:	other
+Text 32489137:	in_vivo
+Text 32489161:	other
+Text 32489165:	
+Text 32489190:	other
+Text 32489191:	other
+Text 32489193:	human
+Text 32489194:	
+Text 32489197:	human
+Text 32489775:	other
+Text 32489805:	other
+Text 32490384:	other
+Text 32490395:	other
+Text 32490401:	human
+Text 32490497:	in_vivo
+Text 32490526:	in_vivo,immortal_cell_line
+Text 32490553:	other
+Text 32490559:	other
+Text 32490573:	other
+Text 32490597:	other
+Text 32490643:	other
+Text 32490647:	organs,in_vivo
+Text 32490683:	other
+Text 32490697:	human
+Text 32490698:	human
+Text 32490721:	human
+Text 32490725:	other
+Text 32490737:	other
+Text 32490757:	
+Text 32490799:	other
+Text 32490831:	human
+Text 32490939:	
+Text 32490943:	other
+Text 32490946:	human
+Text 32490954:	human
+Text 32490956:	
+Text 32490964:	other
+Text 32490966:	other
+Text 32490967:	other
+Text 32490968:	other,human
+Text 32490969:	human
+Text 32491023:	other
+Text 32491031:	other
+Text 32491033:	other
+Text 32491035:	
+Text 32491036:	other
+Text 32491038:	human
+Text 32491042:	other
+Text 32491045:	human
+Text 32491089:	other
+Text 32491095:	other
+Text 32491110:	
+Text 32491123:	other
+Text 32491142:	human
+Text 32491148:	other
+Text 32491183:	other
+Text 32491184:	
+Text 32491189:	human
+Text 32491213:	human
+Text 32491215:	
+Text 32491225:	in_vivo
+Text 32491226:	other
+Text 32491231:	other
+Text 32491828:	in_vivo
+Text 32491921:	human
+Text 32491925:	in_vivo
+Text 32491927:	human,in_vivo
+Text 32491928:	in_silico
+Text 32491937:	human
+Text 32491955:	other
+Text 32491972:	other
+Text 32491988:	
+Text 32491994:	human,in_vivo
+Text 32492020:	
+Text 32492027:	other
+Text 32492037:	in_silico
+Text 32492054:	human
+Text 32492056:	in_vivo
+Text 32492059:	human
+Text 32492070:	human
+Text 32492073:	immortal_cell_line
+Text 32492074:	in_silico
+Text 32492080:	
+Text 32492085:	other
+Text 32492095:	other
+Text 32492143:	human
+Text 32492146:	
+Text 32492163:	other
+Text 32492184:	
+Text 32492202:	human
+Text 32492228:	other
+Text 32492248:	other
+Text 32492291:	human
+Text 32492332:	in_silico
+Text 32492356:	other
+Text 32492357:	other
+Text 32492388:	other
+Text 32492401:	other
+Text 32492409:	
+Text 32492415:	in_vivo
+Text 32492425:	in_vivo,primary_cells
+Text 32492427:	human
+Text 32492451:	in_vivo
+Text 32492510:	other
+Text 32492517:	
+Text 32492526:	
+Text 32492527:	other
+Text 32492537:	other
+Text 32492538:	in_vivo
+Text 32492539:	other
+Text 32492540:	human
+Text 32492541:	other
+Text 32492543:	human
+Text 32492547:	human
+Text 32492548:	human
+Text 32492550:	human
+Text 32492554:	other,human
+Text 32492579:	other
+Text 32492582:	in_silico
+Text 32492588:	human
+Text 32492609:	other
+Text 32492658:	in_silico,in_vivo
+Text 32492675:	in_vivo
+Text 32492677:	other
+Text 32492678:	other
+Text 32492689:	other
+Text 32492696:	other
+Text 32492703:	other
+Text 32492707:	human,in_vivo
+Text 32492728:	human
+Text 32492729:	other
+Text 32492755:	other
+Text 32492764:	other
+Text 32492886:	other
+Text 32492921:	in_silico,in_vivo
+Text 32492924:	other
+Text 32492952:	in_vivo
+Text 32492962:	in_vivo
+Text 32492968:	in_vivo
+Text 32492987:	
+Text 32493005:	other
+Text 32493018:	other
+Text 32493021:	human
+Text 32493022:	other
+Text 32493054:	other
+Text 32493056:	other
+Text 32493066:	other
+Text 32493074:	in_vivo
+Text 32493089:	human
+Text 32493097:	other
+Text 32493103:	other
+Text 32493127:	in_vivo
+Text 32493131:	other
+Text 32493132:	other
+Text 32493144:	human
+Text 32493149:	other
+Text 32493150:	other
+Text 32493177:	other
+Text 32493182:	other
+Text 32493183:	other
+Text 32493186:	human
+Text 32493188:	human
+Text 32493191:	
+Text 32493192:	
+Text 32493204:	other
+Text 32493206:	human
+Text 32493229:	other
+Text 32493239:	other
+Text 32493244:	human
+Text 32493250:	other
+Text 32493294:	other
+Text 32493309:	other
+Text 32493330:	other
+Text 32493347:	other
+Text 32493356:	other
+Text 32493417:	other,human
+Text 32493418:	other
+Text 32493419:	other
+Text 32493431:	human
+Text 32493451:	other,human
+Text 32493453:	
+Text 32493457:	
+Text 32493461:	human
+Text 32493476:	
+Text 32493480:	in_vivo
+Text 32493491:	in_vivo,immortal_cell_line
+Text 32493509:	in_vivo
+Text 32493516:	
+Text 32493520:	in_silico,other
+Text 32493524:	other
+Text 32493529:	
+Text 32493533:	other
+Text 32493557:	other
+Text 32493558:	other
+Text 32493562:	human
+Text 32493597:	other
+Text 32493599:	other
+Text 32493618:	other
+Text 32493652:	other
+Text 32493710:	other
+Text 32493717:	human
+Text 32493718:	other
+Text 32493749:	invertebrate
+Text 32493775:	other
+Text 32493787:	other
+Text 32493818:	immortal_cell_line
+Text 32493843:	in_silico,human,in_vivo,primary_cells
+Text 32493856:	human
+Text 32493881:	human
+Text 32493924:	other
+Text 32493926:	in_vivo
+Text 32493938:	other
+Text 32493939:	other
+Text 32493943:	other
+Text 32493955:	other
+Text 32493977:	human
+Text 32493984:	human
+Text 32493985:	human
+Text 32494010:	in_vivo,primary_cells
+Text 32494038:	other
+Text 32494054:	human
+Text 32494083:	other
+Text 32494662:	
+Text 32494688:	in_vivo
+Text 32494701:	human
+Text 32494809:	other
+Text 32494824:	other
+Text 32494835:	other
+Text 32494837:	other
+Text 32494849:	
+Text 32494850:	other
+Text 32494851:	other
+Text 32494852:	other
+Text 32494854:	other
+Text 32494887:	
+Text 32494889:	other
+Text 32494933:	in_vivo
+Text 32494945:	other
+Text 32494963:	other
+Text 32494970:	other
+Text 32494972:	in_vivo
+Text 32494974:	other,human
+Text 32494987:	other
+Text 32494988:	other
+Text 32494994:	other
+Text 32495005:	other
+Text 32495080:	other
+Text 32495122:	other
+Text 32495150:	other
+Text 32495180:	in_vivo
+Text 32495183:	in_vivo
+Text 32495195:	
+Text 32495206:	other
+Text 32495210:	
+Text 32495239:	other
+Text 32495248:	
+Text 32495249:	other
+Text 32495262:	other
+Text 32495267:	other
+Text 32495268:	
+Text 32495311:	
+Text 32495315:	in_vivo
+Text 32495322:	
+Text 32495338:	other
+Text 32495348:	in_vivo
+Text 32495371:	other
+Text 32495381:	
+Text 32495408:	other
+Text 32495449:	other
+Text 32495463:	
+Text 32495504:	other
+Text 32495505:	other
+Text 32495523:	in_vivo
+Text 32495635:	other
+Text 32495646:	in_vivo
+Text 32495656:	other
+Text 32495667:	human
+Text 32495670:	other
+Text 32495674:	other
+Text 32495675:	other
+Text 32495677:	other
+Text 32495690:	in_silico
+Text 32495691:	human
+Text 32495704:	other
+Text 32495706:	other
+Text 32495709:	
+Text 32495712:	other
+Text 32495723:	other
+Text 32495844:	other
+Text 32495846:	other
+Text 32495888:	human,in_vivo
+Text 32495897:	other
+Text 32495898:	other
+Text 32495909:	other
+Text 32495993:	human
+Text 32496034:	other
+Text 32496076:	
+Text 32496082:	in_silico
+Text 32496094:	other
+Text 32496096:	other
+Text 32496098:	
+Text 32496099:	
+Text 32496101:	other
+Text 32496102:	
+Text 32496103:	other
+Text 32496104:	human
+Text 32496105:	other
+Text 32496106:	
+Text 32496107:	other
+Text 32496112:	other
+Text 32496132:	
+Text 32496138:	other
+Text 32496139:	in_silico
+Text 32496155:	human
+Text 32496159:	in_vivo,primary_cells
+Text 32496203:	human
+Text 32496209:	in_vivo
+Text 32496282:	other
+Text 32496293:	other
+Text 32496295:	human
+Text 32496297:	human
+Text 32496344:	other
+Text 32496385:	other
+Text 32496387:	human
+Text 32496389:	
+Text 32496397:	other
+Text 32496398:	other
+Text 32496400:	other
+Text 32496424:	other
+Text 32496431:	other
+Text 32496448:	human
+Text 32496507:	other
+Text 32496514:	in_silico
+Text 32496519:	other
+Text 32496550:	other
+Text 32496556:	human
+Text 32496565:	other
+Text 32496566:	
+Text 32496572:	
+Text 32496579:	
+Text 32496584:	in_vivo
+Text 32496594:	other
+Text 32496599:	other
+Text 32496630:	other
+Text 32496635:	human
+Text 32496639:	other
+Text 32496649:	in_vivo,primary_cells
+Text 32496662:	other
+Text 32496807:	other
+Text 32496814:	
+Text 32496821:	other
+Text 32496822:	human
+Text 32496826:	
+Text 32496834:	human
+Text 32496837:	
+Text 32496844:	human
+Text 32496862:	other
+Text 32496877:	other
+Text 32496888:	other
+Text 32496889:	human
+Text 32496892:	human
+Text 32496894:	human
+Text 32496896:	in_silico
+Text 32496898:	in_vivo
+Text 32496900:	human
+Text 32496921:	
+Text 32496925:	other
+Text 32496928:	in_silico,other
+Text 32496935:	other
+Text 32496940:	other
+Text 32496941:	other
+Text 32496944:	other
+Text 32496952:	other
+Text 32496954:	other
+Text 32496962:	human
+Text 32496966:	other
+Text 32496969:	in_vivo
+Text 32496975:	other
+Text 32496992:	human
+Text 32496993:	in_vivo
+Text 32496994:	in_vivo
+Text 32497019:	human
+Text 32497045:	
+Text 32497046:	human
+Text 32497051:	other
+Text 32497064:	
+Text 32497066:	in_vivo
+Text 32497106:	in_silico
+Text 32497108:	other
+Text 32497111:	human
+Text 32497122:	other
+Text 32497124:	other
+Text 32497153:	other
+Text 32497181:	other
+Text 32497183:	other
+Text 32497197:	other
+Text 32497205:	other,human
+Text 32497239:	other
+Text 32497246:	
+Text 32497269:	human
+Text 32497280:	human
+Text 32497293:	human
+Text 32497326:	other
+Text 32497330:	other
+Text 32497340:	in_vivo
+Text 32497369:	other
+Text 32497391:	other
+Text 32497400:	in_vivo
+Text 32497421:	
+Text 32497438:	
+Text 32497441:	human
+Text 32497444:	other
+Text 32497448:	
+Text 32497449:	other,human
+Text 32497453:	
+Text 32497455:	other
+Text 32497456:	other
+Text 32497457:	other
+Text 32497458:	other
+Text 32497460:	other
+Text 32497463:	human
+Text 32497466:	other
+Text 32497470:	other
+Text 32497471:	in_vivo
+Text 32497504:	in_vivo
+Text 32497508:	
+Text 32497512:	in_vivo,primary_cells
+Text 32497528:	human
+Text 32497543:	other
+Text 32497552:	other
+Text 32497558:	other
+Text 32497560:	
+Text 32497578:	in_vivo
+Text 32497589:	
+Text 32497590:	in_vivo
+Text 32497592:	in_vivo
+Text 32497595:	organs
+Text 32497599:	other
+Text 32497600:	other
+Text 32497601:	other
+Text 32497602:	human
+Text 32497609:	other
+Text 32497661:	other
+Text 32497687:	in_vivo
+Text 32497710:	other,in_vivo
+Text 32497716:	other
+Text 32497722:	organs
+Text 32497735:	in_vivo
+Text 32497737:	human
+Text 32497760:	in_vivo
+Text 32497779:	human
+Text 32497846:	other
+Text 32497849:	other
+Text 32497850:	human
+Text 32497852:	human
+Text 32497876:	
+Text 32497877:	human
+Text 32497926:	other
+Text 32497936:	other
+Text 32497937:	human
+Text 32497944:	other,human
+Text 32497953:	other
+Text 32497957:	other
+Text 32497968:	human
+Text 32497976:	
+Text 32497977:	in_vivo
+Text 32497978:	other
+Text 32497986:	in_vivo
+Text 32497993:	other
+Text 32497995:	other
+Text 32498000:	other
+Text 32498004:	human
+Text 32498013:	other
+Text 32498034:	human
+Text 32498086:	other
+Text 32498120:	other
+Text 32498123:	other
+Text 32498144:	other
+Text 32498145:	other
+Text 32498348:	other
+Text 32498359:	human
+Text 32498400:	human
+Text 32498423:	other
+Text 32498426:	
+Text 32498539:	other
+Text 32498541:	human
+Text 32498545:	other
+Text 32498555:	
+Text 32498568:	other
+Text 32498577:	other
+Text 32498578:	human
+Text 32498582:	human
+Text 32498584:	in_silico
+Text 32498589:	other
+Text 32498602:	human
+Text 32498603:	other
+Text 32498631:	
+Text 32498633:	
+Text 32498636:	in_vivo
+Text 32498639:	other
+Text 32498641:	in_silico
+Text 32498648:	human
+Text 32498652:	in_vivo
+Text 32498658:	other
+Text 32498661:	other
+Text 32498662:	human
+Text 32498679:	human
+Text 32498684:	other
+Text 32498705:	human
+Text 32498710:	human
+Text 32498716:	human
+Text 32498728:	human
+Text 32498737:	other
+Text 32498743:	other
+Text 32498775:	other
+Text 32498778:	
+Text 32498781:	other
+Text 32498966:	other
+Text 32498981:	other
+Text 32498996:	in_silico
+Text 32499006:	other
+Text 32499013:	human
+Text 32499047:	
+Text 32499049:	other
+Text 32499061:	human
+Text 32499065:	other
+Text 32499076:	other
+Text 32499082:	other
+Text 32499099:	other
+Text 32499105:	
+Text 32499109:	other
+Text 32499112:	in_silico
+Text 32499119:	
+Text 32499121:	other
+Text 32499122:	human
+Text 32499162:	in_silico
+Text 32499163:	human
+Text 32499165:	other
+Text 32499189:	other
+Text 32499246:	other
+Text 32499247:	in_silico,other
+Text 32499248:	other
+Text 32499251:	other
+Text 32499260:	other
+Text 32499262:	other
+Text 32499267:	other
+Text 32499293:	human
+Text 32499327:	human
+Text 32499373:	in_vivo
+Text 32499386:	other
+Text 32499465:	other
+Text 32499476:	human
+Text 32499487:	other
+Text 32499508:	in_vivo
+Text 32499549:	
+Text 32499553:	
+Text 32499567:	human
+Text 32499611:	
+Text 32499618:	other
+Text 32499755:	other
+Text 32500052:	other
+Text 32500143:	human
+Text 32500209:	human
+Text 32500210:	in_vivo
+Text 32500211:	other
+Text 32500220:	other
+Text 32500222:	other
+Text 32500241:	other
+Text 32500254:	
+Text 32500272:	in_silico
+Text 32500277:	in_silico
+Text 32500298:	human
+Text 32500335:	other
+Text 32500347:	other
+Text 32500351:	other,human
+Text 32500352:	in_vivo,primary_cells
+Text 32500353:	in_vivo,primary_cells
+Text 32500373:	in_silico
+Text 32500377:	invertebrate
+Text 32500394:	human
+Text 32500402:	human
+Text 32500407:	
+Text 32500410:	other,human
+Text 32500421:	in_vivo
+Text 32500430:	
+Text 32500440:	in_vivo
+Text 32500445:	other
+Text 32500451:	other
+Text 32500455:	other
+Text 32500476:	human
+Text 32500477:	other
+Text 32500483:	
+Text 32500486:	human
+Text 32500511:	human
+Text 32500537:	other
+Text 32500567:	other
+Text 32500608:	other
+Text 32500613:	human
+Text 32500614:	
+Text 32500638:	human
+Text 32500646:	human
+Text 32500654:	other
+Text 32500657:	other
+Text 32500658:	
+Text 32500751:	other
+Text 32500754:	human
+Text 32500757:	other
+Text 32500761:	other
+Text 32500766:	other
+Text 32500767:	human
+Text 32500791:	other
+Text 32500800:	other
+Text 32500801:	human
+Text 32500804:	human
+Text 32500810:	other
+Text 32500822:	other
+Text 32500973:	other
+Text 32501031:	other
+Text 32501033:	other
+Text 32501039:	other
+Text 32501122:	human
+Text 32501129:	human
+Text 32501131:	human
+Text 32501132:	
+Text 32501154:	human
+Text 32501158:	in_vivo,primary_cells
+Text 32501178:	other
+Text 32501192:	other
+Text 32501194:	other
+Text 32501207:	other
+Text 32501258:	
+Text 32501273:	other
+Text 32501283:	invertebrate
+Text 32501291:	in_vivo
+Text 32501292:	in_vivo
+Text 32501495:	in_vivo
+Text 32501510:	in_vivo
+Text 32501516:	other
+Text 32501519:	other
+Text 32501525:	other
+Text 32501547:	human
+Text 32501569:	human
+Text 32501579:	other
+Text 32501580:	other
+Text 32501582:	other
+Text 32501595:	other
+Text 32501734:	other
+Text 32501751:	other
+Text 32501752:	other
+Text 32501768:	in_vivo
+Text 32501772:	in_silico
+Text 32501824:	other
+Text 32501888:	in_vivo
+Text 32501901:	other
+Text 32501914:	other
+Text 32501922:	other
+Text 32501923:	other
+Text 32501924:	other
+Text 32501925:	
+Text 32501926:	other
+Text 32501936:	other
+Text 32501944:	other
+Text 32501946:	human
+Text 32501947:	human
+Text 32501949:	human
+Text 32501950:	other
+Text 32501951:	other
+Text 32501952:	human
+Text 32501954:	human
+Text 32501963:	other
+Text 32501968:	other
+Text 32501974:	other
+Text 32501977:	other
+Text 32501979:	other
+Text 32501983:	other
+Text 32501986:	other
+Text 32501993:	other
+Text 32502007:	other
+Text 32502011:	other
+Text 32502017:	human
+Text 32502027:	human
+Text 32502032:	other
+Text 32502052:	other
+Text 32502073:	other
+Text 32502074:	other
+Text 32502089:	other
+Text 32502157:	other
+Text 32502161:	other
+Text 32502177:	other
+Text 32502181:	other
+Text 32502201:	in_vivo,primary_cells
+Text 32502204:	in_silico
+Text 32502207:	other
+Text 32502214:	other
+Text 32502218:	
+Text 32502221:	other
+Text 32502226:	other
+Text 32502253:	human
+Text 32502305:	human
+Text 32502330:	human
+Text 32502364:	other
+Text 32502369:	
+Text 32502379:	other
+Text 32502393:	in_vivo,invertebrate
+Text 32502412:	
+Text 32502459:	other
+Text 32502488:	in_vivo,primary_cells,immortal_cell_line
+Text 32502506:	other
+Text 32502508:	in_vivo
+Text 32502543:	in_silico,human
+Text 32502563:	human
+Text 32502564:	
+Text 32502565:	other
+Text 32502566:	other
+Text 32502567:	in_vivo,primary_cells
+Text 32502569:	in_vivo
+Text 32502570:	in_vivo
+Text 32502579:	in_vivo
+Text 32502580:	in_vivo
+Text 32502596:	in_vivo
+Text 32502599:	other
+Text 32502625:	human
+Text 32502626:	in_silico
+Text 32502631:	other
+Text 32502654:	other
+Text 32502669:	in_silico
+Text 32502678:	other
+Text 32502681:	other
+Text 32502701:	other
+Text 32502721:	other
+Text 32502722:	human
+Text 32502725:	other
+Text 32502755:	
+Text 32502795:	human
+Text 32502805:	other
+Text 32502806:	other
+Text 32502820:	other
+Text 32502831:	other
+Text 32502844:	other
+Text 32502845:	other
+Text 32502846:	other
+Text 32502851:	human
+Text 32502852:	in_silico
+Text 32502878:	human
+Text 32502879:	other
+Text 32502885:	
+Text 32502900:	
+Text 32502903:	
+Text 32502912:	other
+Text 32502918:	human
+Text 32502929:	other
+Text 32502930:	other
+Text 32502941:	
+Text 32502946:	other
+Text 32502991:	other
+Text 32502992:	human
+Text 32502994:	other
+Text 32502996:	other
+Text 32503002:	in_vivo
+Text 32503003:	other
+Text 32503036:	other
+Text 32503038:	other
+Text 32503055:	other
+Text 32503069:	other
+Text 32503084:	human
+Text 32503086:	other
+Text 32503158:	
+Text 32503161:	
+Text 32503201:	other
+Text 32503208:	in_vivo
+Text 32503220:	human
+Text 32503235:	other
+Text 32503252:	other
+Text 32503261:	other
+Text 32503345:	in_vivo,primary_cells
+Text 32503353:	other
+Text 32503366:	human
+Text 32503380:	human
+Text 32503385:	other
+Text 32503392:	human
+Text 32503395:	other
+Text 32503396:	other
+Text 32503408:	
+Text 32503409:	other
+Text 32503410:	other
+Text 32503413:	other
+Text 32503415:	other
+Text 32503425:	other
+Text 32503453:	human
+Text 32503463:	other
+Text 32503468:	
+Text 32503471:	other
+Text 32503473:	human
+Text 32503476:	other
+Text 32503481:	human
+Text 32503491:	other
+Text 32503495:	other
+Text 32503517:	
+Text 32503536:	other
+Text 32503537:	in_vivo
+Text 32503548:	human
+Text 32503560:	human
+Text 32503573:	other
+Text 32503574:	human
+Text 32503611:	
+Text 32503625:	human,in_vivo
+Text 32503628:	other
+Text 32503641:	
+Text 32503645:	human
+Text 32503649:	human
+Text 32503660:	
+Text 32503671:	in_vivo
+Text 32503694:	human,in_vivo
+Text 32503762:	other
+Text 32503786:	other
+Text 32503792:	other
+Text 32503804:	other
+Text 32503821:	in_silico
+Text 32503870:	human
+Text 32503871:	other
+Text 32503872:	in_silico,other
+Text 32503885:	in_vivo,primary_cells
+Text 32503894:	in_vivo
+Text 32503977:	in_vivo
+Text 32503991:	human
+Text 32504049:	human
+Text 32504082:	in_vivo
+Text 32504084:	in_vivo
+Text 32504085:	in_vivo
+Text 32504093:	human
+Text 32504117:	human
+Text 32504122:	other
+Text 32504127:	other
+Text 32504150:	other
+Text 32504153:	human
+Text 32504170:	other
+Text 32504171:	human
+Text 32504172:	
+Text 32504173:	human
+Text 32504174:	other
+Text 32504175:	
+Text 32504182:	human
+Text 32504197:	other
+Text 32504201:	other
+Text 32504220:	other
+Text 32504227:	other
+Text 32504255:	other
+Text 32504258:	
+Text 32504259:	in_silico
+Text 32504268:	human
+Text 32504269:	other
+Text 32504278:	other
+Text 32504302:	other
+Text 32504312:	in_vivo
+Text 32504326:	human
+Text 32504342:	other
+Text 32504377:	other
+Text 32504391:	in_vivo
+Text 32504392:	human
+Text 32504402:	other
+Text 32504404:	other
+Text 32504416:	
+Text 32504417:	in_vivo
+Text 32504502:	
+Text 32504503:	other
+Text 32504548:	in_vivo
+Text 32504549:	in_vivo
+Text 32504567:	other
+Text 32504576:	other
+Text 32504621:	primary_cells
+Text 32504632:	
+Text 32504636:	in_vivo
+Text 32504657:	other
+Text 32504695:	other,in_vivo
+Text 32504710:	
+Text 32504726:	human
+Text 32504737:	other
+Text 32504755:	in_silico
+Text 32504765:	in_vivo
+Text 32504779:	human
+Text 32504784:	in_vivo
+Text 32504792:	other
+Text 32504794:	in_vivo,immortal_cell_line
+Text 32504795:	in_vivo
+Text 32504811:	in_vivo
+Text 32504816:	other
+Text 32504827:	in_silico
+Text 32504847:	other
+Text 32504851:	other
+Text 32504853:	organs,human
+Text 32504870:	other
+Text 32504872:	
+Text 32504873:	other
+Text 32504880:	other
+Text 32504882:	other
+Text 32504886:	
+Text 32504887:	human
+Text 32504899:	other
+Text 32504914:	other
+Text 32504928:	other
+Text 32504929:	other
+Text 32504930:	human
+Text 32504931:	other
+Text 32504935:	human
+Text 32504936:	human
+Text 32504940:	
+Text 32504969:	other
+Text 32504981:	other
+Text 32505010:	other
+Text 32505011:	other
+Text 32505015:	other
+Text 32505023:	
+Text 32505025:	human
+Text 32505029:	human
+Text 32505031:	other
+Text 32505041:	in_silico,other
+Text 32505043:	
+Text 32505063:	other
+Text 32505067:	
+Text 32505082:	other
+Text 32505083:	
+Text 32505084:	
+Text 32505085:	other
+Text 32505098:	
+Text 32505114:	human
+Text 32505118:	human
+Text 32505119:	
+Text 32505122:	
+Text 32505123:	in_vivo
+Text 32505126:	
+Text 32505131:	human
+Text 32505173:	human
+Text 32505180:	human
+Text 32505187:	human
+Text 32505188:	in_vivo
+Text 32505190:	in_vivo
+Text 32505193:	human
+Text 32505201:	other
+Text 32505208:	other
+Text 32505212:	in_vivo
+Text 32505235:	in_vivo
+Text 32505258:	
+Text 32505260:	
+Text 32505261:	other
+Text 32505262:	other
+Text 32505350:	in_vivo
+Text 32505417:	in_silico
+Text 32505446:	other
+Text 32505448:	human
+Text 32505478:	other
+Text 32505479:	other
+Text 32505480:	other
+Text 32505485:	human
+Text 32505521:	other
+Text 32505657:	human
+Text 32505665:	other
+Text 32505683:	other
+Text 32505684:	other
+Text 32505691:	other
+Text 32505698:	other
+Text 32505701:	human
+Text 32505710:	
+Text 32505714:	in_vivo
+Text 32505745:	in_vivo
+Text 32505751:	human
+Text 32505757:	
+Text 32505793:	other
+Text 32505847:	
+Text 32505858:	
+Text 32505867:	other
+Text 32505868:	human
+Text 32505869:	other
+Text 32505870:	other
+Text 32505903:	human
+Text 32505904:	human
+Text 32505905:	other
+Text 32505925:	other
+Text 32505926:	human
+Text 32505927:	other
+Text 32505940:	human
+Text 32505966:	other
+Text 32505968:	other
+Text 32505969:	other
+Text 32505970:	other
+Text 32505982:	other
+Text 32505999:	
+Text 32506008:	human
+Text 32506071:	other
+Text 32506103:	other,human
+Text 32506117:	other
+Text 32506119:	other
+Text 32506121:	human,in_vivo
+Text 32506122:	other
+Text 32506125:	other
+Text 32506137:	other
+Text 32506161:	
+Text 32506166:	other
+Text 32506168:	human
+Text 32506170:	
+Text 32506171:	other
+Text 32506215:	
+Text 32506233:	
+Text 32506238:	in_vivo
+Text 32506247:	human
+Text 32506264:	other
+Text 32506276:	other
+Text 32506277:	other
+Text 32506291:	other
+Text 32506303:	human
+Text 32506304:	human
+Text 32506322:	primary_cells
+Text 32506330:	other
+Text 32506332:	other
+Text 32506341:	in_vivo
+Text 32506353:	human
+Text 32506354:	human
+Text 32506355:	other
+Text 32506357:	other
+Text 32506358:	human
+Text 32506363:	other
+Text 32506364:	other
+Text 32506367:	human
+Text 32506370:	other
+Text 32506371:	other
+Text 32506372:	other
+Text 32506374:	in_vivo
+Text 32506381:	in_vivo
+Text 32506389:	other
+Text 32506417:	
+Text 32506432:	other
+Text 32506444:	other
+Text 32506446:	human
+Text 32506457:	other
+Text 32506471:	other
+Text 32506472:	human,in_vivo
+Text 32506495:	human
+Text 32506500:	other
+Text 32506529:	other
+Text 32506549:	other
+Text 32506563:	human
+Text 32506564:	human
+Text 32506582:	human
+Text 32506588:	other
+Text 32506592:	other
+Text 32506655:	other,human
+Text 32506668:	other
+Text 32506697:	
+Text 32506713:	other
+Text 32506735:	other
+Text 32506773:	other
+Text 32506774:	other
+Text 32506776:	in_vivo
+Text 32506806:	in_vivo,primary_cells
+Text 32506860:	human
+Text 32506861:	human
+Text 32506864:	in_silico
+Text 32506921:	other
+Text 32506939:	other
+Text 32506958:	other
+Text 32506963:	
+Text 32506969:	other
+Text 32506988:	other
+Text 32506994:	
+Text 32507002:	other
+Text 32507007:	other
+Text 32507016:	other
+Text 32507023:	other
+Text 32507027:	
+Text 32507065:	other
+Text 32507067:	other
+Text 32507072:	in_vivo
+Text 32507073:	other
+Text 32507077:	
+Text 32507079:	other
+Text 32507080:	other
+Text 32507117:	other
+Text 32507119:	other
+Text 32507125:	other
+Text 32507126:	human
+Text 32507149:	human
+Text 32507150:	other
+Text 32507151:	human
+Text 32507240:	other
+Text 32507294:	other
+Text 32507349:	other
+Text 32507371:	other
+Text 32507372:	other,human
+Text 32507373:	other
+Text 32507375:	other
+Text 32507376:	other
+Text 32507378:	
+Text 32507380:	other
+Text 32507381:	human
+Text 32507388:	
+Text 32507389:	human
+Text 32507390:	human
+Text 32507413:	in_silico,other
+Text 32507414:	other
+Text 32507417:	
+Text 32507423:	other
+Text 32507448:	other
+Text 32507472:	other
+Text 32507479:	other
+Text 32507491:	other
+Text 32507506:	other
+Text 32507508:	human
+Text 32507511:	
+Text 32507525:	other
+Text 32507531:	other
+Text 32507532:	other
+Text 32507550:	human
+Text 32507583:	other
+Text 32507609:	other
+Text 32507621:	
+Text 32507622:	other
+Text 32507647:	other
+Text 32507653:	other
+Text 32507665:	other
+Text 32507666:	human
+Text 32507681:	other
+Text 32507683:	other
+Text 32507684:	other
+Text 32507685:	in_vivo,primary_cells
+Text 32507686:	other
+Text 32507747:	other
+Text 32507763:	human
+Text 32507767:	human
+Text 32507769:	primary_cells
+Text 32507787:	in_vivo
+Text 32507830:	other
+Text 32507845:	human
+Text 32507860:	other
+Text 32507878:	human
+Text 32507909:	other
+Text 32507919:	human
+Text 32507927:	in_vivo
+Text 32507929:	other
+Text 32507930:	other
+Text 32507939:	other
+Text 32507941:	human
+Text 32507948:	other
+Text 32507959:	other
+Text 32507996:	human
+Text 32507997:	in_vivo
+Text 32508019:	human
+Text 32508072:	
+Text 32508116:	other
+Text 32508117:	other
+Text 32508126:	other
+Text 32508128:	
+Text 32508132:	other
+Text 32508150:	primary_cells
+Text 32508153:	
+Text 32508159:	human
+Text 32508169:	other
+Text 32508178:	human
+Text 32508187:	other
+Text 32508188:	other
+Text 32508190:	other
+Text 32508191:	human
+Text 32508204:	other
+Text 32508212:	other
+Text 32508213:	other
+Text 32508224:	
+Text 32508226:	
+Text 32508229:	human
+Text 32508232:	other
+Text 32508248:	in_vivo
+Text 32508249:	human
+Text 32508262:	in_vivo
+Text 32508264:	other
+Text 32508271:	other
+Text 32508288:	other
+Text 32508291:	human
+Text 32508305:	human
+Text 32508315:	human
+Text 32508323:	human
+Text 32508324:	other
+Text 32508325:	other
+Text 32508326:	human
+Text 32508327:	human
+Text 32508330:	in_vivo
+Text 32508331:	other
+Text 32508332:	
+Text 32508333:	other
+Text 32508334:	
+Text 32508335:	other
+Text 32508337:	other
+Text 32508341:	human
+Text 32508342:	human
+Text 32508363:	human
+Text 32508364:	other
+Text 32508365:	
+Text 32508367:	
+Text 32508368:	human
+Text 32508528:	human
+Text 32508816:	in_vivo
+Text 32508974:	in_silico
+Text 32509037:	human
+Text 32509144:	
+Text 32509291:	other
+Text 32509315:	other
+Text 32509316:	other
+Text 32509596:	human
+Text 32509846:	human
+Text 32509850:	
+Text 32509855:	
+Text 32509858:	other
+Text 32509865:	human
+Text 32510106:	other
+Text 32510120:	
+Text 32510179:	
+Text 32510232:	
+Text 32510237:	other
+Text 32510242:	other
+Text 32510251:	
+Text 32510283:	other
+Text 32510284:	in_vivo
+Text 32510285:	other
+Text 32510306:	other
+Text 32510313:	other
+Text 32510331:	in_vivo
+Text 32510341:	in_vivo
+Text 32510491:	other
+Text 32510506:	other
+Text 32510570:	human
+Text 32510582:	human
+Text 32510611:	other
+Text 32510623:	other
+Text 32510649:	other
+Text 32510658:	human
+Text 32510674:	in_vivo
+Text 32510722:	other
+Text 32510737:	human
+Text 32510746:	other
+Text 32510756:	other
+Text 32510758:	
+Text 32510763:	in_vivo
+Text 32510764:	other
+Text 32510784:	other
+Text 32510786:	human
+Text 32510804:	other
+Text 32510815:	
+Text 32510847:	human,in_vivo
+Text 32510870:	
+Text 32510905:	other
+Text 32510958:	in_vivo
+Text 32510980:	other
+Text 32510981:	other
+Text 32510989:	other
+Text 32510990:	other
+Text 32511015:	other
+Text 32511017:	human
+Text 32511027:	
+Text 32511029:	human
+Text 32511043:	other
+Text 32511056:	other
+Text 32511115:	other
+Text 32511129:	other
+Text 32511161:	human
+Text 32511169:	other
+Text 32511173:	other
+Text 32511177:	other
+Text 32511228:	in_silico
+Text 32511265:	
+Text 32511273:	other
+Text 32511669:	other
+Text 32511690:	other
+Text 32511698:	other
+Text 32511705:	human
+Text 32511708:	other
+Text 32511718:	other
+Text 32511726:	
+Text 32511734:	human
+Text 32511749:	human
+Text 32511753:	other
+Text 32511754:	other
+Text 32511756:	human
+Text 32511765:	
+Text 32511778:	other
+Text 32511783:	human
+Text 32511812:	
+Text 32511817:	other
+Text 32511826:	in_vivo
+Text 32511896:	in_silico
+Text 32511904:	in_vivo,immortal_cell_line
+Text 32511937:	human
+Text 32511941:	in_silico
+Text 32511947:	in_vivo
+Text 32511967:	other
+Text 32512017:	
+Text 32512030:	
+Text 32512031:	primary_cells
+Text 32512114:	in_vivo
+Text 32512123:	other
+Text 32512126:	other
+Text 32512129:	in_vivo
+Text 32512131:	other
+Text 32512133:	other
+Text 32512134:	other
+Text 32512138:	in_vivo
+Text 32512184:	human
+Text 32512190:	other
+Text 32512249:	
+Text 32512250:	other
+Text 32512251:	human
+Text 32512252:	
+Text 32512270:	primary_cells
+Text 32512283:	other
+Text 32512284:	other
+Text 32512325:	
+Text 32512346:	other
+Text 32512349:	other
+Text 32512352:	
+Text 32512353:	human
+Text 32512354:	
+Text 32512355:	other
+Text 32512356:	other
+Text 32512357:	other
+Text 32512365:	human,in_vivo
+Text 32512366:	other
+Text 32512367:	other
+Text 32512368:	other
+Text 32512401:	other
+Text 32512402:	
+Text 32512406:	other
+Text 32512407:	other
+Text 32512414:	other
+Text 32512415:	other
+Text 32512472:	other
+Text 32512513:	human
+Text 32512529:	
+Text 32512530:	other
+Text 32512562:	other
+Text 32512565:	other
+Text 32512568:	human,in_vivo,primary_cells,immortal_cell_line
+Text 32512572:	
+Text 32512610:	
+Text 32512621:	other
+Text 32512634:	other
+Text 32512642:	in_vivo
+Text 32512644:	other
+Text 32512661:	other
+Text 32512675:	human
+Text 32512749:	in_silico
+Text 32512782:	human
+Text 32512809:	
+Text 32512924:	human
+Text 32512937:	other
+Text 32512953:	other,human
+Text 32512980:	other
+Text 32512987:	human
+Text 32513019:	other
+Text 32513037:	other
+Text 32513046:	other
+Text 32513052:	
+Text 32513067:	other
+Text 32513093:	other
+Text 32513116:	other
+Text 32513122:	human
+Text 32513133:	other
+Text 32513138:	other
+Text 32513140:	other
+Text 32513142:	other
+Text 32513174:	other
+Text 32513205:	other
+Text 32513209:	other
+Text 32513215:	other
+Text 32513219:	
+Text 32513237:	other
+Text 32513253:	in_vivo
+Text 32513259:	human
+Text 32513264:	other
+Text 32513275:	in_vivo
+Text 32513276:	human
+Text 32513281:	other
+Text 32513294:	human
+Text 32513306:	in_vivo
+Text 32513357:	human
+Text 32513362:	other
+Text 32513364:	other
+Text 32513368:	human
+Text 32513388:	organs,in_vivo
+Text 32513391:	human
+Text 32513423:	
+Text 32513424:	human
+Text 32513458:	other
+Text 32513460:	human
+Text 32513463:	human
+Text 32513469:	other
+Text 32513470:	other
+Text 32513472:	other
+Text 32513474:	other
+Text 32513498:	
+Text 32513518:	
+Text 32513532:	human,in_vivo
+Text 32513544:	human
+Text 32513546:	human
+Text 32513547:	
+Text 32513554:	in_silico,in_vivo
+Text 32513570:	
+Text 32513620:	other
+Text 32513621:	other
+Text 32513669:	in_vivo
+Text 32513670:	
+Text 32513671:	
+Text 32513674:	in_vivo
+Text 32513693:	in_silico,in_vivo
+Text 32513706:	other
+Text 32513711:	immortal_cell_line
+Text 32513764:	human
+Text 32513765:	human
+Text 32513786:	other
+Text 32513788:	other
+Text 32513800:	
+Text 32513809:	other
+Text 32513827:	in_silico
+Text 32513828:	in_vivo
+Text 32513829:	in_vivo
+Text 32513838:	in_vivo
+Text 32513840:	other
+Text 32513876:	other
+Text 32513880:	other
+Text 32513883:	other
+Text 32513889:	other
+Text 32513892:	other
+Text 32513915:	in_vivo,primary_cells
+Text 32513925:	other
+Text 32513931:	in_silico
+Text 32513936:	human
+Text 32513945:	other
+Text 32513956:	other
+Text 32513969:	
+Text 32514004:	in_vivo
+Text 32514044:	human
+Text 32514049:	in_silico,in_vivo
+Text 32514050:	human
+Text 32514053:	
+Text 32514061:	other
+Text 32514083:	human,in_vivo
+Text 32514095:	other
+Text 32514103:	in_vivo
+Text 32514139:	in_vivo
+Text 32514154:	human,in_vivo
+Text 32514159:	
+Text 32514166:	other
+Text 32514169:	human
+Text 32514217:	other
+Text 32514428:	
+Text 32514545:	other
+Text 32514567:	human
+Text 32514597:	other
+Text 32514603:	human
+Text 32514620:	other
+Text 32514635:	in_vivo
+Text 32514653:	
+Text 32514658:	in_vivo
+Text 32514696:	other
+Text 32514698:	human
+Text 32514709:	other
+Text 32514712:	other
+Text 32514728:	in_silico
+Text 32514751:	other
+Text 32514761:	other
+Text 32514785:	other
+Text 32514788:	in_vivo
+Text 32514809:	other
+Text 32514820:	human
+Text 32514858:	other
+Text 32514860:	other
+Text 32514863:	human
+Text 32514866:	other
+Text 32514871:	other
+Text 32514886:	human,in_vivo
+Text 32514891:	
+Text 32514905:	other
+Text 32514999:	other
+Text 32515017:	immortal_cell_line
+Text 32515018:	other
+Text 32515046:	human
+Text 32515058:	human
+Text 32515060:	other
+Text 32515073:	other
+Text 32515084:	other
+Text 32515096:	other
+Text 32515101:	human
+Text 32515106:	in_vivo
+Text 32515140:	other
+Text 32515141:	in_vivo
+Text 32515164:	other
+Text 32515206:	other
+Text 32515207:	in_vivo
+Text 32515229:	human
+Text 32515232:	in_vivo
+Text 32515234:	in_silico
+Text 32515239:	other
+Text 32515244:	other
+Text 32515259:	other
+Text 32515262:	other
+Text 32515264:	in_vivo
+Text 32515269:	other
+Text 32515271:	other
+Text 32515283:	other
+Text 32515293:	
+Text 32515294:	other
+Text 32515302:	human
+Text 32515310:	
+Text 32515311:	in_silico
+Text 32515315:	other
+Text 32515318:	
+Text 32515356:	other
+Text 32515359:	in_vivo
+Text 32515393:	
+Text 32515439:	in_vivo
+Text 32515486:	other
+Text 32515490:	invertebrate
+Text 32515510:	human
+Text 32515514:	other
+Text 32515522:	
+Text 32515527:	other
+Text 32515537:	
+Text 32515560:	other
+Text 32515603:	
+Text 32515637:	other
+Text 32515638:	other
+Text 32515646:	
+Text 32515671:	other
+Text 32515693:	other
+Text 32515694:	other
