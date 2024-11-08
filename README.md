@@ -14,7 +14,7 @@ Note:  For best performance, obtain an API Key from NCBI, and place the followin
 1. To obtain the initial set of relevant PMIDs, the database was queried using a generic search string related to CNS and Psychiatric conditions, as follows:
 
 ```
-esearch -db pubmed -query '(Central nervous system diseases[MeSH] OR Mental Disorders Psychiatric illness[MeSH]) AND English[lang]' | efetch -format uid > ./pubmed/cns_psychiatric_diseases_pmids_en.txt
+esearch -db pubmed -query '(Central nervous system diseases[MeSH] OR Mental Disorders OR Psychiatric illness[MeSH]) AND English[lang]' | efetch -format uid > "./cns_psychiatric_diseases_pmids_en_$(date +%Y%m%d).txt"
 ```
 
 2. Split into chunks of 5000 PMIDs per file, see [./scripts/split_pmids_to_chunks.sh](./scripts/split_pmids_to_chunks.sh)
