@@ -24,7 +24,7 @@ echo "Training/Dev/Test directory: $DATA_DIR"
 echo "Model script: $MODEL_SCRIPT"
 
 # Execute the Python script with specified parameters, and save both stdout and stderr to the same log file
-python $MODEL_SCRIPT --experiment_type "all" --n_epochs $EPOCHS --docs_dir $DOCS_DIR --train_dev_test_dir $DATA_DIR
+python $MODEL_SCRIPT --experiment_type "full_dataset" --n_epochs $EPOCHS --docs_dir $DOCS_DIR --train_dev_test_dir $DATA_DIR
 
 # Capture the end time
 end_time=$(date +%s)

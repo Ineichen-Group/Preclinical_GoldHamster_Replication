@@ -125,8 +125,10 @@ def predict_on_unlabeled_data(model_name, model_path, new_data_ids, new_data_tex
             predicted_labels = []
             pmid = new_data_ids[idx]
             for label in all_labels:
-                arr_pred = predictions[label][idx]
-                if arr_pred[1] > arr_pred[0]:  # Threshold can be adjusted
+                arr_pred = predictions[label][idx] # derived from the softmax output, which transforms the raw logits into probabilities that sum to 1 across the classes
+                probability_label_applies =  arr_pred[1] 
+                probability_label_does_not_apply = arr_pred[0] 
+                if probability_label_applies > probability_label_does_not_apply:  # Those probabilities should sum up to 1
                     predicted_labels.append(label)
             writer.write(f"{pmid}\t" + ",".join(predicted_labels) + "\n")
     print(f"Predictions saved to {out_file}")
