@@ -47,9 +47,11 @@ The outputs from those queries were stored in [./data/pubmed_queries/results_pmi
 This executes the following call:
 ```
 efetch -db pubmed -id "$id_list" -format xml | \
-    xtract -pattern PubmedArticle -tab '^!^' -def "N/A" \
+    xtract -pattern PubmedArticle -tab "|||" -def "N/A" \
     -element MedlineCitation/PMID PubDate/Year Journal/Title ArticleTitle AbstractText \
     -block ArticleId -if ArticleId@IdType -equals doi -element ArticleId \
+    -block PublicationTypeList -sep "+" -element PublicationType | \
+    awk -F'\t' '{gsub(/\t/, "|||", $0); print $0}' \
     > "$OUTPUT_FILE"
 ```
 
