@@ -1,6 +1,6 @@
 # Preclinical_goldhamster
 
-## Model training
+## Goldhamster-DS Model training
 
 We wanted to replicate the study by [Neves M, Klippert A, Knöspel F, et al. ](https://pubmed.ncbi.nlm.nih.gov/37658458/), following the steps:
 
@@ -25,11 +25,19 @@ Note:  For best performance, obtain an API Key from NCBI, and place the followin
 ```
   export NCBI_API_KEY=unique_api_key
 ```
-1. To obtain the initial set of relevant PMIDs, the database was queried using a generic search string related to CNS and Psychiatric conditions, as follows:
+1. To obtain the initial set of relevant PMIDs, the database was queried using several search string related to CNS and Psychiatric conditions, as follows:
+- CNS related free text search queries found in [./data/pubmed_queries/nervous_system/](./data/pubmed_queries/nervous_system/). Those were executed iteratively with the script [./scripts/pubmed_query_long.sh](./scripts/pubmed_query_long.sh). In addition MeSH based queries are in [./data/pubmed_queries/nervous_system/cns_mesh_1.txt](./data/pubmed_queries/nervous_system/cns_mesh_1.txt) and [./data/pubmed_queries/nervous_system/cns_mesh_2.txt](./data/pubmed_queries/nervous_system/cns_mesh_2.txt)
 
+- Psychiatric conditions related queries: see [./data/pubmed_queries/psychiatric/psychiatrich_query_used.txt](./data/pubmed_queries/psychiatric/psychiatrich_query_used.txt).
+
+
+The queries use the following syntax:
 ```
 esearch -db pubmed -query '(Central nervous system diseases[MeSH] OR Mental Disorders OR Psychiatric illness[MeSH]) AND English[lang]' | efetch -format uid > "./cns_psychiatric_diseases_pmids_en_$(date +%Y%m%d).txt"
 ```
+
+The outputs from those queries were stored in [./data/pubmed_queries/results_pmids/](./data/pubmed_queries/results_pmids/). They were then combined into a full list of PMIDs in [./PubMed_Query_PMIDs_List.ipynb](./PubMed_Query_PMIDs_List.ipynb).
+
 
 2. Split into chunks of 5000 PMIDs per file, see [./scripts/server/split_pmids_to_chunks.sh](./scripts/split_pmids_to_chunks.sh)
 
