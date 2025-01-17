@@ -34,7 +34,34 @@ efetch -db pubmed -id "$id_list" -format xml | \
     -element MedlineCitation/PMID PubDate/Year Journal/Title ArticleTitle AbstractText \
     -block ArticleId -if ArticleId@IdType -equals doi -element ArticleId \
     -block PublicationTypeList -sep "+" -element PublicationType | \
-    awk -F'\t' '{gsub(/\t/, "|||", $0); print $0}' \
+    awk -F '\\|\\|\\|' '
+    BEGIN {
+        OFS = "|||"
+    }
+    {
+        ################################################################
+        # 1) If the last field contains a tab, split it into two fields.
+        #    (Sometimes xtract lumps "DOI<TAB>PublicationType" together.)
+        ################################################################
+        n = split($NF, arr, /\t/)
+        if (n == 2) {
+            $NF = arr[1]          # e.g. the actual DOI
+            $(NF + 1) = arr[2]    # e.g. "Journal Article" (or other pub type)
+        }
+
+        ################################################################
+        # 2) If we only have 6 fields total, that means the DOI field
+        #    never appeared at all. Insert "N/A" as the 6th field,
+        #    pushing the last field (pub type) to 7th.
+        ################################################################
+        if (NF == 6) {
+            last_field = $NF
+            $NF = "N/A"           # new 6th field
+            $(NF + 1) = last_field   # push the original 6th field to 7th
+        }
+
+        print
+    }' \
     > "$OUTPUT_FILE"
 
 echo "Finished processing $CHUNK_FILE"
