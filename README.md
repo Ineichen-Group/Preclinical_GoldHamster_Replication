@@ -13,6 +13,14 @@ We wanted to replicate the study by [Neves M, Klippert A, Knöspel F, et al. ](h
 
 We chose the BioLinkBERT model due to it's slightly better performance.
 
+## Inference over StudyTypeTeller
+
+We prepared a version of the StudyTypeTeller dataset for inference of labels with the GoldHamster model. The data file is in [./data/study_type_teller/stt_full_ds_for_goldhamster.txt](./data/study_type_teller/stt_full_ds_for_goldhamster.txt). This was given as an --pubmed_file argument for the inference script.
+
+The inference code is in [./scripts/inference_bert_abstract_classifier_goldhamster_pytorch.py](./scripts/inference_bert_abstract_classifier_goldhamster_pytorch.py). And the resulting output predictions are in 
+[./data/study_type_teller/BioLinkBERT-base_pred_pubmed_chunk_goldhamster.txt](./data/study_type_teller/BioLinkBERT-base_pred_pubmed_chunk_goldhamster.txt).
+
+
 
 ## Collecting full data from PubMed 
 
@@ -41,8 +49,7 @@ The outputs from those queries were stored in [./data/pubmed_queries/results_pmi
 
 2. Split into chunks of 5000 PMIDs per file, see [./scripts/server/split_pmids_to_chunks.sh](./scripts/split_pmids_to_chunks.sh)
 
-3. Run parallel fetching of content on the surver, see [./scripts/server/fetch_pubmed_data_large.sh](./scripts/fetch_pubmed_data_large.sh
-)
+3. Run parallel fetching of content on the surver, see [./scripts/server/fetch_pubmed_data_large.sh](./scripts/fetch_pubmed_data_large.sh)
 
 This executes the following call:
 ```
